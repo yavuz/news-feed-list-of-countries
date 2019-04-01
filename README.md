@@ -3436,7 +3436,6 @@ Homepage and feeds url
 - [ntvmsnbc](http://ntvmsnbc.com/) - [Feed](http://www.ntvmsnbc.com/id/24927482/device/rss/rss.xml)
 - [Bugun](http://bugun.com.tr/) - [Feed](http://www.bugun.com.tr/haberler.xml)
 - [sporx](http://sporx.com/) - [Feed](http://www.sporx.com/_xml/rss.php)
-- [Zaman](http://zaman.com.tr/) - [Feed](http://www.zaman.com.tr/sondakika.rss)
 - [STAR](http://stargazete.com/) - [Feed](http://www.stargazete.com/rss/rss.asp)
 - [Türkiye Gazetesi](http://www.turkiyegazetesi.com.tr) - [Feed](http://www.turkiyegazetesi.com.tr/rss/rss.xml)
 - [Radikal-Rss (Son Dakika)](http://www.radikal.com.tr) - [Feed](http://www.radikal.com.tr/d/rss/RssSD.xml)
