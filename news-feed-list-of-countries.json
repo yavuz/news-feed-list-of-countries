@@ -12050,10 +12050,6 @@
 			"url": "http://sporx.com/",
 			"feedlink": "http://www.sporx.com/_xml/rss.php"
 		}, {
-			"name": "Zaman",
-			"url": "http://zaman.com.tr/",
-			"feedlink": "http://www.zaman.com.tr/sondakika.rss"
-		}, {
 			"name": "STAR",
 			"url": "http://stargazete.com/",
 			"feedlink": "http://www.stargazete.com/rss/rss.asp"
