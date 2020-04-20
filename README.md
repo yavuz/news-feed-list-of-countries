@@ -421,7 +421,7 @@ Homepage and feeds url
 - [Salzburger Nachrichten](http://salzburg.com/) - [Feed](http://www.salzburg.com/nachrichten/kategorie/8/rss.xml)
 - [Tiroler Tageszeitung](http://tt.com/) - [Feed](http://www.tt.com/rss/news.xml)
 - [Heute.at](http://heute.at/) - [Feed](http://www.heute.at/storage/rss/rss/heute.xml)
-- [LAOLA1.at](http://laola1.at/) - [Feed](http://www.laola1.at/content/rss/281.xml)
+- [LAOLA1.at](http://laola1.at/) - [Feed](https://www.laola1.at/templates/generated/1/xml/rss/newsRSS.xml)
 - [Vienna.at](http://vienna.at/) - [Feed](http://www.vienna.at/rss/om:vienna:bezirk:1200)
 - [wirtschaftsblatt.at](http://wirtschaftsblatt.at/) - [Feed](http://wirtschaftsblatt.at/rss/home)
 - [NÖN](http://noen.at/) - [Feed](http://www.n-ns.org/feed/)
