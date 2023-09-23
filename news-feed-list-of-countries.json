@@ -6748,6 +6748,20 @@
     "numcode": 332,
     "phonecode": 509,
     "newSources": [
+       {
+        "site": {
+          "title": "Balistrad",
+          "favicon": "https://balistrad.com/wp-content/uploads/2020/07/20200723_145703_0000.png",
+          "url": "https://balistrad.com"
+        },
+        "feedUrls": [
+          { "title": "Balistrad » Flux", "url": "https://balistrad.com/feed/" },
+          {
+            "title": "Balistrad » Flux des commentaires",
+            "url": "https://balistrad.com/comments/feed/"
+          }
+        ]
+      },
       {
         "site": {
           "title": "Grands Titres - METROPOLE",
