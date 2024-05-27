@@ -324,26 +324,16 @@ Homepage and feeds url
 
 ## Argentina
 
-- [Clar](http://clarin.com/) - [Feed](http://toclarity.wordpress.com/feed/)
-- [La Nacion](http://www.lanacion.com.ar/) - Feed
-- [Infobae](http://infobae.com/) - [Feed](http://cdn01.ib.infobae.com/adjuntos/162/rss/Infobae.xml)
-- [Ole](http://ole.com.ar/) - [Feed](http://edant.ole.com.ar/diario/ult_momento.xml)
-- [Teleshow](http://teleshow.infobae.com/) - [Feed](http://teleshow.com.ua/feed)
-- [Perfil.com](http://perfil.com/) - [Feed](http://www.perfil.com/rss/ultimomomento.xml)
-- [Ciudad.com](http://ciudad.com.ar/) - [Feed](http://www.ciudad.com.ar/rss.xml)
-- [La Voz](http://www.lavoz.com.ar/) - [Feed](http://www.lavoz.com.ar/rss.xml)
-- [TN](http://tn.com.ar/) - [Feed](http://tn.com.ar/flipboard)
-- [Terra Argentina](http://terra.com.ar/) - [Feed](http://noticias.terra.com.ar/rss/Controller?channelid=8acccfc5b29b6210VgnVCM10000074369ac8RCRD&ctName=atomo-noticia)
+- [Clar](http://clarin.com/) - [Feed](http://toclarity.wordpress.com/feed/) 
+- [Infobae](http://infobae.com/) - [Feed](https://www.infobae.com/feeds/rss/)
+- [Ole](http://ole.com.ar/) - [Feed](https://www.ole.com.ar/rss/ultimas-noticias) 
+- [Perfil.com](http://perfil.com/) - [Feed](https://www.perfil.com/feed)    
 - [canchallena.com](http://canchallena.lanacion.com.ar/) - [Feed](http://canchallena.feedsportal.com/rss)
-- [Pagina/12](http://pagina12.com.ar/) - [Feed](http://www.pagina12.com.ar/diario/rss/principal.xml)
+- [Pagina/12](http://pagina12.com.ar/) - [Feed](https://www.pagina12.com.ar/pagina/rss)
 - [iEco - Clarin.com](http://ieco.clarin.com/) - [Feed](http://www.ieco.clarin.com/rss/)
-- [Ambito.com](http://ambito.com/) - [Feed](http://ambito.com.sv/bodas/?feed=rss2)
-- [Playfutbol](http://playfutbol.infobae.com/) - [Feed](http://cdn01.pf.infobae.com/adjuntos/165/rss/ahora.xml)
-- [Diario Los Andes](http://losandes.com.ar/) - Feed
-- [Cadena3.com](http://cadena3.com/) - [Feed](http://www.cadena3.com/rss/Sociedad.xml)
-- [Infonews](http://infonews.com/) - [Feed](http://www.infonews.com/rss/infonews.xml)
+- [Ambito.com](http://ambito.com/) - [Feed](https://www.ambito.com/contenidos/rss.html)    
 - [PRIMICIAS YA](http://primiciasya.com/) - [Feed](http://www.primiciasya.com/servicios/rss/portada.xml)
-- [Diario UNO](http://diariouno.com.ar/) - [Feed](http://www.diariouno.com.ar/servicios/rss/portada.xml)
+- [Diario UNO](http://diariouno.com.ar/) - [Feed](https://www.diariouno.com.ar/rss)
 
 ## Armenia
 
