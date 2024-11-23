@@ -1,7 +1,21 @@
 Popular news feed sources of the countries
 ===================
 
-Homepage and feeds url
+![News](news.jpg)
+
+### About the Project
+
+This repository is dedicated to compiling media and news sources from countries around the world. It contains links to popular news websites and RSS feeds for each country, aiming to provide users easy access to these resources and keep them updated with current news.
+
+#### Invitation to Contribute
+If you have information about news sources related to your country, we would love for you to contribute to this project! Feel free to add media links or feed links, update existing information, or suggest new sources. Any support you provide will help enrich our project.
+
+#### Collaboration and Support
+By sharing your knowledge of news sources, we can strengthen this project together. Your contributions will help more people access accurate information. 
+
+Please contribute to making the flow of news around the world more accessible!
+
+Thank you!
 
 ----------
 ## Table of Contents
