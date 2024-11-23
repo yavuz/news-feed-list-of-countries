@@ -488,6 +488,7 @@ Homepage and feeds url
 - [Daily Star](http://thedailystar.net/) - [Feed](http://archive.thedailystar.net/beta2/rss-detail-news/?newsid=181667)
 - [Daily Sangram](http://dailysangram.com/) - [Feed](http://feeds.feedburner.com/DailySangram)
 - [jjdin.com](http://jjdin.com/) - [Feed](http://bangladeshreal.com/?feed=rss2)
+- [earther](https://earther.vercel.app/) - [Feed](https://earther.vercel.app/rss.xml)
 
 ## Barbados
 
