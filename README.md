@@ -338,16 +338,28 @@ Thank you!
 
 ## Argentina
 
-- [Clar](http://clarin.com/) - [Feed](http://toclarity.wordpress.com/feed/) 
-- [Infobae](http://infobae.com/) - [Feed](https://www.infobae.com/feeds/rss/)
-- [Ole](http://ole.com.ar/) - [Feed](https://www.ole.com.ar/rss/ultimas-noticias) 
-- [Perfil.com](http://perfil.com/) - [Feed](https://www.perfil.com/feed)    
-- [canchallena.com](http://canchallena.lanacion.com.ar/) - [Feed](http://canchallena.feedsportal.com/rss)
-- [Pagina/12](http://pagina12.com.ar/) - [Feed](https://www.pagina12.com.ar/pagina/rss)
-- [iEco - Clarin.com](http://ieco.clarin.com/) - [Feed](http://www.ieco.clarin.com/rss/)
-- [Ambito.com](http://ambito.com/) - [Feed](https://www.ambito.com/contenidos/rss.html)    
-- [PRIMICIAS YA](http://primiciasya.com/) - [Feed](http://www.primiciasya.com/servicios/rss/portada.xml)
-- [Diario UNO](http://diariouno.com.ar/) - [Feed](https://www.diariouno.com.ar/rss)
+- [Clarin](https://www.clarin.com/) - [Feed](https://www.clarin.com/rss/lo-ultimo/)
+- [La Nacion](https://www.lanacion.com.ar/) - [Feed](https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml)
+- [Infobae](https://www.infobae.com/) - [Feed](https://www.infobae.com/arc/outboundfeeds/rss/)
+- [Pagina/12](https://www.pagina12.com.ar/) - [Feed](https://www.pagina12.com.ar/rss/portada)
+- [Perfil.com](https://www.perfil.com/) - [Feed](https://www.perfil.com/feed)
+- [Cronica](https://www.cronica.com.ar/) - [Feed](https://www.cronica.com.ar/feed/feed.xml)
+- [Ambito.com](https://www.ambito.com/) - [Feed](https://www.ambito.com/contenidos/rss.html)
+- [El Cronista](https://www.cronista.com/) - [Feed](https://www.cronista.com/files/rss/news.xml)
+- [El Economista](https://eleconomista.com.ar/) - [Feed](https://eleconomista.com.ar/ultimas-noticias/feed/)
+- [Todo Agro](https://www.todoagro.com.ar/) - [Feed](https://www.todoagro.com.ar/noticias/feed/)
+- [La Politica Online](https://www.lapoliticaonline.com/) - [Feed](https://www.lapoliticaonline.com/files/rss/ultimasnoticias.xml)
+- [Ole](https://www.ole.com.ar/) - [Feed](https://www.ole.com.ar/rss/ultimas-noticias) 
+- [La Gaceta](http://www.lagaceta.com.ar/) - [Feed](https://feeds.feedburner.com/LaGaceta-General)
+- [La Voz del Interior](https://www.lavoz.com.ar/) - [Feed](https://www.lavoz.com.ar/arc/outboundfeeds/feeds/rss/?outputType=xml)
+- [El dia](https://www.eldia.com/) - [Feed](https://www.eldia.com/.rss)
+- [Diario UNO](https://diariouno.com.ar/) - [Feed](https://www.diariouno.com.ar/rss)
+- [Diario de Cuyo](https://www.diariodecuyo.com.ar/) - [Feed](https://www.diariodecuyo.com.ar/rss/rss.xml)
+- [El intransigente](https://elintransigente.com/) - [Feed](https://elintransigente.com/feed/)
+- [La Izquierda Diario](http://www.laizquierdadiario.com/) - [Feed](http://www.laizquierdadiario.com/spip.php?page=backend_portada)
+- [La Derecha Diario](https://derechadiario.com.ar/) - [Feed](https://derechadiario.com.ar/rss/last-posts)
+- [Buenos Aires Times](https://www.batimes.com.ar/) - [Feed](https://www.batimes.com.ar/feed)
+- [Buenos Aires Herald](https://buenosairesherald.com/) - [Feed](https://buenosairesherald.com/feed/atom)
 
 ## Armenia
 
