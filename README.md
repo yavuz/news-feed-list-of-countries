@@ -889,26 +889,20 @@ Thank you!
 
 ## Chile
 
-- [emol](http://emol.com/) - [Feed](http://rss.emol.com/rss.asp)
-- [Las Ultimas Noticias](http://lun.com/) - Feed
-- [Terra Chile](http://terra.cl/) - [Feed](http://www.terra.cl/rss/Controller?channelid=62d28921d14b1310VgnVCM10000098f154d0RCRD&ctName=atomo-noticia)
-- [La Tercera](http://latercera.com/) - [Feed](http://remates.latercera.com/?feed=rss2)
-- [soychile.cl](http://soychile.cl/) - [Feed](http://feeds.feedburner.com/soychilecl-todas)
-- [La Cuarta](http://lacuarta.cl/) - [Feed](http://especiales.lacuarta.cl/feed/manager?type=rss&sc=TEFDVUFSVEE=)
-- [El Mercurio](http://elmercurio.com/) - [Feed](http://psu.elmercurio.com/ya-esta-disponible-el-simulador-del-ranking-de-notas/feed/)
-- [LaSegunda.com](http://lasegunda.com/) - [Feed](http://opinion.lasegunda.com/sociedadanonima/organizaciones-sociales-se-reunen-en-la-segunda/feed/)
-- [Noticias - Terra Chile](http://noticias.terra.cl/) - [Feed](http://noticias.terra.cl/rss/Controller?channelid=7ffaaceb949b1310VgnVCM20000099f154d0RCRD&ctName=atomo-noticia&lg=es-cl)
-- [La Cuerta](http://www.lacuarta.com/) - [Feed](http://www.vayatele.com/13998/rss2.xml)
-- [Cooperativa.cl](http://cooperativa.cl/) - [Feed](http://www.cooperativa.cl/noticias/site/edic/base/rss/_pod_diario.xml)
-- [BioBioChile](http://biobiochile.cl/) - [Feed](http://santiagoamil.biobiochile.cl/feed/)
-- [13.cl](http://13.cl/) - [Feed](http://www.ineex.com/tag/13-cl/feed/)
-- [Nacion.cl](http://lanacion.cl/) - [Feed](http://www.lanacion.cl/rss.xml)
-- [El Mostrador](http://elmostrador.cl/) - [Feed](http://www.elmostrador.cl/feed/)
-- [Glamorama](http://glamorama.cl/) - [Feed](http://glamora.ma/index.xml)
-- [El Diario de Amirica](http://eldiariodeamerica.com/) - Feed
-- [The Clinic Online](http://theclinic.cl/) - [Feed](http://www.theclinic.cl/feed/)
-- [Publimetro](http://publimetro.cl/) - [Feed](http://showbiz.publimetro.cl/showbiz/site/edic/base/rss/inicio.xml)
-- [24horas](http://24horas.cl/) - [Feed](http://vimeo.com/tag:24horas/rss)
+- [La Tercera](https://latercera.com/) - Feed
+- [emol](https://emol.com/) - Feed
+- [24 Horas](https://24horas.cl/) - Feed
+- [La Cuarta](https://lacuarta.cl/) - Feed
+- [El Mercurio](https://digital.elmercurio.com) - Feed
+- [BioBioChile](https://biobiochile.cl/) - [Feed](https://feeds.feedburner.com/radiobiobio/NNeJ)
+- [Cooperativa.cl](https://cooperativa.cl/) - [Feed](https://www.cooperativa.cl/noticias/site/tax/port/all/rss_16_256_2447_1.xml)
+- [The Clinic](https://www.theclinic.cl/) - [Feed](https://www.theclinic.cl/feed/)
+- [Diario Financiero](https://www.df.cl/) - [Feed](https://www.df.cl/noticias/site/list/port/rss.xml)
+- [Publimetro](https://publimetro.cl/) - [Feed](https://www.publimetro.cl/arc/outboundfeeds/rss/?outputType=xml)
+- [El Siglo](https://elsiglo.cl/) - [Feed](https://elsiglo.cl/feed/)
+- [La Nación](https://lanacion.cl/) - [Feed](https://www.lanacion.cl/feed/)
+- [Santiago Times](https://santiagotimes.cl/) - [Feed](https://santiagotimes.cl/feed/)
+
 
 ## China
 
