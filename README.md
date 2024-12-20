@@ -889,26 +889,20 @@ Thank you!
 
 ## Chile
 
-- [emol](http://emol.com/) - [Feed](http://rss.emol.com/rss.asp)
-- [Las Ultimas Noticias](http://lun.com/) - Feed
-- [Terra Chile](http://terra.cl/) - [Feed](http://www.terra.cl/rss/Controller?channelid=62d28921d14b1310VgnVCM10000098f154d0RCRD&ctName=atomo-noticia)
-- [La Tercera](http://latercera.com/) - [Feed](http://remates.latercera.com/?feed=rss2)
-- [soychile.cl](http://soychile.cl/) - [Feed](http://feeds.feedburner.com/soychilecl-todas)
-- [La Cuarta](http://lacuarta.cl/) - [Feed](http://especiales.lacuarta.cl/feed/manager?type=rss&sc=TEFDVUFSVEE=)
-- [El Mercurio](http://elmercurio.com/) - [Feed](http://psu.elmercurio.com/ya-esta-disponible-el-simulador-del-ranking-de-notas/feed/)
-- [LaSegunda.com](http://lasegunda.com/) - [Feed](http://opinion.lasegunda.com/sociedadanonima/organizaciones-sociales-se-reunen-en-la-segunda/feed/)
-- [Noticias - Terra Chile](http://noticias.terra.cl/) - [Feed](http://noticias.terra.cl/rss/Controller?channelid=7ffaaceb949b1310VgnVCM20000099f154d0RCRD&ctName=atomo-noticia&lg=es-cl)
-- [La Cuerta](http://www.lacuarta.com/) - [Feed](http://www.vayatele.com/13998/rss2.xml)
-- [Cooperativa.cl](http://cooperativa.cl/) - [Feed](http://www.cooperativa.cl/noticias/site/edic/base/rss/_pod_diario.xml)
-- [BioBioChile](http://biobiochile.cl/) - [Feed](http://santiagoamil.biobiochile.cl/feed/)
-- [13.cl](http://13.cl/) - [Feed](http://www.ineex.com/tag/13-cl/feed/)
-- [Nacion.cl](http://lanacion.cl/) - [Feed](http://www.lanacion.cl/rss.xml)
-- [El Mostrador](http://elmostrador.cl/) - [Feed](http://www.elmostrador.cl/feed/)
-- [Glamorama](http://glamorama.cl/) - [Feed](http://glamora.ma/index.xml)
-- [El Diario de Amirica](http://eldiariodeamerica.com/) - Feed
-- [The Clinic Online](http://theclinic.cl/) - [Feed](http://www.theclinic.cl/feed/)
-- [Publimetro](http://publimetro.cl/) - [Feed](http://showbiz.publimetro.cl/showbiz/site/edic/base/rss/inicio.xml)
-- [24horas](http://24horas.cl/) - [Feed](http://vimeo.com/tag:24horas/rss)
+- [La Tercera](https://latercera.com/) - Feed
+- [emol](https://emol.com/) - Feed
+- [24 Horas](https://24horas.cl/) - Feed
+- [La Cuarta](https://lacuarta.cl/) - Feed
+- [El Mercurio](https://digital.elmercurio.com) - Feed
+- [BioBioChile](https://biobiochile.cl/) - [Feed](https://feeds.feedburner.com/radiobiobio/NNeJ)
+- [Cooperativa.cl](https://cooperativa.cl/) - [Feed](https://www.cooperativa.cl/noticias/site/tax/port/all/rss_16_256_2447_1.xml)
+- [The Clinic](https://www.theclinic.cl/) - [Feed](https://www.theclinic.cl/feed/)
+- [Diario Financiero](https://www.df.cl/) - [Feed](https://www.df.cl/noticias/site/list/port/rss.xml)
+- [Publimetro](https://publimetro.cl/) - [Feed](https://www.publimetro.cl/arc/outboundfeeds/rss/?outputType=xml)
+- [El Siglo](https://elsiglo.cl/) - [Feed](https://elsiglo.cl/feed/)
+- [La Nación](https://lanacion.cl/) - [Feed](https://www.lanacion.cl/feed/)
+- [Santiago Times](https://santiagotimes.cl/) - [Feed](https://santiagotimes.cl/feed/)
+
 
 ## China
 
@@ -3579,26 +3573,16 @@ Thank you!
 
 ## Uruguay
 
-- [EL PAIS Uruguay](http://elpais.com.uy/) - [Feed](http://www.elpais.com.uy/rss/)
-- [El Observador](http://elobservador.com.uy/) - [Feed](http://www.elobservador.com.uy/rss/ultimas/)
-- [Ovacion Digital](http://ovaciondigital.com.uy/) - [Feed](http://www.ovaciondigital.com.uy/rss/ovacion)
-- [LaRed21](http://lr21.com.uy/) - [Feed](http://www.lr21.com.uy/author/alejandrinamorelli/feed)
-- [TvShow](http://tvshow.com.uy/) - [Feed](http://www.tvshow.com.uy/rss/tvshow)
-- [Espectador.com](http://espectador.com/) - [Feed](http://podcast.espectador.com/la_venganza_sera_terrible.xml)
-- [El CircoVip.com](http://elcircovip.com/) - Feed
-- [Requechando](http://requechando.com/) - [Feed](http://feeds.feedburner.com/requechando)
-- [tenfield.com](http://www.tenfieldigital.com.uy/) - [Feed](http://www.diegoarismendi.com/news/liverpool-tambien-se-dio-el-gusto-y-puso-de-%e2%80%9ccabeza%e2%80%9d-a-nacional-que-sigue-en-tenfield-com/feed/)
-- [Futbol.com.uy](http://futbol.com.uy/) - [Feed](http://espagnoladenet.e-monsite.com/forum/do/rss.xml)
-- [Subrayado HD](http://subrayado.com.uy/) - [Feed](http://1a-inet-2012.webnode.com.uy/rss/organizacion-del-computador.xml)
-- [U Noticias](http://unoticias.com.uy/) - [Feed](http://www.unoticias.com.uy/RSS/economia.xml)
-- [180.com.uy](http://180.com.uy/) - [Feed](http://180.com.uy/feed.php)
-- [Diario La Republica](http://diariolarepublica.net/) - [Feed](http://diariolarepublica.net/category/excluir-nota/feed)
-- [Adinet Noticias](http://noticias.adinet.com.uy/) - [Feed](http://noticias.adinet.com.uy/sindication/rss)
-- [Diario El Telegrafo](http://www.eltelegrafo.com/) - [Feed](http://www.eltelegrafo.info/feed/)
-- [UY Press](http://uypress.net/) - [Feed](http://www.uypress.net/anxml.aspx?13)
-- [URUGOL](http://urugol.com/) - [Feed](http://urugol.com/feed/)
-- [La Diaria](http://ladiaria.com.uy/) - [Feed](http://ladiaria.com.uy/feeds/revistero/)
-- [Upps!](http://revistaups.com.uy/) - [Feed](http://upps56team.global2.vic.edu.au/feed/)
+- [EL PAIS Uruguay](https://elpais.com.uy/) - [Feed](https://www.elpais.com.uy/rss/)
+- [El Observador](https://elobservador.com.uy/) - [Feed](https://www.elobservador.com.uy/rss/pages/ultimo-momento.xml)
+- [Montevideo Portal](https://www.montevideo.com.uy/) - [Feed](https://www.montevideo.com.uy/anxml.aspx?58)
+- [La Diaria](https://ladiaria.com.uy/) - [Feed](https://ladiaria.com.uy/feeds/articulos)
+- [LaRed21](https://lr21.com.uy/) - [Feed](https://www.lr21.com.uy/feed)
+- [El Popular](https://elpopular.uy/) - [Feed](https://elpopular.uy/feed/)
+- [Hoy Canelones](https://hoycanelones.com.uy/) - [Feed](https://hoycanelones.com.uy/feed/)
+- [La Mañana](https://www.lamañana.uy/) - [Feed](https://www.xn--lamaana-7za.uy/feed/)
+- [Diario El Telegrafo](https://www.eltelegrafo.com/) - [Feed](https://www.eltelegrafo.com/feed/)
+- [Subrayado HD](https://subrayado.com.uy/) - [Feed](https://www.subrayado.com.uy/rss/pages/home.xml)
 
 ## US
 
