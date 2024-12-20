@@ -2421,16 +2421,46 @@ Thank you!
 
 ## Montenegro
 
-- [Vijesti](http://vijesti.me/) - Feed
-- [Pobjeda](http://pobjeda.me/) - [Feed](http://www.pobjeda.me/mobilefeed/)
-- [CDM Cafe Del Montenegro](http://www.cdm.me/) - [Feed](https://finanzascarbono.org/feed/)
-- [Dan](http://www.dan.co.me/) - Feed
-- [Analitika](http://portalanalitika.me/) - [Feed](http://www.agriya-analitika.com/feed/)
-- [Nadlanu.com](http://nadlanu.com/) - [Feed](http://www.nadlanu.com/pocetna/vodic/filmovi/u-bioskopima.17.html)
-- [KOLEKTIV.me](http://kolektiv.me/) - [Feed](http://petr.vaclavek.com/?rss=1)
-- [24 Portal](http://portal24.me/) - [Feed](http://portal24.me/comments/feed)
-- [Actualno.me](http://aktuelno.me/) - Feed
-- [RTCG](http://rtcg.me/) - [Feed](http://www.rtcg.nl/rss.xml)
+- [Vijesti](https://vijesti.me/) - [Feed](https://www.vijesti.me/rss)
+- [Pobjeda](https://pobjeda.me/) - [Feed](https://rss.pobjeda.me/)
+- [CDM Cafe Del Montenegro](https://www.cdm.me/) - [Feed](https://www.cdm.me/feed/)
+- [Dan](https://www.dan.co.me/) - Feed
+- [Analitika](https://portalanalitika.me/) - [Feed](https://rss.portalanalitika.me/)
+- [KOLEKTIV.me](https://kolektiv.me/) - Feed
+- [24kroz7](https://24kroz7.com/) - [Feed](http://portal24.me/comments/feed)
+- [Actualno.me](https://aktuelno.me/) - [Feed](https://rss.aktuelno.me/)
+- [RTCG](https://rtcg.me/) - [Feed](https://rtcg.me/rss.html)
+- [RTVNK](https://rtnk.me/) - [Feed](https://rtnk.me/feed/)
+- [Mondo](https://mondo.me/) - Feed
+- [Mina](https://mina.news/) - Feed
+- [Bankar.me](https://bankar.me/) - [Feed](https://bankar.me/feed/)
+- [Standard.co.me](https://standard.co.me/) - Feed
+- [AntenaM](https://www.antenam.net/) - Feed
+- [MojBar](https://mojbar.net/) - [Feed](https://mojbar.net/feed/)
+- [RadioDux](http://www.radiodux.me/) - [Feed](http://www.radiodux.me/rss.xml)
+- [SkalaRadio](https://skalaradio.com/) - [Feed](https://skalaradio.com/feed/)
+- [RadioTitograd](https://radiotitograd.me/) - [Feed](https://radiotitograd.me/feed/)
+- [Espona](https://espona.me/) - [Feed](https://espona.me/index.php?format=feed&type=atom)
+- [Svetigora](https://svetigora.com/) - [Feed](https://svetigora.com/feed/)
+- [BokaNews](https://bokanews.me/) - [Feed](https://bokanews.me/feed/)
+- [VolimPodgoricu](https://volimpodgoricu.me/) - [Feed](https://volimpodgoricu.me/feed)
+- [Fokalizator](https://fokalizator.me/) - [Feed](https://fokalizator.me/feed/)
+- [Kodex.me](https://kodex.me/feed/) - [Feed](https://kodex.me/feed/)
+- [CrnaGora.me](https://crna.gora.me/) - [Feed](https://crna.gora.me/feed/)
+- [GlasZabjela](https://glaszabjela.me/) - [Feed](https://glaszabjela.me/feed/)
+- [PortalKombinat](https://portalkombinat.co.me/) - [Feed](https://portalkombinat.co.me/feed/)
+- [Onogošt](https://onogost.me/) - [Feed](https://onogost.me/feed/)
+- [NovineNiikšića](https://www.novineniksica.me/) - [Feed](https://www.novineniksica.me/feed/)
+- [RTVBudba](https://www.rtvbudva.me/) - Feed
+- [SrpskeNovine](https://s-medijicg.com/) - [Feed](https://s-medijicg.com/?format=feed&type=atom)
+- [MojaCrnaGora](https://www.mojacrnagora.rs/) - [Feed](https://www.mojacrnagora.rs/feed/)
+- [PVInformer](https://www.pvinformer.me/) - [Feed](https://www.pvinformer.me/feed/)
+- [PVNovine](https://www.pvnovine.me/) - Feed
+- [PVPortal](https://pvportal.me/) - [Feed](https://pvportal.me/feed/)
+- [Roditelji.me](https://www.roditelji.me/) - [Feed](https://www.roditelji.me/feed/)
+- [RadioBerane](https://radioberane.me/) - [Feed](https://radioberane.me/feed/)
+- [ULInfo](https://mne.ul-info.com/) - [Feed](https://mne.ul-info.com/feed/)
+- [RadioBar](https://barinfo.me/) - [Feed](https://barinfo.me/feed/)
 
 ## Morocco
 
@@ -2982,7 +3012,6 @@ Thank you!
 - [Dnevni Avaz](http://dnevniavaz.ba/) - [Feed](http://forum.avaz.ba/external.php?type=RSS2&forumids=26)
 - [Novosti](http://novosti.rs/) - [Feed](http://www.novosti.rs/rss/rss-vesti)
 - [RTS](http://rts.rs/) - [Feed](http://www.rts.rs/page/tv/sr/podcast/4548/Studio+3/video.html)
-- [Vijesti](http://vijesti.me/) - [Feed](http://www.vijesti.me/feeds/latest)
 - [Press Online](http://pressonline.rs/) - [Feed](http://crittendenpress.blogspot.com/feeds/posts/default?alt=rss)
 - [naslovi.net](http://naslovi.net/) - [Feed](http://www.naslovi.net/rss/politika/)
 - [Puls](http://pulsonline.rs/) - [Feed](http://www.pulselectronic.com/rss.xml)
