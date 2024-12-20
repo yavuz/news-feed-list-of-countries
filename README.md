@@ -3579,26 +3579,16 @@ Thank you!
 
 ## Uruguay
 
-- [EL PAIS Uruguay](http://elpais.com.uy/) - [Feed](http://www.elpais.com.uy/rss/)
-- [El Observador](http://elobservador.com.uy/) - [Feed](http://www.elobservador.com.uy/rss/ultimas/)
-- [Ovacion Digital](http://ovaciondigital.com.uy/) - [Feed](http://www.ovaciondigital.com.uy/rss/ovacion)
-- [LaRed21](http://lr21.com.uy/) - [Feed](http://www.lr21.com.uy/author/alejandrinamorelli/feed)
-- [TvShow](http://tvshow.com.uy/) - [Feed](http://www.tvshow.com.uy/rss/tvshow)
-- [Espectador.com](http://espectador.com/) - [Feed](http://podcast.espectador.com/la_venganza_sera_terrible.xml)
-- [El CircoVip.com](http://elcircovip.com/) - Feed
-- [Requechando](http://requechando.com/) - [Feed](http://feeds.feedburner.com/requechando)
-- [tenfield.com](http://www.tenfieldigital.com.uy/) - [Feed](http://www.diegoarismendi.com/news/liverpool-tambien-se-dio-el-gusto-y-puso-de-%e2%80%9ccabeza%e2%80%9d-a-nacional-que-sigue-en-tenfield-com/feed/)
-- [Futbol.com.uy](http://futbol.com.uy/) - [Feed](http://espagnoladenet.e-monsite.com/forum/do/rss.xml)
-- [Subrayado HD](http://subrayado.com.uy/) - [Feed](http://1a-inet-2012.webnode.com.uy/rss/organizacion-del-computador.xml)
-- [U Noticias](http://unoticias.com.uy/) - [Feed](http://www.unoticias.com.uy/RSS/economia.xml)
-- [180.com.uy](http://180.com.uy/) - [Feed](http://180.com.uy/feed.php)
-- [Diario La Republica](http://diariolarepublica.net/) - [Feed](http://diariolarepublica.net/category/excluir-nota/feed)
-- [Adinet Noticias](http://noticias.adinet.com.uy/) - [Feed](http://noticias.adinet.com.uy/sindication/rss)
-- [Diario El Telegrafo](http://www.eltelegrafo.com/) - [Feed](http://www.eltelegrafo.info/feed/)
-- [UY Press](http://uypress.net/) - [Feed](http://www.uypress.net/anxml.aspx?13)
-- [URUGOL](http://urugol.com/) - [Feed](http://urugol.com/feed/)
-- [La Diaria](http://ladiaria.com.uy/) - [Feed](http://ladiaria.com.uy/feeds/revistero/)
-- [Upps!](http://revistaups.com.uy/) - [Feed](http://upps56team.global2.vic.edu.au/feed/)
+- [EL PAIS Uruguay](https://elpais.com.uy/) - [Feed](https://www.elpais.com.uy/rss/)
+- [El Observador](https://elobservador.com.uy/) - [Feed](https://www.elobservador.com.uy/rss/pages/ultimo-momento.xml)
+- [Montevideo Portal](https://www.montevideo.com.uy/) - [Feed](https://www.montevideo.com.uy/anxml.aspx?58)
+- [La Diaria](https://ladiaria.com.uy/) - [Feed](https://ladiaria.com.uy/feeds/articulos)
+- [LaRed21](https://lr21.com.uy/) - [Feed](https://www.lr21.com.uy/feed)
+- [El Popular](https://elpopular.uy/) - [Feed](https://elpopular.uy/feed/)
+- [Hoy Canelones](https://hoycanelones.com.uy/) - [Feed](https://hoycanelones.com.uy/feed/)
+- [La Mañana](https://www.lamañana.uy/) - [Feed](https://www.xn--lamaana-7za.uy/feed/)
+- [Diario El Telegrafo](https://www.eltelegrafo.com/) - [Feed](https://www.eltelegrafo.com/feed/)
+- [Subrayado HD](https://subrayado.com.uy/) - [Feed](https://www.subrayado.com.uy/rss/pages/home.xml)
 
 ## US
 
