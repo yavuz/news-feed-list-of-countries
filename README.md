@@ -671,25 +671,13 @@ Thank you!
 ## Brazil
 
 - [UOL](http://uol.com.br/) - [Feed](http://rss.home.uol.com.br/index.xml)
-- [Globo.com](http://www.globo.com/) - [Feed](http://www.globo.com/Rss/Globo.com/Plantao_noticias/0,,HME0-9585,00.xml)
-- [Terra](http://terra.com.br/) - [Feed](http://www.terra.com.br/rss/Controller?channelid=20e07ef2795b2310VgnVCM3000009af154d0RCRD&ctName=atomo-noticia)
-- [G1](http://g1.globo.com/) - [Feed](http://g1.globo.com/dynamo/rss2.xml)
-- [globoesporte.com](http://globoesporte.globo.com/) - [Feed](http://globoesporte.globo.com/ESP/Noticia/Rss/0,,AS0-4282,00.xml)
+- [Terra](http://terra.com.br/) - [Feed](http://www.terra.com.br/rss/)
+- [G1](http://g1.globo.com/) - [Feed](https://g1.globo.com/rss/g1/)
+- [globoesporte.com](http://globoesporte.globo.com/) - [Feed](https://ge.globo.com/rss/ge)
 - [EGO](http://ego.globo.com/) - [Feed](http://ego.globo.com/noticias/rss.xml)
 - [Folha de S. Paulo](http://www.folha.uol.com.br/) - [Feed](http://feeds.folha.uol.com.br/poder/rss091.xml)
-- [R7.com](http://r7.com/) - [Feed](http://www.r7.com/data/rss/famososTv.xml)
-- [UOL Esporte](http://esporte.uol.com.br/) - [Feed](http://esporte.uol.com.br/ultimas/index.xml)
-- [Extra](http://extra.globo.com/) - [Feed](http://extra.globo.com/rss.xml)
-- [SporTV](http://sportv.globo.com/) - [Feed](http://sportv.globo.com/platb/lancelivre/2014/12/09/uberlandia-x-franca-e-no-sportv2-2/feed/)
-- [Jornal O Globo](http://oglobo.globo.com/) - [Feed](http://oglobo.globo.com/rss.xml)
-- [Terra Esportes](http://esportes.terra.com.br/) - [Feed](http://esportes.terra.com.br/rss/Controller?channelid=2d19f517cd779310VgnVCM5000009ccceb0aRCRD&ctName=atomo-noticia&lg=pt-br)
-- [QUEM](http://revistaquem.globo.com/) - [Feed](http://revistaquem.globo.com/Revista/Quem/Rss/0,,EDT0-9531,00.xml)
-- [O Estadeo de S. Paulo](http://estadao.com.br/) - Feed
-- [Virgula](http://virgula.uol.com.br/) - [Feed](http://virgula.uol.com.br/caliente/rss)
-- [Lancenet.com.br](http://lancenet.com.br/) - [Feed](http://www.lancenet.com.br/rss/)
-- [etc.](http://etc.globo.com/) - [Feed](http://issuesetc.org/feed/podcast/)
-- [CARAS](http://caras.uol.com.br/) - [Feed](http://caras.perfil.feedsportal.com/rss)
-- [VEJA.com](http://veja.abril.com.br/) - [Feed](http://veja.abril.com.br/feeds/noticias/)
+- [R7.com](http://r7.com/) - [Feed](https://portalnoticiasr7.webnode.page/rss/all.xml)
+- [Extra](http://extra.globo.com/) - [Feed](https://extra.globo.com/rss/extra)
 
 ## Brunei
 
