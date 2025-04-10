@@ -550,7 +550,7 @@ Thank you!
 
 - [Nieuwsblad](http://nieuwsblad.be/) - [Feed](http://feeds.nieuwsblad.be/nieuws/snelnieuws)
 - [HLN](http://hln.be/) - [Feed](http://www.hln.be/rss.xml)
-- [Le Soir](http://lesoir.be/) - Only invididual feeds per categories available on [https://www.lesoir.be/services/rss](https://www.lesoir.be/services/rss)
+- [Le Soir](http://lesoir.be/) - Only invididual feeds per categories available on [Feeds](https://www.lesoir.be/services/rss)
 - [RTBF](http://rtbf.be/) - [Feed](http://rss.rtbf.be/media/rss/programmes/plus-belle-la-vie.xml)
 - [RTL.be](http://rtl.be/) - [Feed](http://www.rtl.be/rtlbelgium/cat/presse/rtl-sport/feed/)
 - [DH](http://dhnet.be/) - [Feed](http://dhnamur.blogs.dhnet.be/index.rss)
@@ -797,7 +797,7 @@ Thank you!
 
 - [CBC News](https://www.cbc.ca/) - [Feed](https://www.cbc.ca/cmlink/rss-topstories)
 - [Radio Canada](http://www.radio-canada.ca/) - [Feed](https://ici.radio-canada.ca/rss/4159)
-- [The Globe and Mail](http://www.theglobeandmail.com/) - Only invididual feeds per categories available on [here](https://globeandmail.my.site.com/helpcentre/s/article/New-RSS-feed-URL-structure-introduced)
+- [The Globe and Mail](http://www.theglobeandmail.com/) Only invididual feeds per categories available on [Feeds](https://globeandmail.my.site.com/helpcentre/s/article/New-RSS-feed-URL-structure-introduced)
 - [Toronto Star](https://www.thestar.com/) - [Feed](https://www.thestar.com/search/?f=rss&t=article&bl=2827101&l=20)
 - [National Post](https://www.nationalpost.com/) - [Feed](https://nationalpost.com/feed/)
 - [Toronto Sun](https://www.torontosun.com/) - [Feed](https://torontosun.com/category/news/feed)
