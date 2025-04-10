@@ -548,24 +548,19 @@ Thank you!
 
 ## Belgium
 
-- [Nieuwsblad](http://nieuwsblad.be/) - [Feed](http://feeds.nieuwsblad.be/nieuws/snelnieuws)
-- [HLN](http://hln.be/) - [Feed](http://www.hln.be/rss.xml)
-- [Le Soir](http://lesoir.be/) - Only invididual feeds per categories available on [Feeds](https://www.lesoir.be/services/rss)
-- [RTBF](http://rtbf.be/) - [Feed](http://rss.rtbf.be/media/rss/programmes/plus-belle-la-vie.xml)
-- [RTL.be](http://rtl.be/) - [Feed](http://www.rtl.be/rtlbelgium/cat/presse/rtl-sport/feed/)
-- [DH](http://dhnet.be/) - [Feed](http://dhnamur.blogs.dhnet.be/index.rss)
-- [De Standaard](http://standaard.be/) - [Feed](http://www.standaard.be/rss/section/1f2838d4-99ea-49f0-9102-138784c7ea7c)
-- [Gazet Van Antwerpen](http://gva.be/) - [Feed](http://www.gva.be/rss/section/gva)
-- [Knack.be](http://knack.be/) - [Feed](http://www.knack.be/nieuws/feed.rss)
-- [La Libre](http://lalibre.be/) - [Feed](http://lalibreevasion.blogs.lalibre.be/index.rss)
-- [Sudinfo.be](http://sudinfo.be/) - [Feed](http://www.sudinfo.be/feed/10127?google_editors_picks=true)
-- [De Redactie](http://deredactie.be/) - [Feed](http://www.deredactie.nl/nieuws/rss_nieuws/)
-- [Sporza](http://sporza.be/) - [Feed](https://sporza.be/nl.rss.xml)
-- [De Morgen](http://demorgen.be/) - [Feed](http://www.demorgen.be/nieuws/rss.xml)
-- [LeVif.be](http://levif.be/) - [Feed](http://www.levif.be/actualite/feed.rss)
-- [LaMeuse.be](http://lameuse.be/) - [Feed](http://www5.lameuse.be/services/fils_rss/magazine/insolite/index.xml)
-- [De Tijd](http://tijd.be/) - [Feed](http://www.tijd.be/rss/nieuws.xml)
-- [Het Belang Van Limburg](http://hbvl.be/) - [Feed](http://www.hbvl.be/rss/section/hbvl)
+- [La Libre](https://www.lalibre.be/) - [Feed](https://www.lalibre.be/rss)
+- [Le Soir](http://lesoir.be/) - Only invididual feeds per categories available on [Feeds](https://www.lesoir.be/rss)
+- [L'Echo](https://www.lecho.be/) - [Feed](https://www.lecho.be/rss/top_stories.xml)
+- [De Standaard](https://www.standaard.be/) - [Feed](https://www.standaard.be/rss)
+- [DH](https://www.dhnet.be/) - [Feed](https://www.dhnet.be/arc/outboundfeeds/rss/?outputType=xml)
+- [De Morgen](https://demorgen.be/) - [Feed](https://demorgen.be/in-het-nieuws/rss.xml)
+- [De Tijd](https://tijd.be/) - [Feed](https://tijd.be/rss/top_stories.xml)
+- [RTBF](https://www.rtbf.be/) - [Feed](https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal)
+- [Nieuwsblad](https://www.nieuwsblad.be/) - Only invididual feeds per categories available on [Feeds](https://www.nieuwsblad.be/rss)
+- [HLN](https://www.hln.be/) - [Feed](https://www.hln.be/home/rss.xml)
+- [Knack.be](https://www.knack.be/) - [Feed](https://www.knack.be/feed/)
+- [Het Belang Van Limburg](https://hbvl.be/) - [Feed](https://hbvl.be/rss)
+- [7sur7](https://www.7sur7.be/home/rss.xml) - [Feed](https://www.7sur7.be/home/rss.xml)
 
 ## Belize
 
