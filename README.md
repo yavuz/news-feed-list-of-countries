@@ -668,21 +668,21 @@ Thank you!
 - [UOL Notícias](https://www.uol.com.br/) - [Feed](http://rss.home.uol.com.br/index.xml) - [Feeds by categories](https://rss.uol.com.br/)
 - [Folha de S.Paulo](https://www.folha.uol.com.br/) - [Feed](https://feeds.folha.uol.com.br/emcimadahora/rss091.xml)
 - [O Globo](https://oglobo.globo.com/) - [Feed](https://oglobo.globo.com/rss/oglobo)
-- [Terra](https://www.terra.com.br/) - [Feed]
+- [Terra](https://www.terra.com.br/) - Feed
 - [Veja](https://veja.abril.com.br/) - [Feed](https://veja.abril.com.br/rss/)
 - [Estadão](https://www.estadao.com.br/) - [Feed](https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/)
-- [Jornal do Brasil](https://www.jb.com.br/) - [Feed]
+- [Jornal do Brasil](https://www.jb.com.br/) - Feed
 - [globoesporte.com](http://globoesporte.globo.com/) - [Feed](https://ge.globo.com/rss/ge)
 - [G1](http://g1.globo.com/) - [Feed](https://g1.globo.com/rss/g1/)
-- [R7](https://www.r7.com/) - [Feed]
+- [R7](https://www.r7.com/) - Feed
 - [Gazeta do Povo](https://www.gazetadopovo.com.br/) - [Feeds by categories](https://www.gazetadopovo.com.br/rss)
-- [Correio Braziliense](https://www.correiobraziliense.com.br/) - [Feed]
+- [Correio Braziliense](https://www.correiobraziliense.com.br/) - Feed
 - [Extra](http://extra.globo.com/) - [Feed](https://extra.globo.com/rss/extra)
 - [Jornal de Brasília](https://jornaldebrasilia.com.br/) - [Feed](https://jornaldebrasilia.com.br/feed/)
-- [Diário de Pernambuco](https://www.diariodepernambuco.com.br/) - [Feed]
-- [O Estado de Minas](https://www.em.com.br/) - [Feed]
+- [Diário de Pernambuco](https://www.diariodepernambuco.com.br/) - Feed
+- [O Estado de Minas](https://www.em.com.br/) - Feed
 - [Jornal Correio (Correio 24 Horas)](https://www.correio24horas.com.br/) - [Feed](https://www.correio24horas.com.br/rss)
-- [O Povo](https://www.opovo.com.br/) - [Feed]
+- [O Povo](https://www.opovo.com.br/) - Feed
 - [A Tarde](https://www.atarde.com.br/) - [Feed](https://www.atarde.com.br/rss)
 - [BBC Brasil](https://www.bbc.com/portuguese) - [Feed](https://feeds.bbci.co.uk/portuguese/rss.xml)
 - [CNN Brasil](https://www.cnnbrasil.com.br/) - [Feed](https://www.cnnbrasil.com.br/rss/)
