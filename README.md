@@ -686,7 +686,6 @@ Thank you!
 - [A Tarde](https://www.atarde.com.br/) - [Feed](https://www.atarde.com.br/rss)
 - [BBC Brasil](https://www.bbc.com/portuguese) - [Feed](https://feeds.bbci.co.uk/portuguese/rss.xml)
 - [CNN Brasil](https://www.cnnbrasil.com.br/) - [Feed](https://www.cnnbrasil.com.br/rss/)
-- [Notícias ao Minuto](https://www.noticiasaominuto.com.br/) - [Feed](https://www.noticiasaominuto.com.br/rss/ultima-hora) - [Feeds by categories](https://www.noticiasaominuto.com.br/rss)
 - [Jornal do Comércio](https://jc.ne10.uol.com.br/) - [Feed](https://jc.uol.com.br/ultimas/rss.xml)
 - [Agência Brasil](https://agenciabrasil.ebc.com.br/) - [Feed](https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml) - [Feeds by categories](https://agenciabrasil.ebc.com.br/feed/)
 - [The Rio Times](https://riotimesonline.com/) - [Feed](https://riotimesonline.com/feed/)
@@ -2797,26 +2796,28 @@ Thank you!
 
 ## Portugal
 
-- [SAPO](http://sapo.pt/) - Feed
-- [IOL](http://iol.pt/) - Feed
-- [Correio da Manha](http://cmjornal.xl.pt/) - [Feed](http://www.cmjornal.xl.pt/rss.aspx)
-- [Expresso XL](http://expresso.sapo.pt/) - [Feed](http://expresso.sapo.pt/static/kwdrss/B/exaeiou_beleza.xml)
-- [A Bola](http://abola.pt/) - [Feed](http://bolaoyna.net/r/bola-dunya-kupasi-oyunu/feed/)
-- [Jornal Record](http://record.xl.pt/) - [Feed](http://feeds.record.xl.pt/)
-- [PUBLICO](http://publico.pt/) - [Feed](https://fugas.publico.pt/RSS)
-- [Jornal de Noticias](http://jn.pt/) - [Feed](http://feeds.jn.pt/JN-ultimas)
-- [Sol](http://sol.sapo.pt/) - [Feed](http://haber.sol.org.tr/rss/kategori)
-- [Renasceca](http://rr.sapo.pt/) - [Feed](http://www.temmais.com/blog/rss/rss.aspx?id=116)
-- [Diario de Noticias](http://dn.pt/) - [Feed](http://feeds.dn.pt/DN-Ultimas)
-- [Economico](http://economico.sapo.pt/) - [Feed](http://economico.sapo.pt/rss/ultimas)
-- [RTP - Radio e Televisio de Portugal](http://rtp.pt/) - [Feed](http://vimeo.com/channels/pngpcinema/videos/rss)
-- [Clix](http://clix.pt/) - [Feed](http://sexologia.clix.pt/?feed=rss2)
-- [Vidas](http://vidas.xl.pt/) - [Feed](http://boards.ancestry.com/surnames.vidas/rss.xml)
-- [TVI24](http://tvi24.iol.pt/) - [Feed](http://www.tvi24.iol.pt/rss.html)
-- [O Jogo](http://ojogo.pt/) - [Feed](http://feeds.ojogo.pt/OJ-Futebol)
-- [Maisfutebol.iol.pt](http://maisfutebol.iol.pt/) - [Feed](http://www.maisfutebol.iol.pt/rss.xml)
-- [SIC Notocias](http://sicnoticias.sapo.pt/) - Feed
-- [Jornal de Negocios](http://jornaldenegocios.pt/) - [Feed](https://www.jornalvirtual.net/categoria/negocios/feed/)
+- [Expresso](https://expresso.pt/) - [Feed](https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT,NEWSLETTER&limit=20&pubsubhub=true)  
+- [Público](https://www.publico.pt/) - [Feed](https://feeds.feedburner.com/PublicoRSS)
+- [Correio da Manhã](https://www.cmjornal.pt/) - [Feed](https://www.cmjornal.pt/rss)
+- [Jornal de Noticias](https://jn.pt/) - [Feed](http://feeds.jn.pt/JN-ultimas)
+- [Jornal Record](https://www.record.pt/) - [Feed](https://www.record.pt/rss/)
+- [TVI](https://tvi.iol.pt/) - [Feed](https://tvi.iol.pt/rss.xml)
+- [RTP](https://www.rtp.pt/noticias/) [Feed](https://www.rtp.pt/noticias/rss) - [Feeds by categories](https://www.rtp.pt/noticias/rss/feeds)
+- [Renascença](https://rr.sapo.pt/) - [Feed](https://rr.pt/rss/rssfeed.aspx?section=section_noticias) - [Feeds by categories](https://rr.sapo.pt/rss)
+- [Diario de Noticias](https://dn.pt/) - [Feed](http://feeds.dn.pt/DN-Ultimas)
+- [Notícias ao Minuto](https://www.noticiasaominuto.com.br/) - [Feed](https://www.noticiasaominuto.com.br/rss/ultima-hora) - [Feeds by categories](https://www.noticiasaominuto.com.br/rss)
+- [IOL](https://www.iol.pt/) - [Feed](https://www.iol.pt/rss.xml)
+- [Jornal Económico](https://jornaleconomico.sapo.pt/) - [Feed](https://jornaleconomico.sapo.pt/feed)
+- [SAPO](https://www.sapo.pt/) - Feed
+- [O Jogo](https://www.ojogo.pt/) - [Feed](http://feeds.ojogo.pt/OJ-Futebol)
+- [Maisfutebol.iol.pt](https://maisfutebol.iol.pt/) - [Feed](https://www.maisfutebol.iol.pt/rss.xml)
+- [Jornal de Negocios](https://www.jornaldenegocios.pt/) - [Feed](https://www.jornaldenegocios.pt/rss)
+- [Observador](https://observador.pt/) - [Feed](https://observador.pt/rss/)  
+- [Diário As Beiras](https://www.asbeiras.pt/) - [Feed](https://feeds.feedburner.com/asbeiras)  
+- [Diário de Notícias Madeira (dnoticias.pt)](https://www.dnoticias.pt/) - [Feed](https://www.dnoticias.pt/rss.xml)  
+- [Diário de Coimbra](https://www.diariocoimbra.pt/) - [Feed](https://www.diariocoimbra.pt/feed/)  
+- [O Minho](https://ominho.pt/) - [Feed](https://ominho.pt/feed)
+- [A Voz de Trás-os-Montes](https://www.avozdetrasosmontes.pt/) - [Feed](https://www.avozdetrasosmontes.pt/feed)  
 
 ## Puerto Rico
 
