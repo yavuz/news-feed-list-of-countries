@@ -665,15 +665,34 @@ Thank you!
 
 ## Brazil
 
-- [UOL](http://uol.com.br/) - [Feed](http://rss.home.uol.com.br/index.xml)
-- [Terra](http://terra.com.br/) - [Feed](http://www.terra.com.br/rss/)
-- [G1](http://g1.globo.com/) - [Feed](https://g1.globo.com/rss/g1/)
+- [UOL Notícias](https://www.uol.com.br/) - [Feed](http://rss.home.uol.com.br/index.xml) - [Feeds by categories](https://rss.uol.com.br/)
+- [Folha de S.Paulo](https://www.folha.uol.com.br/) - [Feed](https://feeds.folha.uol.com.br/emcimadahora/rss091.xml)
+- [O Globo](https://oglobo.globo.com/) - [Feed](https://oglobo.globo.com/rss/oglobo)
+- [Terra](https://www.terra.com.br/) - [Feed]
+- [Veja](https://veja.abril.com.br/) - [Feed](https://veja.abril.com.br/rss/)
+- [Estadão](https://www.estadao.com.br/) - [Feed](https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/)
+- [Jornal do Brasil](https://www.jb.com.br/) - [Feed]
 - [globoesporte.com](http://globoesporte.globo.com/) - [Feed](https://ge.globo.com/rss/ge)
-- [EGO](http://ego.globo.com/) - [Feed](http://ego.globo.com/noticias/rss.xml)
-- [Folha de S. Paulo](http://www.folha.uol.com.br/) - [Feed](http://feeds.folha.uol.com.br/poder/rss091.xml)
-- [R7.com](http://r7.com/) - [Feed](https://portalnoticiasr7.webnode.page/rss/all.xml)
+- [G1](http://g1.globo.com/) - [Feed](https://g1.globo.com/rss/g1/)
+- [R7](https://www.r7.com/) - [Feed]
+- [Gazeta do Povo](https://www.gazetadopovo.com.br/) - [Feeds by categories](https://www.gazetadopovo.com.br/rss)
+- [Correio Braziliense](https://www.correiobraziliense.com.br/) - [Feed]
 - [Extra](http://extra.globo.com/) - [Feed](https://extra.globo.com/rss/extra)
-
+- [Jornal de Brasília](https://jornaldebrasilia.com.br/) - [Feed](https://jornaldebrasilia.com.br/feed/)
+- [Diário de Pernambuco](https://www.diariodepernambuco.com.br/) - [Feed]
+- [O Estado de Minas](https://www.em.com.br/) - [Feed]
+- [Jornal Correio (Correio 24 Horas)](https://www.correio24horas.com.br/) - [Feed](https://www.correio24horas.com.br/rss)
+- [O Povo](https://www.opovo.com.br/) - [Feed]
+- [A Tarde](https://www.atarde.com.br/) - [Feed](https://www.atarde.com.br/rss)
+- [BBC Brasil](https://www.bbc.com/portuguese) - [Feed](https://feeds.bbci.co.uk/portuguese/rss.xml)
+- [CNN Brasil](https://www.cnnbrasil.com.br/) - [Feed](https://www.cnnbrasil.com.br/rss/)
+- [Notícias ao Minuto](https://www.noticiasaominuto.com.br/) - [Feed](https://www.noticiasaominuto.com.br/rss/ultima-hora) - [Feeds by categories](https://www.noticiasaominuto.com.br/rss)
+- [Jornal do Comércio](https://jc.ne10.uol.com.br/) - [Feed](https://jc.uol.com.br/ultimas/rss.xml)
+- [Agência Brasil](https://agenciabrasil.ebc.com.br/) - [Feed](https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml) - [Feeds by categories](https://agenciabrasil.ebc.com.br/feed/)
+- [The Rio Times](https://riotimesonline.com/) - [Feed](https://riotimesonline.com/feed/)
+- [Brasil Wire](https://www.brasilwire.com/) - [Feed](https://www.brasilwire.com/feed/)
+- [Pragmatismo Político](https://www.pragmatismopolitico.com.br/) - [Feed](https://www.pragmatismopolitico.com.br/feed)
+    
 ## Brunei
 
 - [The Brunei Times](http://www.bt.com.bn/) - [Feed](http://www.bt.com.bn/rss.xml)
