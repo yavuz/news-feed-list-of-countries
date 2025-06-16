@@ -2183,6 +2183,7 @@ Thank you!
 - [zazabava.com](http://zazabava.com/) - [Feed](https://www.robtex.com/en/advisory/dns/mk/org/demokratija/www/index.rss)
 - [Daily Makedonia](http://daily.mk/) - [Feed](http://news.makedonias.gr/89309/erevna-daily-mail-to-chirotero-protathlima-ston-kosmo-ine-i-superleague/feed/)
 - [Press 24](http://press24.mk/) - [Feed](http://24-press.com/feed)
+- [Makedonska Radio Televizija (MRT)](https://www.mrt.com.mk/) - [Feed](https://www.mrt.com.mk/rss.xml)
 
 ## Madagascar
 
@@ -2365,13 +2366,14 @@ Thank you!
 - [inProfunzime.md](http://inprofunzime.md/) - [Feed](http://radiomixton.com/news/rss/)
 - [AVA.md](http://ava.md/) - [Feed](https://avamd.wordpress.com/feed/)
 - [terra](http://terra.md/) - [Feed](http://feeds.feedburner.com/Terravideos)
-- [TRM](http://trm.md/) - [Feed](http://trmcdc.com/feed/)
+- [TRM](http://trm.md/) - Feed *Their feeds are not up to date, https://trm.md/ro/rss
 - [Vesti.md](http://vesti.md/) - [Feed](http://vesti.md/rss/news.xml)
 - [Prime TV](http://prime.md/) - [Feed](http://www.prime.md/rom/rss/)
 - [Apropo Magazin](http://apropomagazin.md/) - [Feed](http://apropomagazin.md/feed/)
 - [OMEGA](http://omg.md/) - [Feed](http://omg.md/engine/rss.php)
 - [nit TV](http://nit.md/) - [Feed](http://www.digitaltveurope.net/tag/nittv/feed/)
-
+- [Moldova1](https://moldova1.md/) - [Feed](https://moldova1.md/rss)
+- [Ziarul de Gardă (ZdG)](https://www.zdg.md/) - [Feed](https://www.zdg.md/feed/atom/)
 ## Monaco
 
 - [Monaco Times](http://www.rivieratimes.com/index.php/monaco.html) - [Feed](http://www.rivieratimes.com/monacotimes.xml)
@@ -2418,7 +2420,7 @@ Thank you!
 - [KOLEKTIV.me](https://kolektiv.me/) - Feed
 - [24kroz7](https://24kroz7.com/) - [Feed](http://portal24.me/comments/feed)
 - [Actualno.me](https://aktuelno.me/) - [Feed](https://rss.aktuelno.me/)
-- [RTCG](https://rtcg.me/) - [Feed](https://rtcg.me/rss.html)
+- [RTCG](https://rtcg.me/) - [Feed](https://rtcg.me/vijesti/rss.html)
 - [RTVNK](https://rtnk.me/) - [Feed](https://rtnk.me/feed/)
 - [Mondo](https://mondo.me/) - Feed
 - [Mina](https://mina.news/) - Feed
@@ -2516,7 +2518,7 @@ Thank you!
 
 - [Telegraaf.nl](http://telegraaf.nl/) - [Feed](http://www.telegraaf.nl/rss/)
 - [nu.nl](http://nu.nl/) - [Feed](http://www.nu.nl/feeds/rss/algemeen.rss)
-- [NOS.nl](http://nos.nl/) - [Feed](http://feeds.nos.nl/nosjournaal)
+- [NOS.nl](http://nos.nl/) - [Feed](https://feeds.nos.nl/nosnieuwsalgemeen)
 - [AD.nl](http://ad.nl/) - [Feed](http://www.ad.nl/rss.xml)
 - [Nusport](http://nusport.nl/) - [Feed](http://www.nusport.nl/rss)
 - [FOK.nl](http://fok.nl/) - [Feed](http://rss.fok.nl/feeds/nieuws)
@@ -2525,7 +2527,7 @@ Thank you!
 - [NU jij](http://nujij.nl/) - [Feed](http://www.nujij.nl/Rss/Nieuw/?user=Albert%20Pike)
 - [de Stentor](http://destentor.nl/) - [Feed](http://www.thomann.de/it/rss_changes_BN_stentor.xml)
 - [dichtbij](http://dichtbij.nl/) - [Feed](http://www.dichtbij.nl/rss/algemeen/nieuws.aspx?regionid=6)
-- [NRC](http://nrc.nl/) - [Feed](http://www.nrc.nl/rss.php)
+- [NRC](http://nrc.nl/) - [Feed](https://www.nrc.nl/rss/)
 - [Omroep Brabant](http://omroepbrabant.nl/) - [Feed](http://www.omroepbrabant.nl/rss/)
 - [Voetbalzone](http://voetbalzone.nl/) - [Feed](http://www.voetbalzone.nl/rss/rss.xml)
 - [Brabants Dagblad](http://www.bd.nl/) - [Feed](http://www.myictservices.nl/?feed=rss2&p=1906)
@@ -2625,7 +2627,7 @@ Thank you!
 
 - [VG Nett](http://vg.no/) - [Feed](http://www.vg.no/rss/feed/?limit=10&format=rss&categories=&keywords=)
 - [Dagbladet.no](http://dagbladet.no/) - [Feed](https://labrador.dagbladet.no/?op=GetRss&&incTags=magasinet)
-- [NRK](http://nrk.no/) - [Feed](http://www.nrk.no/toppsaker.rss)
+- [NRK](http://nrk.no/) - [Feed](https://www.nrk.no/nyheter/siste.rss)
 - [ABC Nyheter](http://abcnyheter.no/) - [Feed](http://www.abcnyheter.no/rss.xml)
 - [TV2](http://tv2.no/) - [Feed](http://www.tv2.no/rss/tv2nyhetene-siste.xml)
 - [Aftenposten](http://aftenposten.no/) - [Feed](http://www.aftenposten.no/rss/)
@@ -2783,14 +2785,14 @@ Thank you!
 - [Money.pl](http://money.pl/) - [Feed](http://www.money.pl/rss/main.xml)
 - [Nasygnale.pl](http://nasygnale.pl/) - [Feed](http://nasygnale.pl/rss.xml)
 - [TVN24](http://tvn24.pl/) - [Feed](http://www.tvn24.pl/najwazniejsze.xml)
-- [Gazeta Wyborcza](http://wyborcza.pl/) - [Feed](http://gazeta.pl.feedsportal.com/c/32739/f/532601/index.rss)
+- [Gazeta Wyborcza](http://wyborcza.pl/) - [Feed](https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml)
 - [Super Express](http://www.se.pl/) - [Feed](http://airportsuperexpress.wordpress.com/feed/)
 - [Fakt.pl](http://fakt.pl/) - [Feed](http://miejsca.fakt.pl/restauracja-celtic-pub-restaurant-wroclaw/feed)
 - [TVP](http://tvp.pl/) - [Feed](https://sport.tvp.pl/sport.tvp.pl/rss+xml.php)
 - [PUDELEK](http://pudelek.pl/) - [Feed](http://www.gadulek.pl/feed/)
 - [Plotek.pl](http://plotek.pl/) - [Feed](http://rss.feedsportal.com/c/32739/f/530379/index.rss)
 - [Pomponik.pl](http://pomponik.pl/) - [Feed](http://interia.pl.feedsportal.com/c/34004/f/625122/index.rss)
-- [Rzeczpospolita](http://rp.pl/) - [Feed](http://www.rp.pl/rss/2.html)
+- [Rzeczpospolita](http://rp.pl/) - [Feed](https://www.rp.pl/rss_main)
 - [Polska Lokalna](http://polskalokalna.pl/) - [Feed](http://polskalokalna.eu/feed/)
 - [Dziennik.pl](http://dziennik.pl/) - [Feed](http://rss.dziennik.pl/Dziennik-Wiadomosci)
 
@@ -2890,13 +2892,15 @@ Thank you!
 - [Ziarul Financiar](http://zf.ro/) - [Feed](http://feeds.feedburner.com/GandulFinanciar)
 - [a1](http://a1.ro/) - [Feed](http://neatza.a1.ro/rss.xml)
 - [Romania TV](http://rtv.net/) - [Feed](http://www.romaniatv.net/rss/stiri.xml)
+- [Televiziunea Română (TVR)](http://www.tvr.ro/) - [Feed](http://www.tvr.ro/rss/stiri.xml)
+- [biziday](https://www.biziday.ro/) - [Feed](https://www.biziday.ro/feed/)
 
 ## Russia
 
 - [Yandex Novosti](http://news.yandex.ru/) - [Feed](http://news.yandex.ru/Uzbekistan/index.rss)
 - [Novosti Mail.ru](http://news.mail.ru/) - [Feed](http://cadet-life1998-mail-ru.webnode.ru/rss/novosti.xml)
 - [RBC RosBusinessConsulting](http://rbc.ru/) - [Feed](http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcnews.com/mainnews.rss)
-- [RIA Novosti](http://ria.ru/) - [Feed](http://fr.ria.ru/export/rss2/index.xml)
+- [RIA Novosti](http://ria.ru/) - [Feed](https://ria.ru/export/rss2/index.xml)
 - [Vesti.ru](http://vesti.ru/) - [Feed](http://www.vesti.ru/vesti.rss)
 - [KP.ru Komsomolskaya Pravda](http://kp.ru/) - [Feed](http://stepconsulting.ru/editions/gazeta-komsomolskaya-pravda/feed)
 - [rambler Novosti](http://news.rambler.ru/) - [Feed](http://news.rambler.ru/rss/28477137/)
@@ -2913,6 +2917,7 @@ Thank you!
 - [infox.ru](http://infox.ru/) - [Feed](http://www.infox.ru/rss.xml)
 - [NTV](http://ntv.ru/) - [Feed](http://www.ntv.ru/exp/newsrss.jsp)
 - [interfax](http://interfax.ru/) - [Feed](http://www.interfax.ru/rss.asp)
+- [TASS](https://tass.ru/) - [Feed](https://tass.ru/rss/all.xml)
 
 ## Rwanda
 
@@ -2951,6 +2956,7 @@ Thank you!
 - [SM TV San Marino](http://www.smtvsanmarino.sm/) - [Feed](http://img.livetv.ru/rss/upcoming_en.xml)
 - [San Marino Fixing](http://www.sanmarinofixing.com/) - [Feed](http://www.sanmarinofixing.com/smweb/video/san-marino/rss/recent.html)
 - [Italica](http://www.italica.sm/) - [Feed](http://www.italicauk.com/blog/?feed=rss2)
+- [San Marino RTV (SMRTV)](https://www.sanmarinortv.sm) - [Feed](https://www.sanmarinortv.sm/rss.xml)
 
 ## Sao Tome and Principe
 
@@ -3002,7 +3008,7 @@ Thank you!
 - [Jutarnji List](http://jutarnji.hr/) - [Feed](http://www.jutarnji.hr/rss?type=section&id=74705)
 - [Dnevni Avaz](http://dnevniavaz.ba/) - [Feed](http://forum.avaz.ba/external.php?type=RSS2&forumids=26)
 - [Novosti](http://novosti.rs/) - [Feed](http://www.novosti.rs/rss/rss-vesti)
-- [RTS](http://rts.rs/) - [Feed](http://www.rts.rs/page/tv/sr/podcast/4548/Studio+3/video.html)
+- [RTS](http://rts.rs/) - [Feed](https://www.rts.rs/vesti/rss.html)
 - [Press Online](http://pressonline.rs/) - [Feed](http://crittendenpress.blogspot.com/feeds/posts/default?alt=rss)
 - [naslovi.net](http://naslovi.net/) - [Feed](http://www.naslovi.net/rss/politika/)
 - [Puls](http://pulsonline.rs/) - [Feed](http://www.pulselectronic.com/rss.xml)
@@ -3015,6 +3021,7 @@ Thank you!
 - [Danas](http://danas.rs/) - [Feed](http://www.danas.rs/rss/rss.asp?column_id=0)
 - [24 Sata](http://24sata.rs/) - [Feed](http://www.24sata.hr/rss/najnovije.xml)
 - [Vesti.rs](http://vesti.rs/) - [Feed](http://www.pirotskevesti.rs/sport/13135/feed/)
+- [Televizija N1](https://n1info.rs/) - [Feed](https://n1info.rs/feed/)
 
 ## Seychelles
 
@@ -3072,6 +3079,8 @@ Thank you!
 - [Finweb.sk](http://finweb.hnonline.sk/) - [Feed](http://www.webporadca.eu/rss/zaujimave-odkazy.xml)
 - [TA3](http://ta3.com/) - [Feed](http://www.ta3.com/rss/3/novinky-z-domova.html)
 - [Tyzden](http://tyzden.sk/) - [Feed](http://www.tyzden.sk/rss/tyzden.xml)
+- [Slovenská televízia a rozhlas (STVR)](https://spravy.stvr.sk/) - [Feed](https://spravy.stvr.sk/feed/)
+- [TERAZ.sk](https://www.teraz.sk/) - [Feed](https://www.teraz.sk/rss/rss-vsetky-spravy.rss)
 
 ## Slovenia
 
@@ -3273,7 +3282,7 @@ Thank you!
 
 - [Aftonbladet](http://aftonbladet.se/) - [Feed](http://www.aftonbladet.se/?service=rss)
 - [Expressen](http://expressen.se/) - [Feed](http://www.expressen.se/rss/nyheter)
-- [SVT](http://svt.se/) - [Feed](http://www.svt.se/svtworldeng/rss.xml)
+- [SVT](http://svt.se/) - [Feed](https://www.svt.se/rss.xml)
 - [DN.se](http://dn.se/) - [Feed](http://www.dn.se/nyheter/m/rss)
 - [di.se](http://di.se/) - [Feed](http://www.di.se/rss/)
 - [SvD Svenska Dagbladet](http://svd.se/) - [Feed](http://www.svd.se/nyheter/inrikes/?service=rss)
