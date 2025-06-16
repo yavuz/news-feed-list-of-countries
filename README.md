@@ -1961,7 +1961,7 @@ Thank you!
 
 - [KOHAnet](http://koha.net/) - [Feed](http://inthenews.unfpa.org/?feed=rss2)
 - [Bota Sot](http://botasot.info/) - [Feed](http://botasot.info/rss.php)
-- [RTK Live](http://rtklive.com/) - [Feed](http://www.rtklive.com/feed.php?r=4)
+- [RTK Live](http://rtklive.com/) - [Feed](https://www.rtklive.com/sq/feed/)
 - [Express](http://gazetaexpress.com/) - [Feed](http://www.microsoft.com/feeds/msdn/en-us/express/expressvcs.xml)
 - [ZERI.info](http://zeri.info/) - [Feed](https://zeri.info/rss/zerat)
 - [Kosovo Sot](http://kosova-sot.info/) - [Feed](http://www.kosovasot.org/feed/)
