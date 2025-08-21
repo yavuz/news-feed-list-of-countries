@@ -1138,26 +1138,32 @@ Thank you!
 
 ## Ecuador
 
-- [El Universo](http://eluniverso.com/) - [Feed](http://www.eluniverso.com/rss/deportes.xml)
-- [EL COMERCIO](http://elcomercio.com/) - [Feed](http://www.elcomercio.com/rss/)
-- [HOY](http://hoy.com.ec/) - [Feed](http://boards.ancestry.com/surnames.hoy/rss.xml)
-- [La Hora](http://lahora.com.ec/) - [Feed](http://www.lahora.com.ec/rss/rss.php?seccion=mundo)
-- [El Diario](http://eldiario.com.ec/) - [Feed](http://www.rss.eldiario.net/)
-- [ecuavisa](http://ecuavisa.com/) - [Feed](http://ecuavisa.com/rss)
-- [futbolecuador.com](http://futbolecuador.com/) - [Feed](http://www.futbolecuador.com/stories/rss/)
-- [Expreso](http://expreso.ec/) - [Feed](http://semana.expreso.ec/servicios/rss/)
-- [Marcador](http://www.eluniverso.com/deportes) - [Feed](http://www.eluniverso.com/rss/campeonato)
-- [Teleamazonas](http://teleamazonas.com/) - [Feed](http://www.teleamazonas.com/?format=feed&type=rss)
-- [El Telegrafo](http://telegrafo.com.ec/) - [Feed](http://www.telegrafo.com.ec/index.php?option=com_zoo&task=feed&app_id=6&category_id=0&format=feed&type=rss)
-- [Diario El Mercurio](http://elmercurio.com.ec/) - [Feed](http://sbeta.elmercurio.com.ec/el-mercurio-category/farandula-sociales/feed/)
-- [El Tiempo Cuenca](http://eltiempo.com.ec/) - [Feed](http://feeds.feedburner.com/eltiempoec)
-- [Ultimas Noticias](http://ultimasnoticias.ec/) - [Feed](http://www.ultimasnoticias.ec/noticias.feed?type=rss)
-- [Ecuador en vivo](http://ecuadorenvivo.com/) - [Feed](http://www.ecuadorenvivo.com/?format=feed&type=rss)
-- [Tera Deportes](http://teradeportes.com/) - [Feed](http://www.teradeportes.com/rss.xml)
-- [PP El Verdadero](http://ppelverdadero.com.ec/) - [Feed](http://pprivasvaciamadrid.com/2011/10/05/el-partido-popular-con-el-verdadero-espiritu-ecologico/feed/)
-- [La Republica](http://larepublica.ec/) - [Feed](http://www.larepublica.ec/feed/)
-- [Vistazo](http://www.vistazo.com/) - [Feed](http://www.vistazo.com/webpages/pais/rss.php)
-- [Ecuagol](http://ecuagol.com/) - [Feed](https://futbolecuatoriano2.wordpress.com/feed/)
+- [El Comercio](https://elcomercio.pe/) - [Feed](https://www.elcomercio.com/feed/) - [Feeds by categories](https://www.elcomercio.com/pages/rss/)
+- [El Universo](https://eluniverso.com/) - [Feed](https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/noticias/ecuador?outputType=xml) - [Feeds by categories](https://www.eluniverso.com/rss/)
+- [Extra](https://extra.ec/) - [Feed]
+- [La Hora](https://lahora.com.ec/) - [Feed]
+- [GK City](https://gk.city/) - [Feed](https://gk.city/feed/)
+- [Expreso](https://expreso.ec/) - [Feed](https://www.expreso.ec/rss/)
+- [El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
+- [El Diario](https://eldiario.com.ec/) - [Feed](https://www.rss.eldiario.net/)
+- [La Prensa](https://www.laprensa.com.ec/) - [Feed](https://www.laprensa.com.ec/feed/)
+- [Los Andes](https://www.diariolosandes.com.ec/) - [Feed](https://www.diariolosandes.com.ec/feed/)
+- [La Republica](https://larepublica.ec/) - [Feed](https://www.larepublica.ec/feed/)
+- [El Heraldo](https://www.elheraldo.com.ec/) - [Feed](https://www.elheraldo.com.ec/feed/)
+- [El Norte](https://elnorte.ec/) - [Feed](https://elnorte.ec/feed/)
+- [La Gaceta](https://lagaceta.com.ec/) - [Feed](https://lagaceta.com.ec/feed/)
+- [Crónica](https://cronica.com.ec/) - [Feed](https://cronica.com.ec/feed/)
+- [Manabí Noticias](https://manabinoticias.com/) - [Feed](https://manabinoticias.com/feed/)
+- [ECOAmazónico](https://ecoamazonico.com/) - [Feed](https://ecoamazonico.com/feed/)
+- [Noti Amazonía](https://www.notiamazonia.com/) - [Feed](https://www.notiamazonia.com/feed/)
+- [El Amazónico](https://www.elamazonico.com/portal/) - [Feed](https://www.elamazonico.com/portal/feed/)
+- [Qué!](https://quenoticias.com/) - [Feed](https://quenoticias.com/feed/)
+- [La Nación](https://lanacion.com.ec/) - [Feed](https://lanacion.com.ec/feed/)
+- [ecuavisa](https://ecuavisa.com/) - [Feed](https://www.ecuavisa.com/rss/noticias)
+- [Diario El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
+- [Ecuador en vivo](https://ecuadorenvivo.com/) - [Feed](https://ecuadorenvivo.com/feed/)
+- [futbolecuador.com](https://futbolecuador.com/) - [Feed](https://www.futbolecuador.com/stories/rss)
+- [StudioFútbol](https://studiofutbol.com.ec/) - [Feed](https://studiofutbol.com.ec/feed/)
 
 ## Egypt
 
@@ -2736,7 +2742,7 @@ Thank you!
 
 ## Peru
 
-- [El Comercio Perú](https://elcomercio.pe/) - [Feed](https://www.elcomercio.com/feed/) - [Feeds by categories](https://www.elcomercio.com/pages/rss/)
+- [El Comercio Perú](https://elcomercio.pe/) - [Feed](https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml) - [Feeds by categories](https://elcomercio.pe/rss/)
 - [Gestión](https://gestion.pe/) - [Feed](https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml)
 - [Trome](https://trome.pe/) - [Feed](https://trome.com/arc/outboundfeeds/rss/?outputType=xml)
 - [La República](https://larepublica.pe/) - [Feed](https://larepublica.pe/rss/home.xml)
