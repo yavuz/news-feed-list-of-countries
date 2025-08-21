@@ -606,26 +606,25 @@ Thank you!
 
 ## Bolivia
 
-- [EL DEBER](http://eldeber.com.bo/) - [Feed](http://www.eldeber.com.bo/rss/)
-- [Los Tiempos](http://lostiempos.com/) - [Feed](http://www.lostiempos.com/rss/lostiempos-titulares.xml)
-- [La Razon](http://la-razon.com/) - [Feed](http://www.la-razon.com/rss/latest/?contentType=NWS)
-- [El Diario](http://eldiario.net/) - Feed
-- [eju!](http://eju.tv/) - [Feed](http://www.eju.net/news/?mode=showRSS)
-- [Opinion](http://www.opinion.com.bo/) - [Feed](http://www.opinion.com.bo/opinion/rss/cochabamba_rss.xml)
-- [La Prensa](http://laprensa.com.bo/) - Feed
-- [La Patria](http://lapatriaenlinea.com/) - [Feed](http://lapatriaenlinea.com/rss/Oruro.xml)
-- [Pagina Siete](http://www.paginasiete.bo/) - [Feed](http://www.economiabolivia.net/2014/11/27/presupuesto-de-salarios-para-las-estatales-crece-en-1758/int-44702/feed/)
-- [boliviaentusmanos.com](http://boliviaentusmanos.com/) - [Feed](http://www.boliviaentusmanos.com/noticias/rss.php)
-- [Erbol](http://erbol.com.bo/) - [Feed](https://erboldigital.wordpress.com/feed/)
-- [El Dia Bolivia](http://eldia.com.bo/) - [Feed](http://www.economiabolivia.net/tag/el-dia/feed/)
-- [Bolivia.com](http://bolivia.com/) - [Feed](http://www.bolivia.com/el-sabor-de-bolivia/rss/)
-- [Radio Fides de Bolivia](http://radiofides.com/) - [Feed](http://www.spanishradio.org/feed)
-- [Correo del Sur](http://correodelsur.com/) - [Feed](http://www.correodelsur.com/2010/images_sociales/rss.php?action=images)
-- [HoyBolivia.com](http://hoybolivia.com/) - [Feed](http://hoybolivia.com/rss.php)
-- [CAMBIO](http://cambio.bo/) - [Feed](http://www.cambio.bo/?q=rss.xml)
-- [El Sol de Santa Cruz](http://elsol.com.bo/) - [Feed](https://boliviasol.wordpress.com/category/departamentos/santa-cruz/feed/)
-- [El Pais Plus](http://elpaisonline.com/) - [Feed](http://www.elpaisonline.com/index.php/2013-01-15-14-16-26/centrales/itemlist/user/44-jaimebacotich?format=feed)
-- [Noticias.com.bo](http://noticias.com.bo/) - [Feed](http://feeds.feedburner.com/noticiasbol)
+- [El Deber](https://eldeber.com.bo/) - [Feed]
+- [La Razón](https://la-razon.com/) - [Feed](https://larazon.bo/feed/)
+- [El Diario](https://eldiario.net/) - [Feed](https://www.eldiario.net/portal/feed/)
+- [eju!](https://eju.tv/) - [Feed](https://eju.tv/feed/)
+- [Opinion](https://www.opinion.com.bo/) - [Feed](https://www.opinion.com.bo/rss/) - [Feeds by categories](https://www.opinion.com.bo/rss/listado/)
+- [La Epoca](https://www.la-epoca.com.bo/) - [Feed](https://www.la-epoca.com.bo/feed/)
+- [El Potosí](https://elpotosi.net/) - [Feed]
+- [Erbol](https://www.erbol.com.bo/) - [Feed]
+- [El Alteño](https://www.elalteno.com.bo) - [Feed]
+- [El Alto es Noticia](https://www.elaltoesnoticia.com/) - [Feed]
+- [El Dia](https://eldia.com.bo/) - [Feed]
+- [La Palabra del Beni](https://lapalabradelbeni.com/) - [Feed]
+- [Radio Fides](https://radiofides.com/) - [Feed](https://radiofides.com/es/feed/)
+- [ANF](https://www.noticiasfides.com/) - [Feed]
+- [La Patria](https://lapatria.bo/) - [Feed](https://lapatria.bo/feed/)
+- [Correo del Sur](https://correodelsur.com/) - [Feed]
+- [HoyBolivia.com](https://hoybolivia.com/) - [Feed]
+- [El País](https://elpais.bo/) - [Feed]
+- [Brújula Digital](https://www.brujuladigital.net/) - [Feed]
 
 ## Bosnia and Herzegovina
 
