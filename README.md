@@ -2737,26 +2737,16 @@ Thank you!
 
 ## Peru
 
-- [El Comercio Peru](http://elcomercio.pe/) - [Feed](http://elcomercio.pe/feed/tvmas.xml)
-- [RPP NOTICIAS](http://rpp.com.pe/) - [Feed](http://radio.rpp.com.pe/rotafono/feed/)
-- [Peru21](http://peru21.pe/) - [Feed](http://peru21.pe/feed)
-- [La Republica](http://larepublica.pe/) - [Feed](http://www.larepublica.pe/rss/rss)
-- [Peru.com](http://peru.com/) - [Feed](http://peru.com/feed)
-- [Terra Peru](http://terra.com.pe/) - [Feed](http://www.terra.com.pe/rss/)
-- [Trome](http://trome.pe/) - [Feed](http://trome.pe/feed)
-- [Diario Correo](http://diariocorreo.pe/) - [Feed](http://diariocorreo.pe/rss/)
-- [Libero](http://libero.pe/) - [Feed](http://www.libero.pe/rss.xml)
-- [Frecuencia Latina](http://frecuencialatina.com/) - [Feed](http://www.frecuencialatina.com/rss/feed)
-- [El Peruano](http://www.elperuano.com.pe/) - [Feed](http://elrinconperuano.com/feed/)
-- [Netjoven.pe](http://netjoven.pe/) - [Feed](http://feeds.feedburner.com/netjovennoticias)
-- [Andina](http://www.andina.com.pe/) - [Feed](http://www.andina.com.pe/rss/Business.xml)
-- [Diario La Primera](http://diariolaprimeraperu.com/) - [Feed](http://www.diariolaprimeraperu.com/online/rss/portada-hoy.php)
-- [LaMula](http://lamula.pe/) - [Feed](http://lamula.bandcamp.com/feed)
-- [Aja](http://aja.pe/) - [Feed](https://www.aja.com/en/rss)
-- [Caratas](http://www.caretas.com.pe/) - [Feed](http://www.resumark.com/jobs/job-RSS.xml?SearchCountry=KW&items=2000)
-- [Diario16](http://diario16.pe/) - [Feed](http://diario16.pe/rss.php)
+- [El Comercio Perú](https://elcomercio.pe/) - [Feed](https://www.elcomercio.com/feed/) - [Feeds by categories](https://www.elcomercio.com/pages/rss/)
+- [Gestión](https://gestion.pe/) - [Feed](https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml)
+- [Trome](https://trome.pe/) - [Feed](https://trome.com/arc/outboundfeeds/rss/?outputType=xml)
+- [La República](https://larepublica.pe/) - [Feed](https://larepublica.pe/rss/home.xml)
+- [Diario Correo](https://diariocorreo.pe/) - [Feed](https://diariocorreo.pe/arc/outboundfeeds/rss/?outputType=xml)
+- [Los Andes](https://losandes.com.pe/) - [Feed](https://losandes.com.pe/feed/)
 - [Generaccion.com](http://generaccion.com/) - [Feed](http://www.generaccion.com/noticia/rss/)
-- [Los Andes](http://losandes.com.pe/) - [Feed](http://www.losandes.com.pe/?c=rss)
+- [LaMula](https://lamula.pe/) - [Feed](https://lamula.pe/feed/)
+- [RPP.pe](https://rpp.pe/) - [Feed](https://rpp.pe/rss)
+- [Libero](https://libero.pe/) - [Feed](https://libero.pe/rss/home.xml)
 
 ## Philippines
 
