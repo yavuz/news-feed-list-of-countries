@@ -606,26 +606,25 @@ Thank you!
 
 ## Bolivia
 
-- [EL DEBER](http://eldeber.com.bo/) - [Feed](http://www.eldeber.com.bo/rss/)
-- [Los Tiempos](http://lostiempos.com/) - [Feed](http://www.lostiempos.com/rss/lostiempos-titulares.xml)
-- [La Razon](http://la-razon.com/) - [Feed](http://www.la-razon.com/rss/latest/?contentType=NWS)
-- [El Diario](http://eldiario.net/) - Feed
-- [eju!](http://eju.tv/) - [Feed](http://www.eju.net/news/?mode=showRSS)
-- [Opinion](http://www.opinion.com.bo/) - [Feed](http://www.opinion.com.bo/opinion/rss/cochabamba_rss.xml)
-- [La Prensa](http://laprensa.com.bo/) - Feed
-- [La Patria](http://lapatriaenlinea.com/) - [Feed](http://lapatriaenlinea.com/rss/Oruro.xml)
-- [Pagina Siete](http://www.paginasiete.bo/) - [Feed](http://www.economiabolivia.net/2014/11/27/presupuesto-de-salarios-para-las-estatales-crece-en-1758/int-44702/feed/)
-- [boliviaentusmanos.com](http://boliviaentusmanos.com/) - [Feed](http://www.boliviaentusmanos.com/noticias/rss.php)
-- [Erbol](http://erbol.com.bo/) - [Feed](https://erboldigital.wordpress.com/feed/)
-- [El Dia Bolivia](http://eldia.com.bo/) - [Feed](http://www.economiabolivia.net/tag/el-dia/feed/)
-- [Bolivia.com](http://bolivia.com/) - [Feed](http://www.bolivia.com/el-sabor-de-bolivia/rss/)
-- [Radio Fides de Bolivia](http://radiofides.com/) - [Feed](http://www.spanishradio.org/feed)
-- [Correo del Sur](http://correodelsur.com/) - [Feed](http://www.correodelsur.com/2010/images_sociales/rss.php?action=images)
-- [HoyBolivia.com](http://hoybolivia.com/) - [Feed](http://hoybolivia.com/rss.php)
-- [CAMBIO](http://cambio.bo/) - [Feed](http://www.cambio.bo/?q=rss.xml)
-- [El Sol de Santa Cruz](http://elsol.com.bo/) - [Feed](https://boliviasol.wordpress.com/category/departamentos/santa-cruz/feed/)
-- [El Pais Plus](http://elpaisonline.com/) - [Feed](http://www.elpaisonline.com/index.php/2013-01-15-14-16-26/centrales/itemlist/user/44-jaimebacotich?format=feed)
-- [Noticias.com.bo](http://noticias.com.bo/) - [Feed](http://feeds.feedburner.com/noticiasbol)
+- [El Deber](https://eldeber.com.bo/) - [Feed]
+- [La Razón](https://la-razon.com/) - [Feed](https://larazon.bo/feed/)
+- [El Diario](https://eldiario.net/) - [Feed](https://www.eldiario.net/portal/feed/)
+- [eju!](https://eju.tv/) - [Feed](https://eju.tv/feed/)
+- [Opinion](https://www.opinion.com.bo/) - [Feed](https://www.opinion.com.bo/rss/) - [Feeds by categories](https://www.opinion.com.bo/rss/listado/)
+- [La Epoca](https://www.la-epoca.com.bo/) - [Feed](https://www.la-epoca.com.bo/feed/)
+- [El Potosí](https://elpotosi.net/) - [Feed]
+- [Erbol](https://www.erbol.com.bo/) - [Feed]
+- [El Alteño](https://www.elalteno.com.bo) - [Feed]
+- [El Alto es Noticia](https://www.elaltoesnoticia.com/) - [Feed]
+- [El Dia](https://eldia.com.bo/) - [Feed]
+- [La Palabra del Beni](https://lapalabradelbeni.com/) - [Feed]
+- [Radio Fides](https://radiofides.com/) - [Feed](https://radiofides.com/es/feed/)
+- [ANF](https://www.noticiasfides.com/) - [Feed]
+- [La Patria](https://lapatria.bo/) - [Feed](https://lapatria.bo/feed/)
+- [Correo del Sur](https://correodelsur.com/) - [Feed]
+- [HoyBolivia.com](https://hoybolivia.com/) - [Feed]
+- [El País](https://elpais.bo/) - [Feed]
+- [Brújula Digital](https://www.brujuladigital.net/) - [Feed]
 
 ## Bosnia and Herzegovina
 
@@ -1139,26 +1138,32 @@ Thank you!
 
 ## Ecuador
 
-- [El Universo](http://eluniverso.com/) - [Feed](http://www.eluniverso.com/rss/deportes.xml)
-- [EL COMERCIO](http://elcomercio.com/) - [Feed](http://www.elcomercio.com/rss/)
-- [HOY](http://hoy.com.ec/) - [Feed](http://boards.ancestry.com/surnames.hoy/rss.xml)
-- [La Hora](http://lahora.com.ec/) - [Feed](http://www.lahora.com.ec/rss/rss.php?seccion=mundo)
-- [El Diario](http://eldiario.com.ec/) - [Feed](http://www.rss.eldiario.net/)
-- [ecuavisa](http://ecuavisa.com/) - [Feed](http://ecuavisa.com/rss)
-- [futbolecuador.com](http://futbolecuador.com/) - [Feed](http://www.futbolecuador.com/stories/rss/)
-- [Expreso](http://expreso.ec/) - [Feed](http://semana.expreso.ec/servicios/rss/)
-- [Marcador](http://www.eluniverso.com/deportes) - [Feed](http://www.eluniverso.com/rss/campeonato)
-- [Teleamazonas](http://teleamazonas.com/) - [Feed](http://www.teleamazonas.com/?format=feed&type=rss)
-- [El Telegrafo](http://telegrafo.com.ec/) - [Feed](http://www.telegrafo.com.ec/index.php?option=com_zoo&task=feed&app_id=6&category_id=0&format=feed&type=rss)
-- [Diario El Mercurio](http://elmercurio.com.ec/) - [Feed](http://sbeta.elmercurio.com.ec/el-mercurio-category/farandula-sociales/feed/)
-- [El Tiempo Cuenca](http://eltiempo.com.ec/) - [Feed](http://feeds.feedburner.com/eltiempoec)
-- [Ultimas Noticias](http://ultimasnoticias.ec/) - [Feed](http://www.ultimasnoticias.ec/noticias.feed?type=rss)
-- [Ecuador en vivo](http://ecuadorenvivo.com/) - [Feed](http://www.ecuadorenvivo.com/?format=feed&type=rss)
-- [Tera Deportes](http://teradeportes.com/) - [Feed](http://www.teradeportes.com/rss.xml)
-- [PP El Verdadero](http://ppelverdadero.com.ec/) - [Feed](http://pprivasvaciamadrid.com/2011/10/05/el-partido-popular-con-el-verdadero-espiritu-ecologico/feed/)
-- [La Republica](http://larepublica.ec/) - [Feed](http://www.larepublica.ec/feed/)
-- [Vistazo](http://www.vistazo.com/) - [Feed](http://www.vistazo.com/webpages/pais/rss.php)
-- [Ecuagol](http://ecuagol.com/) - [Feed](https://futbolecuatoriano2.wordpress.com/feed/)
+- [El Comercio](https://elcomercio.pe/) - [Feed](https://www.elcomercio.com/feed/) - [Feeds by categories](https://www.elcomercio.com/pages/rss/)
+- [El Universo](https://eluniverso.com/) - [Feed](https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/noticias/ecuador?outputType=xml) - [Feeds by categories](https://www.eluniverso.com/rss/)
+- [Extra](https://extra.ec/) - [Feed]
+- [La Hora](https://lahora.com.ec/) - [Feed]
+- [GK City](https://gk.city/) - [Feed](https://gk.city/feed/)
+- [Expreso](https://expreso.ec/) - [Feed](https://www.expreso.ec/rss/)
+- [El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
+- [El Diario](https://eldiario.com.ec/) - [Feed](https://www.rss.eldiario.net/)
+- [La Prensa](https://www.laprensa.com.ec/) - [Feed](https://www.laprensa.com.ec/feed/)
+- [Los Andes](https://www.diariolosandes.com.ec/) - [Feed](https://www.diariolosandes.com.ec/feed/)
+- [La Republica](https://larepublica.ec/) - [Feed](https://www.larepublica.ec/feed/)
+- [El Heraldo](https://www.elheraldo.com.ec/) - [Feed](https://www.elheraldo.com.ec/feed/)
+- [El Norte](https://elnorte.ec/) - [Feed](https://elnorte.ec/feed/)
+- [La Gaceta](https://lagaceta.com.ec/) - [Feed](https://lagaceta.com.ec/feed/)
+- [Crónica](https://cronica.com.ec/) - [Feed](https://cronica.com.ec/feed/)
+- [Manabí Noticias](https://manabinoticias.com/) - [Feed](https://manabinoticias.com/feed/)
+- [ECOAmazónico](https://ecoamazonico.com/) - [Feed](https://ecoamazonico.com/feed/)
+- [Noti Amazonía](https://www.notiamazonia.com/) - [Feed](https://www.notiamazonia.com/feed/)
+- [El Amazónico](https://www.elamazonico.com/portal/) - [Feed](https://www.elamazonico.com/portal/feed/)
+- [Qué!](https://quenoticias.com/) - [Feed](https://quenoticias.com/feed/)
+- [La Nación](https://lanacion.com.ec/) - [Feed](https://lanacion.com.ec/feed/)
+- [ecuavisa](https://ecuavisa.com/) - [Feed](https://www.ecuavisa.com/rss/noticias)
+- [Diario El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
+- [Ecuador en vivo](https://ecuadorenvivo.com/) - [Feed](https://ecuadorenvivo.com/feed/)
+- [futbolecuador.com](https://futbolecuador.com/) - [Feed](https://www.futbolecuador.com/stories/rss)
+- [StudioFútbol](https://studiofutbol.com.ec/) - [Feed](https://studiofutbol.com.ec/feed/)
 
 ## Egypt
 
@@ -2739,26 +2744,16 @@ Thank you!
 
 ## Peru
 
-- [El Comercio Peru](http://elcomercio.pe/) - [Feed](http://elcomercio.pe/feed/tvmas.xml)
-- [RPP NOTICIAS](http://rpp.com.pe/) - [Feed](http://radio.rpp.com.pe/rotafono/feed/)
-- [Peru21](http://peru21.pe/) - [Feed](http://peru21.pe/feed)
-- [La Republica](http://larepublica.pe/) - [Feed](http://www.larepublica.pe/rss/rss)
-- [Peru.com](http://peru.com/) - [Feed](http://peru.com/feed)
-- [Terra Peru](http://terra.com.pe/) - [Feed](http://www.terra.com.pe/rss/)
-- [Trome](http://trome.pe/) - [Feed](http://trome.pe/feed)
-- [Diario Correo](http://diariocorreo.pe/) - [Feed](http://diariocorreo.pe/rss/)
-- [Libero](http://libero.pe/) - [Feed](http://www.libero.pe/rss.xml)
-- [Frecuencia Latina](http://frecuencialatina.com/) - [Feed](http://www.frecuencialatina.com/rss/feed)
-- [El Peruano](http://www.elperuano.com.pe/) - [Feed](http://elrinconperuano.com/feed/)
-- [Netjoven.pe](http://netjoven.pe/) - [Feed](http://feeds.feedburner.com/netjovennoticias)
-- [Andina](http://www.andina.com.pe/) - [Feed](http://www.andina.com.pe/rss/Business.xml)
-- [Diario La Primera](http://diariolaprimeraperu.com/) - [Feed](http://www.diariolaprimeraperu.com/online/rss/portada-hoy.php)
-- [LaMula](http://lamula.pe/) - [Feed](http://lamula.bandcamp.com/feed)
-- [Aja](http://aja.pe/) - [Feed](https://www.aja.com/en/rss)
-- [Caratas](http://www.caretas.com.pe/) - [Feed](http://www.resumark.com/jobs/job-RSS.xml?SearchCountry=KW&items=2000)
-- [Diario16](http://diario16.pe/) - [Feed](http://diario16.pe/rss.php)
+- [El Comercio Perú](https://elcomercio.pe/) - [Feed](https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml) - [Feeds by categories](https://elcomercio.pe/rss/)
+- [Gestión](https://gestion.pe/) - [Feed](https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml)
+- [Trome](https://trome.pe/) - [Feed](https://trome.com/arc/outboundfeeds/rss/?outputType=xml)
+- [La República](https://larepublica.pe/) - [Feed](https://larepublica.pe/rss/home.xml)
+- [Diario Correo](https://diariocorreo.pe/) - [Feed](https://diariocorreo.pe/arc/outboundfeeds/rss/?outputType=xml)
+- [Los Andes](https://losandes.com.pe/) - [Feed](https://losandes.com.pe/feed/)
 - [Generaccion.com](http://generaccion.com/) - [Feed](http://www.generaccion.com/noticia/rss/)
-- [Los Andes](http://losandes.com.pe/) - [Feed](http://www.losandes.com.pe/?c=rss)
+- [LaMula](https://lamula.pe/) - [Feed](https://lamula.pe/feed/)
+- [RPP.pe](https://rpp.pe/) - [Feed](https://rpp.pe/rss)
+- [Libero](https://libero.pe/) - [Feed](https://libero.pe/rss/home.xml)
 
 ## Philippines
 
@@ -3188,26 +3183,34 @@ Thank you!
 
 ## Spain
 
-- [EL PAIS](http://elpais.com/) - [Feed](http://elpais.com/rss/elpais/portada.xml)
-- [elmundo.es](http://elmundo.es/) - [Feed](http://rss.elmundo.es/rss/descarga.htm?data2=4)
-- [RTVE](http://rtve.es/) - [Feed](http://www.rtve.es/download/podcast?IDPODCAST=22)
-- [ABC](http://abc.es/) - [Feed](http://contenidosabcdesevilla.sevilla.abc.es/detapas/feed/)
-- [elEconomista.es](http://eleconomista.es/) - [Feed](http://www.eleconomista.es/rss/rss-empresas.php)
-- [20minutos.es](http://20minutos.es/) - [Feed](http://www.20minutos.es/rss/minuteca/20minutoses/)
-- [Diario Expansion](http://expansion.com/) - [Feed](http://www.expansion.com/blogs/diario/index.xml)
-- [El Confidencial](http://elconfidencial.com/) - [Feed](http://www.elconfidencial.com/rss/noticias.xml)
-- [Libertad Digital](http://libertaddigital.com/) - [Feed](http://rss.libertaddigital.com/libertaddigital/portada)
-- [LaVanguardia.com](http://lavanguardia.com/) - [Feed](http://www.lavanguardia.com/feed/encatala/index.xml)
-- [Intereconomia](http://intereconomia.com/) - [Feed](https://www.meneame.net/m/actualidad/rss?p=tags&q=intereconom%C3%ADa)
-- [Publico.es](http://publico.es/) - [Feed](http://www.publico.es/rss/)
-- [Europa Press](http://europapress.es/) - [Feed](http://www.europapress.es/rss/rss.aspx?ch=549)
-- [Cinco Dias](http://cincodias.com/) - [Feed](http://cincodias.com/rss/tags/ultimas_noticias.xml)
-- [La Razon](http://larazon.es/) - [Feed](http://www.larazon.es/RSS-portlet/feed/la-razon/portada-2)
-- [Lainformacion.com](http://lainformacion.com/) - [Feed](http://rss.lainformacion.com/)
-- [elcorreo.com](http://elcorreo.com/) - [Feed](http://www.elcorreo.com/vizcaya/portada.xml)
-- [La Voz de Galicia](http://lavozdegalicia.es/) - [Feed](http://www.lavozdegalicia.es/galicia/index.xml)
-- [La Nueva Espana](http://lne.es/) - [Feed](http://www.lne.es/elementosInt/rss/55)
-- [Invertia.com](http://invertia.com/) - [Feed](http://www.invertia.com/rss.asp)
+- [EL PAIS](https://elpais.com/) - [Feed](https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada)
+- [ABC](https://abc.es/) - [Feed](https://www.abc.es/rss/atom/portada/) - [Feeds by categories](https://www.abc.es/rss/?ref=https%3A%2F%2Fwww.abc.es%2Frss%2F)
+- [elmundo.es](https://elmundo.es/) - [Feed](https://e00-elmundo.uecdn.es/rss/portada.xml)
+- [RTVE](https://rtve.es/) - [Feed](https://www.rtve.es/rss/temas_noticias.xml) - [Feeds by categories](https://www.rtve.es/rss/)
+- [Antena 3](https://www.antena3.com/) - [Feed](https://www.antena3.com/noticias/rss/4013050.xml)
+- [LaVanguardia.com](https://lavanguardia.com/) - [Feed](https://www.lavanguardia.com/rss/home.xml) - [Feeds by categories](https://www.lavanguardia.com/rss)
+- [La Razon](https://larazon.es/) - [Feed](https://www.larazon.es/?outputType=xml)
+- [elEconomista.es](https://eleconomista.es/) - [Feed](https://www.eleconomista.es/rss/rss-seleccion-ee.php) - [Feeds by categories](https://www.eleconomista.es/rss/)
+- [Cinco Dias](https://cincodias.elpais.com/) - [Feed](https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/section/ultimas-noticias/portada) - [Feeds by categories](https://cincodias.elpais.com/info/rss/)
+- [Diario Expansion](https://expansion.com/) - [Feed](https://e00-expansion.uecdn.es/rss/portada.xml) - [Feeds by categories](https://www.expansion.com/rss.html)
+- [Invertia](https://www.elespanol.com/invertia/) - [Feed](https://www.elespanol.com/rss/invertia/)
+- [El Confidencial](https://elconfidencial.com/) - [Feed](https://rss.elconfidencial.com/espana/) - [Feeds by categories](https://www.elconfidencial.com/rss/)
+- [Libertad Digital](https://libertaddigital.com/) - [Feed](http://feeds2.feedburner.com/libertaddigital/portada) - [Feeds by categories](https://www.libertaddigital.com/rss/)
+- [elDiario.es](https://www.eldiario.es/) - [Feed](https://www.eldiario.es/rss)
+- [Diario Expansion](https://okdiario.com/) - [Feed](https://okdiario.com/feed)
+- [El Independiente](https://www.elindependiente.com/) - [Feed](https://www.elindependiente.com/feed/)
+- [El Debate](https://www.eldebate.com/) - [Feed](https://www.eldebate.com/rss/home.xml)
+- [20minutos.es](https://20minutos.es/) - [Feed](https://www.20minutos.es/rss/minuteca/20minutoses/)
+- [Europa Press](https://europapress.es/) - [Feed](https://www.europapress.es/rss/rss.aspx)- [Feeds by categories](https://www.europapress.es/rss/europapress.opml.xml)
+- [elcorreo.com](https://elcorreo.com/) - [Feed](https://www.elcorreo.com/rss/atom/portada/) - [Feeds by categories](https://www.elcorreo.com/rss/)
+- [La Voz de Galicia](https://lavozdegalicia.es/) - [Feed](https://www.lavozdegalicia.es/index.xml) - [Feeds by categories](https://www.lavozdegalicia.es/rss/index.htm)
+- [La Nueva Espana](https://lne.es/) - [Feed](https://www.lne.es/rss/section/3279) - [Feeds by categories](https://www.lne.es/rss.html)
+- [El Periódico](https://www.epe.es/es/rss/listado-rss.shtml) - [Feed](https://www.epe.es/es/rss/rss_portada.xml) - [Feeds by categories](https://www.epe.es/es/rss/listado-rss.shtml)
+- [La Región](https://www.laregion.es/) - [Feed](https://www.laregion.es/rss/)
+- [El Norte de Castilla](https://www.elnortedecastilla.es/) - [Feed](https://www.elnortedecastilla.es/rss/atom/portada/) - [Feeds by categories](https://www.elnortedecastilla.es/rss/)
+- [Marca](https://www.marca.com/) - [Feed](https://e00-marca.uecdn.es/rss/portada.xml) - [Feeds by categories](https://www.marca.com/rss.html)
+- [Mundo Deportivo](https://www.mundodeportivo.com/) - [Feed](http://feeds.feedburner.com/elmundodeportivo/titulares) - [Feeds by categories](https://www.mundodeportivo.com/20080115/noticias-rss_53429321533.html)
+- [Sport.es](https://www.sport.es/) - [Feed](https://www.sport.es/es/rss/ultimas/rss.xml) - [Feeds by categories](https://www.sport.es/es/rss/)
 
 ## Sri Lanka
 
