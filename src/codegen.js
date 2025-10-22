@@ -5,7 +5,7 @@ const path = require('path');
 const { validateFeed, processInParallel, PARALLEL_WORKERS } = require('./utils');
 
 // Configuration
-const INPUT_JSON = path.join(__dirname, 'news-feed-list-of-countries.json');
+const INPUT_JSON = path.join(__dirname, '..', 'news-feed-list-of-countries.json');
 const OUTPUT_README = path.join(__dirname, '..', 'README.md');
 const OUTPUT_JSON_ALL = path.join(__dirname, '..', 'news-feed-list-of-countries.json');
 const OUTPUT_JSON_ACTIVE = path.join(__dirname, '..', 'news-feed-list-of-countries-active.json');
