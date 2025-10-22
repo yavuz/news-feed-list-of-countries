@@ -1,0 +1,23 @@
+{
+  "name": "news-feed-list-of-countries",
+  "version": "1.0.0",
+  "description": "A curated list of news feed sources from countries around the world with automated validation",
+  "main": "src/codegen.js",
+  "scripts": {
+    "build": "node src/codegen.js",
+    "migrate": "node src/migrate.js"
+  },
+  "keywords": [
+    "news",
+    "rss",
+    "feeds",
+    "countries",
+    "media"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "rss-parser": "^3.13.0"
+  }
+}
