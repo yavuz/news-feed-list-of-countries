@@ -7,6 +7,8 @@ const { validateFeed, processInParallel, PARALLEL_WORKERS } = require('./utils')
 // Configuration
 const INPUT_JSON = path.join(__dirname, 'news-feed-list-of-countries.json');
 const OUTPUT_README = path.join(__dirname, '..', 'README.md');
+const OUTPUT_JSON_ALL = path.join(__dirname, '..', 'news-feed-list-of-countries.json');
+const OUTPUT_JSON_ACTIVE = path.join(__dirname, '..', 'news-feed-list-of-countries-active.json');
 
 /**
  * Generates a markdown slug from a country name
@@ -132,18 +134,55 @@ async function generateMarkdown() {
     markdown += generateCountrySection(country, validatedData[country]);
   });
 
-  // Write to file
+  // Prepare JSON data
+  const allFeedsJson = {};
+  const activeFeedsJson = {};
+
+  countries.forEach(country => {
+    // For all feeds JSON - include all publications with their original structure
+    allFeedsJson[country] = validatedData[country].map(pub => ({
+      publication_name: pub.publication_name,
+      publication_website_uri: pub.publication_website_uri,
+      publication_rss_feed_uri: pub.publication_rss_feed_uri
+    }));
+
+    // For active feeds JSON - only include valid feeds
+    const activeFeeds = validatedData[country]
+      .filter(pub => pub.isValid)
+      .map(pub => ({
+        publication_name: pub.publication_name,
+        publication_website_uri: pub.publication_website_uri,
+        publication_rss_feed_uri: pub.publication_rss_feed_uri
+      }));
+
+    if (activeFeeds.length > 0) {
+      activeFeedsJson[country] = activeFeeds;
+    }
+  });
+
+  // Write to files
   try {
+    // Write README.md
     fs.writeFileSync(OUTPUT_README, markdown, 'utf8');
     console.log(`\n✅ Successfully generated ${OUTPUT_README}`);
+
+    // Write all feeds JSON
+    fs.writeFileSync(OUTPUT_JSON_ALL, JSON.stringify(allFeedsJson, null, 2), 'utf8');
+    console.log(`✅ Successfully generated ${OUTPUT_JSON_ALL}`);
+
+    // Write active feeds JSON
+    fs.writeFileSync(OUTPUT_JSON_ACTIVE, JSON.stringify(activeFeedsJson, null, 2), 'utf8');
+    console.log(`✅ Successfully generated ${OUTPUT_JSON_ACTIVE}`);
+
     console.log(`\n📊 Summary:`);
     console.log(`   Total feeds processed: ${totalFeeds}`);
     console.log(`   Valid feeds (✅): ${validFeeds}`);
     console.log(`   Invalid/Outdated feeds (❌): ${totalFeeds - validFeeds}`);
     console.log(`   Countries included: ${countries.length}`);
+    console.log(`   Countries with active feeds: ${Object.keys(activeFeedsJson).length}`);
     console.log(`   Success rate: ${((validFeeds / totalFeeds) * 100).toFixed(1)}%`);
   } catch (error) {
-    console.error(`❌ Error writing markdown file: ${error.message}`);
+    console.error(`❌ Error writing output files: ${error.message}`);
     process.exit(1);
   }
 }

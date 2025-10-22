@@ -11,7 +11,7 @@ const parser = new Parser({
 
 // Constants
 const TWENTY_FOUR_HOURS_MS = 24 * 60 * 60 * 1000;
-const PARALLEL_WORKERS = 5;
+const PARALLEL_WORKERS = 10;
 
 /**
  * Validates if a feed exists and has been updated within the last 24 hours

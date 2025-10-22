@@ -5,7 +5,7 @@ const path = require('path');
 const { validateFeed, processInParallel, PARALLEL_WORKERS } = require('./utils');
 
 const README_PATH = path.join(__dirname, '..', 'README.md');
-const OUTPUT_JSON = path.join(__dirname, 'news-feed-list-of-countries.json');
+const OUTPUT_JSON = path.join(__dirname, '..', 'news-feed-list-of-countries-active.json');
 
 /**
  * Parses the README.md file and extracts country and publication data
