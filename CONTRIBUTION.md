@@ -34,6 +34,17 @@ Follow these steps to add your RSS feed:
      }
      ```
 
+   - **For feeds behind bot protection**, add the `bot_protection` flag:
+     ```json
+     {
+       "publication_name": "Your Publication Name",
+       "publication_website_uri": "https://yourwebsite.com",
+       "publication_rss_feed_uri": "https://yourwebsite.com/rss",
+       "bot_protection": true
+     }
+     ```
+     Feeds with `bot_protection: true` will be marked with ⚠️ in the README and will skip automatic validation.
+
 2. **Execute the codegen script** which will validate your feed and generate the README.md:
    ```bash
    ./codegen.sh
@@ -57,12 +68,18 @@ Follow these steps to add your RSS feed:
 Your RSS feed must meet these criteria:
 - The feed URL must be publicly accessible
 - The feed should be valid RSS/Atom format
-- The feed should have been updated recently
+- The feed should have been updated within the last 24 hours
+
+The generated README will use these status indicators:
+- ✅ **Valid Feed** - Feed is accessible and has been updated within the last 24 hours
+- ❌ **Invalid/Outdated Feed** - Feed is inaccessible, malformed, or hasn't been updated in over 24 hours
+- ⚠️ **Bot Protected** - Feed is behind bot protection and cannot be validated automatically
 
 If your feed fails validation, check:
 - Is the RSS feed URL correct?
 - Is the feed publicly accessible?
 - Is the feed actively maintained?
+- Does the feed have bot protection? (Cloudflare, etc.) - If yes, add `"bot_protection": true` to skip validation
 
 **⚠️ IMPORTANT**: Validation failures can also occur due to your local computer's network connection, DNS issues, firewall settings, or temporary internet connectivity problems. Before raising a PR with failed feeds marked as invalid, please:
 - Verify your internet connection is stable

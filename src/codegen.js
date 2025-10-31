@@ -51,7 +51,14 @@ function generateCountrySection(country, publications) {
   let section = `## ${country}\n\n`;
 
   publications.forEach(pub => {
-    const statusIcon = pub.isValid ? '✅' : '❌';
+    let statusIcon;
+    if (pub.isValid === 'bot_protected') {
+      statusIcon = '⚠️';
+    } else if (pub.isValid === true) {
+      statusIcon = '✅';
+    } else {
+      statusIcon = '❌';
+    }
     section += `- ${statusIcon} [${pub.publication_name}](${pub.publication_website_uri}) - [Feed](${pub.publication_rss_feed_uri})\n`;
   });
 
@@ -137,11 +144,17 @@ async function generateMarkdown() {
         const validatedPublications = [];
 
         for (const pub of publications) {
-          const isValid = await validateFeed(
-            pub.publication_rss_feed_uri,
-            pub.publication_name,
-            !enableLogging // silent mode when logging is disabled
-          );
+          // Skip validation if bot_protection is true
+          let isValid = false;
+          if (pub.bot_protection === true) {
+            isValid = 'bot_protected'; // Special status for bot-protected feeds
+          } else {
+            isValid = await validateFeed(
+              pub.publication_rss_feed_uri,
+              pub.publication_name,
+              !enableLogging // silent mode when logging is disabled
+            );
+          }
 
           validatedPublications.push({
             ...pub,
@@ -173,7 +186,7 @@ async function generateMarkdown() {
   allResults.forEach(workerResults => {
     Object.entries(workerResults).forEach(([country, publications]) => {
       validatedData[country] = publications;
-      validFeeds += publications.filter(p => p.isValid).length;
+      validFeeds += publications.filter(p => p.isValid === true).length;
     });
   });
 
@@ -186,6 +199,12 @@ async function generateMarkdown() {
   markdown += '**See [CONTRIBUTION.md](CONTRIBUTION.md) for instructions on how to contribute.**\n\n';
   markdown += '----------\n\n';
 
+  // Add legend
+  markdown += '## Legend\n\n';
+  markdown += '- ✅ **Valid Feed** - Feed is accessible and has been updated within the last 24 hours\n';
+  markdown += '- ❌ **Invalid/Outdated Feed** - Feed is inaccessible, malformed, or hasn\'t been updated in over 24 hours\n';
+  markdown += '- ⚠️ **Bot Protected** - Feed is behind bot protection and cannot be validated automatically\n\n';
+
   markdown += generateTableOfContents(countries);
 
   countries.forEach(country => {
@@ -196,9 +215,9 @@ async function generateMarkdown() {
   const activeFeedsJson = {};
 
   countries.forEach(country => {
-    // For active feeds JSON - only include valid feeds
+    // For active feeds JSON - only include valid feeds (exclude bot-protected)
     const activeFeeds = validatedData[country]
-      .filter(pub => pub.isValid)
+      .filter(pub => pub.isValid === true)
       .map(pub => ({
         publication_name: pub.publication_name,
         publication_website_uri: pub.publication_website_uri,
