@@ -17,13 +17,14 @@ const PARALLEL_WORKERS = 10;
  * Validates if a feed exists and has been updated within the last 24 hours
  * @param {string} feedUrl - The RSS feed URL to validate
  * @param {string} publicationName - The name of the publication for logging
+ * @param {boolean} silent - If true, suppress console output
  * @returns {Promise<boolean>} - True if feed is valid and recent, false otherwise
  */
-async function validateFeed(feedUrl, publicationName) {
+async function validateFeed(feedUrl, publicationName, silent = false) {
   try {
     // Step 1: Check if feed exists with axios
     const response = await axios.get(feedUrl, {
-      timeout: 10000,
+      timeout: 2000,
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; RSS Feed Validator/1.0)',
       },
@@ -31,7 +32,7 @@ async function validateFeed(feedUrl, publicationName) {
     });
 
     if (response.status !== 200) {
-      console.error(`❌ [${publicationName}] Feed not accessible: ${feedUrl} (HTTP ${response.status})`);
+      if (!silent) console.error(`❌ [${publicationName}] Feed not accessible: ${feedUrl} (HTTP ${response.status})`);
       return false;
     }
 
@@ -42,7 +43,7 @@ async function validateFeed(feedUrl, publicationName) {
     const lastBuildDate = feed.lastBuildDate || feed.pubDate || (feed.items[0] && feed.items[0].pubDate);
 
     if (!lastBuildDate) {
-      console.error(`❌ [${publicationName}] No lastBuildDate found in feed: ${feedUrl}`);
+      if (!silent) console.error(`❌ [${publicationName}] No lastBuildDate found in feed: ${feedUrl}`);
       return false;
     }
 
@@ -51,20 +52,22 @@ async function validateFeed(feedUrl, publicationName) {
     const hoursSinceUpdate = (now - lastUpdate) / (1000 * 60 * 60);
 
     if (now - lastUpdate > TWENTY_FOUR_HOURS_MS) {
-      console.error(`❌ [${publicationName}] Feed outdated (${hoursSinceUpdate.toFixed(1)} hours old): ${feedUrl}`);
+      if (!silent) console.error(`❌ [${publicationName}] Feed outdated (${hoursSinceUpdate.toFixed(1)} hours old): ${feedUrl}`);
       return false;
     }
 
-    console.log(`✅ [${publicationName}] Valid feed (updated ${hoursSinceUpdate.toFixed(1)} hours ago)`);
+    if (!silent) console.log(`✅ [${publicationName}] Valid feed (updated ${hoursSinceUpdate.toFixed(1)} hours ago)`);
     return true;
 
   } catch (error) {
-    if (error.code === 'ENOTFOUND' || error.code === 'ECONNREFUSED') {
-      console.error(`❌ [${publicationName}] Feed URL not reachable: ${feedUrl}`);
-    } else if (error.code === 'ETIMEDOUT' || error.code === 'ECONNABORTED') {
-      console.error(`❌ [${publicationName}] Feed request timeout: ${feedUrl}`);
-    } else {
-      console.error(`❌ [${publicationName}] Error validating feed: ${feedUrl} - ${error.message}`);
+    if (!silent) {
+      if (error.code === 'ENOTFOUND' || error.code === 'ECONNREFUSED') {
+        console.error(`❌ [${publicationName}] Feed URL not reachable: ${feedUrl}`);
+      } else if (error.code === 'ETIMEDOUT' || error.code === 'ECONNABORTED') {
+        console.error(`❌ [${publicationName}] Feed request timeout: ${feedUrl}`);
+      } else {
+        console.error(`❌ [${publicationName}] Error validating feed: ${feedUrl} - ${error.message}`);
+      }
     }
     return false;
   }
@@ -98,9 +101,33 @@ async function processInParallel(tasks, processFn, workerCount) {
   return Promise.all(results);
 }
 
+/**
+ * Generates statistics block for the README
+ * @param {number} countriesWithValidFeeds - Number of countries with at least one valid feed
+ * @param {number} totalFeeds - Total number of publications parsed
+ * @param {number} validFeeds - Number of valid feeds
+ * @returns {string} - The statistics markdown block
+ */
+function generateStatisticsBlock(countriesWithValidFeeds, totalFeeds, validFeeds) {
+  const invalidFeeds = totalFeeds - validFeeds;
+  const successRate = ((validFeeds / totalFeeds) * 100).toFixed(1);
+
+  return `## Statistics
+
+\`\`\`
+Countries with valid feeds: ${countriesWithValidFeeds}
+Total publications parsed: ${totalFeeds}
+Valid feeds (✅): ${validFeeds}
+Invalid/Outdated feeds (❌): ${invalidFeeds}
+Success rate: ${successRate}%
+\`\`\`
+`;
+}
+
 module.exports = {
   validateFeed,
   processInParallel,
+  generateStatisticsBlock,
   PARALLEL_WORKERS,
   TWENTY_FOUR_HOURS_MS,
 };

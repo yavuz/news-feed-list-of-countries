@@ -2,13 +2,13 @@
 
 const fs = require('fs');
 const path = require('path');
-const { validateFeed, processInParallel, PARALLEL_WORKERS } = require('./utils');
+const cliProgress = require('cli-progress');
+const { validateFeed, processInParallel, generateStatisticsBlock, PARALLEL_WORKERS } = require('./utils');
 
 // Configuration
-const INPUT_JSON = path.join(__dirname, '..', 'news-feed-list-of-countries.json');
+const INPUT_JSON = path.join(__dirname, '..', 'database', 'news-feed-list-of-countries.json');
 const OUTPUT_README = path.join(__dirname, '..', 'README.md');
-const OUTPUT_JSON_ALL = path.join(__dirname, '..', 'news-feed-list-of-countries.json');
-const OUTPUT_JSON_ACTIVE = path.join(__dirname, '..', 'news-feed-list-of-countries-active.json');
+const OUTPUT_JSON_ACTIVE = path.join(__dirname, '..', 'active-feeds-auto-generated.json');
 
 /**
  * Generates a markdown slug from a country name
@@ -74,10 +74,22 @@ async function generateMarkdown() {
   let totalFeeds = 0;
   let validFeeds = 0;
 
+  // Calculate total number of feeds
+  const totalFeedsCount = Object.values(data).reduce((sum, pubs) => sum + pubs.length, 0);
+  let processedFeeds = 0;
+
+  // Create progress bar
+  const progressBar = new cliProgress.SingleBar({
+    format: 'Validating feeds |{bar}| {percentage}% | {value}/{total}',
+    barCompleteChar: '\u2588',
+    barIncompleteChar: '\u2591',
+    hideCursor: true
+  });
+
+  progressBar.start(totalFeedsCount, 0);
+
   // Validate all feeds with parallel processing
   for (const [country, publications] of Object.entries(data)) {
-    console.log(`\n📍 Validating feeds for ${country}...`);
-
     // Create tasks for parallel processing
     const tasks = publications.map(pub => ({
       publication: pub,
@@ -90,8 +102,11 @@ async function generateMarkdown() {
       async (task) => {
         const isValid = await validateFeed(
           task.publication.publication_rss_feed_uri,
-          task.publication.publication_name
+          task.publication.publication_name,
+          true // silent mode - no console logs
         );
+        processedFeeds++;
+        progressBar.update(processedFeeds);
         return {
           ...task.publication,
           isValid: isValid
@@ -106,27 +121,16 @@ async function generateMarkdown() {
     validFeeds += results.filter(r => r.isValid).length;
   }
 
+  progressBar.stop();
+
   // Generate markdown content
   console.log('\n📝 Generating README.md file...');
 
   const countries = Object.keys(validatedData).sort();
 
-  let markdown = 'Popular news feed sources of the countries\n';
-  markdown += '===================\n\n';
-  markdown += '![News](news.jpg)\n\n';
-  markdown += '### About the Project\n\n';
-  markdown += 'This repository is dedicated to compiling media and news sources from countries around the world. ';
-  markdown += 'It contains links to popular news websites and RSS feeds for each country, aiming to provide users easy access to these resources and keep them updated with current news.\n\n';
-  markdown += '#### Invitation to Contribute\n';
-  markdown += 'If you have information about news sources related to your country, we would love for you to contribute to this project! ';
-  markdown += 'Feel free to add media links or feed links, update existing information, or suggest new sources. ';
-  markdown += 'Any support you provide will help enrich our project.\n\n';
-  markdown += '#### Collaboration and Support\n';
-  markdown += 'By sharing your knowledge of news sources, we can strengthen this project together. ';
-  markdown += 'Your contributions will help more people access accurate information. \n\n';
-  markdown += 'Please contribute to making the flow of news around the world more accessible!\n\n';
-  markdown += 'Thank you!\n\n';
-  markdown += '----------\n';
+  let markdown = '# AUTO-GENERATED: DO NOT MODIFY MANUALLY\n\n';
+  markdown += '**See [CONTRIBUTION.md](CONTRIBUTION.md) for instructions on how to contribute.**\n\n';
+  markdown += '----------\n\n';
 
   markdown += generateTableOfContents(countries);
 
@@ -134,18 +138,10 @@ async function generateMarkdown() {
     markdown += generateCountrySection(country, validatedData[country]);
   });
 
-  // Prepare JSON data
-  const allFeedsJson = {};
+  // Prepare JSON data for active feeds only
   const activeFeedsJson = {};
 
   countries.forEach(country => {
-    // For all feeds JSON - include all publications with their original structure
-    allFeedsJson[country] = validatedData[country].map(pub => ({
-      publication_name: pub.publication_name,
-      publication_website_uri: pub.publication_website_uri,
-      publication_rss_feed_uri: pub.publication_rss_feed_uri
-    }));
-
     // For active feeds JSON - only include valid feeds
     const activeFeeds = validatedData[country]
       .filter(pub => pub.isValid)
@@ -160,15 +156,14 @@ async function generateMarkdown() {
     }
   });
 
+  // Add statistics block at the end
+  markdown += generateStatisticsBlock(Object.keys(activeFeedsJson).length, totalFeeds, validFeeds);
+
   // Write to files
   try {
     // Write README.md
     fs.writeFileSync(OUTPUT_README, markdown, 'utf8');
     console.log(`\n✅ Successfully generated ${OUTPUT_README}`);
-
-    // Write all feeds JSON
-    fs.writeFileSync(OUTPUT_JSON_ALL, JSON.stringify(allFeedsJson, null, 2), 'utf8');
-    console.log(`✅ Successfully generated ${OUTPUT_JSON_ALL}`);
 
     // Write active feeds JSON
     fs.writeFileSync(OUTPUT_JSON_ACTIVE, JSON.stringify(activeFeedsJson, null, 2), 'utf8');
@@ -181,6 +176,9 @@ async function generateMarkdown() {
     console.log(`   Countries included: ${countries.length}`);
     console.log(`   Countries with active feeds: ${Object.keys(activeFeedsJson).length}`);
     console.log(`   Success rate: ${((validFeeds / totalFeeds) * 100).toFixed(1)}%`);
+
+    // Exit successfully
+    process.exit(0);
   } catch (error) {
     console.error(`❌ Error writing output files: ${error.message}`);
     process.exit(1);
