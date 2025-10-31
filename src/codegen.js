@@ -1,9 +1,15 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-const path = require('path');
-const cliProgress = require('cli-progress');
-const { validateFeed, processInParallel, generateStatisticsBlock, PARALLEL_WORKERS } = require('./utils');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import cliProgress from 'cli-progress';
+import pLimit from 'p-limit';
+import { validateFeed, generateStatisticsBlock, PARALLEL_WORKERS } from './utils.js';
+
+// Get __dirname equivalent in ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Configuration
 const INPUT_JSON = path.join(__dirname, '..', 'database', 'news-feed-list-of-countries.json');
@@ -57,8 +63,14 @@ function generateCountrySection(country, publications) {
  * Main function to generate the README.md file with feed validation
  */
 async function generateMarkdown() {
+  // Check for -log parameter
+  const enableLogging = process.argv.includes('-log') || process.argv.includes('--log');
+
   console.log('🚀 Starting feed validation and markdown generation...\n');
   console.log(`⚙️  Using ${PARALLEL_WORKERS} parallel workers for faster processing\n`);
+  if (enableLogging) {
+    console.log('📋 Logging enabled - detailed feed validation logs will be shown\n');
+  }
 
   // Read the JSON file
   let data;
@@ -74,54 +86,96 @@ async function generateMarkdown() {
   let totalFeeds = 0;
   let validFeeds = 0;
 
-  // Calculate total number of feeds
-  const totalFeedsCount = Object.values(data).reduce((sum, pubs) => sum + pubs.length, 0);
-  let processedFeeds = 0;
+  // Split countries into chunks for each worker
+  const allCountries = Object.keys(data);
+  const chunkSize = Math.ceil(allCountries.length / PARALLEL_WORKERS);
+  const countryChunks = [];
 
-  // Create progress bar
-  const progressBar = new cliProgress.SingleBar({
-    format: 'Validating feeds |{bar}| {percentage}% | {value}/{total}',
-    barCompleteChar: '\u2588',
-    barIncompleteChar: '\u2591',
-    hideCursor: true
-  });
-
-  progressBar.start(totalFeedsCount, 0);
-
-  // Validate all feeds with parallel processing
-  for (const [country, publications] of Object.entries(data)) {
-    // Create tasks for parallel processing
-    const tasks = publications.map(pub => ({
-      publication: pub,
-      country: country
-    }));
-
-    // Process feeds in parallel with worker pool
-    const results = await processInParallel(
-      tasks,
-      async (task) => {
-        const isValid = await validateFeed(
-          task.publication.publication_rss_feed_uri,
-          task.publication.publication_name,
-          true // silent mode - no console logs
-        );
-        processedFeeds++;
-        progressBar.update(processedFeeds);
-        return {
-          ...task.publication,
-          isValid: isValid
-        };
-      },
-      PARALLEL_WORKERS
-    );
-
-    // Store all results (both valid and invalid)
-    validatedData[country] = results;
-    totalFeeds += results.length;
-    validFeeds += results.filter(r => r.isValid).length;
+  for (let i = 0; i < PARALLEL_WORKERS; i++) {
+    const start = i * chunkSize;
+    const chunk = allCountries.slice(start, start + chunkSize);
+    if (chunk.length > 0) {
+      countryChunks.push(chunk);
+    }
   }
 
-  progressBar.stop();
+  // Calculate feeds per worker for progress bars
+  const feedsPerWorker = countryChunks.map(chunk =>
+    chunk.reduce((sum, country) => sum + data[country].length, 0)
+  );
+
+  totalFeeds = feedsPerWorker.reduce((a, b) => a + b, 0);
+
+  // Create multi-progress bar (only if logging is disabled)
+  let multibar = null;
+  const progressBars = [];
+
+  if (!enableLogging) {
+    multibar = new cliProgress.MultiBar({
+      clearOnComplete: false,
+      hideCursor: true,
+      format: 'Worker {worker} |{bar}| {percentage}% | {value}/{total} feeds'
+    }, cliProgress.Presets.shades_classic);
+
+    // Create a progress bar for each worker
+    feedsPerWorker.forEach((feedCount, index) => {
+      const bar = multibar.create(feedCount, 0, { worker: index + 1 });
+      progressBars.push(bar);
+    });
+  }
+
+  // Create concurrency limiter
+  const limit = pLimit(PARALLEL_WORKERS);
+
+  // Process each chunk of countries with its own progress bar
+  const chunkPromises = countryChunks.map((chunk, workerIndex) =>
+    limit(async () => {
+      const results = {};
+
+      for (const country of chunk) {
+        const publications = data[country];
+        const validatedPublications = [];
+
+        for (const pub of publications) {
+          const isValid = await validateFeed(
+            pub.publication_rss_feed_uri,
+            pub.publication_name,
+            !enableLogging // silent mode when logging is disabled
+          );
+
+          validatedPublications.push({
+            ...pub,
+            isValid
+          });
+
+          // Update progress bar for this worker
+          if (progressBars[workerIndex]) {
+            progressBars[workerIndex].increment();
+          }
+        }
+
+        results[country] = validatedPublications;
+      }
+
+      return results;
+    })
+  );
+
+  // Wait for all chunks to complete
+  const allResults = await Promise.all(chunkPromises);
+
+  // Stop all progress bars
+  if (multibar) {
+    multibar.stop();
+  }
+
+  // Merge results from all workers
+  allResults.forEach(workerResults => {
+    Object.entries(workerResults).forEach(([country, publications]) => {
+      validatedData[country] = publications;
+      validFeeds += publications.filter(p => p.isValid).length;
+    });
+  });
 
   // Generate markdown content
   console.log('\n📝 Generating README.md file...');

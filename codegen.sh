@@ -27,4 +27,5 @@ if [ ! -d "node_modules" ]; then
 fi
 
 # Run the build
-npm run codegen
+# Pass all arguments to npm run codegen (e.g., -log)
+npm run codegen -- "$@"

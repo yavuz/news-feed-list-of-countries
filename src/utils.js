@@ -1,17 +1,16 @@
-const axios = require('axios');
-const Parser = require('rss-parser');
+import Parser from 'rss-parser';
 
 // RSS Parser configuration
 const parser = new Parser({
-  timeout: 10000,
+  timeout: 5000,
   headers: {
     'User-Agent': 'Mozilla/5.0 (compatible; RSS Feed Validator/1.0)',
   },
 });
 
 // Constants
-const TWENTY_FOUR_HOURS_MS = 24 * 60 * 60 * 1000;
-const PARALLEL_WORKERS = 10;
+export const TWENTY_FOUR_HOURS_MS = 24 * 60 * 60 * 1000;
+export const PARALLEL_WORKERS = 5;
 
 /**
  * Validates if a feed exists and has been updated within the last 24 hours
@@ -20,26 +19,12 @@ const PARALLEL_WORKERS = 10;
  * @param {boolean} silent - If true, suppress console output
  * @returns {Promise<boolean>} - True if feed is valid and recent, false otherwise
  */
-async function validateFeed(feedUrl, publicationName, silent = false) {
+export async function validateFeed(feedUrl, publicationName, silent = false) {
   try {
-    // Step 1: Check if feed exists with axios
-    const response = await axios.get(feedUrl, {
-      timeout: 2000,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; RSS Feed Validator/1.0)',
-      },
-      validateStatus: (status) => status < 500, // Don't throw on 4xx errors
-    });
+    // Parse the RSS feed directly from URL
+    const feed = await parser.parseURL(feedUrl);
 
-    if (response.status !== 200) {
-      if (!silent) console.error(`❌ [${publicationName}] Feed not accessible: ${feedUrl} (HTTP ${response.status})`);
-      return false;
-    }
-
-    // Step 2: Parse the RSS feed
-    const feed = await parser.parseString(response.data);
-
-    // Step 3: Check lastBuildDate
+    // Check lastBuildDate
     const lastBuildDate = feed.lastBuildDate || feed.pubDate || (feed.items[0] && feed.items[0].pubDate);
 
     if (!lastBuildDate) {
@@ -74,41 +59,13 @@ async function validateFeed(feedUrl, publicationName, silent = false) {
 }
 
 /**
- * Processes an array of tasks in parallel with a limited number of workers
- * @param {Array} tasks - Array of tasks to process
- * @param {Function} processFn - Async function to process each task
- * @param {number} workerCount - Number of parallel workers
- * @returns {Promise<Array>} - Array of results
- */
-async function processInParallel(tasks, processFn, workerCount) {
-  const results = [];
-  const executing = [];
-
-  for (const task of tasks) {
-    const promise = processFn(task).then(result => {
-      executing.splice(executing.indexOf(promise), 1);
-      return result;
-    });
-
-    results.push(promise);
-    executing.push(promise);
-
-    if (executing.length >= workerCount) {
-      await Promise.race(executing);
-    }
-  }
-
-  return Promise.all(results);
-}
-
-/**
  * Generates statistics block for the README
  * @param {number} countriesWithValidFeeds - Number of countries with at least one valid feed
  * @param {number} totalFeeds - Total number of publications parsed
  * @param {number} validFeeds - Number of valid feeds
  * @returns {string} - The statistics markdown block
  */
-function generateStatisticsBlock(countriesWithValidFeeds, totalFeeds, validFeeds) {
+export function generateStatisticsBlock(countriesWithValidFeeds, totalFeeds, validFeeds) {
   const invalidFeeds = totalFeeds - validFeeds;
   const successRate = ((validFeeds / totalFeeds) * 100).toFixed(1);
 
@@ -124,10 +81,3 @@ Success rate: ${successRate}%
 `;
 }
 
-module.exports = {
-  validateFeed,
-  processInParallel,
-  generateStatisticsBlock,
-  PARALLEL_WORKERS,
-  TWENTY_FOUR_HOURS_MS,
-};
