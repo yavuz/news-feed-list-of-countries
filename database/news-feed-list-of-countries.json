@@ -1,5 +1,5 @@
 {
-  "Afghanistan": [
+  "AFG": [
     {
       "publication_name": "Tolo News",
       "publication_website_uri": "http://tolonews.com/",
@@ -46,7 +46,7 @@
       "publication_rss_feed_uri": "https://www.khaama.com/category/afghanistan/a-a/feed"
     }
   ],
-  "Albania": [
+  "ALB": [
     {
       "publication_name": "TOP Channel",
       "publication_website_uri": "http://top-channel.tv/",
@@ -133,7 +133,7 @@
       "publication_rss_feed_uri": "http://www.oranews.tv/feed/"
     }
   ],
-  "Algeria": [
+  "DZA": [
     {
       "publication_name": "Echorouk",
       "publication_website_uri": "http://www.echoroukonline.com/",
@@ -215,7 +215,7 @@
       "publication_rss_feed_uri": "http://feeds.feedburner.com/ElmoudjahidArticles"
     }
   ],
-  "Andorra": [
+  "AND": [
     {
       "publication_name": "Agenda",
       "publication_website_uri": "http://www.agenda.ad/",
@@ -252,7 +252,7 @@
       "publication_rss_feed_uri": "http://bizandorra.com/blog/feed/"
     }
   ],
-  "Angola": [
+  "AGO": [
     {
       "publication_name": "Club-K",
       "publication_website_uri": "http://club-k.net/",
@@ -324,7 +324,7 @@
       "publication_rss_feed_uri": "http://opais.co.ao/exame/home/feed/"
     }
   ],
-  "Antigua and Barbuda": [
+  "ATG": [
     {
       "publication_name": "Caribarena Antigua",
       "publication_website_uri": "http://www.caribarena.com/antigua/",
@@ -336,7 +336,7 @@
       "publication_rss_feed_uri": "http://www.antiguaobserver.com/tag/honoured/feed/"
     }
   ],
-  "Argentina": [
+  "ARG": [
     {
       "publication_name": "Clarin",
       "publication_website_uri": "https://www.clarin.com/",
@@ -448,7 +448,7 @@
       "publication_rss_feed_uri": "https://buenosairesherald.com/feed/atom"
     }
   ],
-  "Armenia": [
+  "ARM": [
     {
       "publication_name": "News.am",
       "publication_website_uri": "http://news.am/",
@@ -550,7 +550,7 @@
       "publication_rss_feed_uri": "http://civilnet.am/feed/"
     }
   ],
-  "Aruba": [
+  "ABW": [
     {
       "publication_name": "Extra",
       "publication_website_uri": "http://extra.cw/",
@@ -602,7 +602,7 @@
       "publication_rss_feed_uri": "http://www.meristation.com/rss/news"
     }
   ],
-  "Australia": [
+  "AUS": [
     {
       "publication_name": "nineMSN",
       "publication_website_uri": "http://ninemsn.com.au/",
@@ -694,7 +694,7 @@
       "publication_rss_feed_uri": "http://www.sportsfan.com.au/ajax.aspx?Feed=News.RSS&moduleId=810&categories=98"
     }
   ],
-  "Austria": [
+  "AUT": [
     {
       "publication_name": "ORF.at",
       "publication_website_uri": "http://orf.at/",
@@ -796,7 +796,7 @@
       "publication_rss_feed_uri": "http://www.wienerzeitung.at/_export/rss/channel/wien/index.rss"
     }
   ],
-  "Azerbaijan": [
+  "AZE": [
     {
       "publication_name": "Day.az",
       "publication_website_uri": "http://day.az/",
@@ -888,7 +888,7 @@
       "publication_rss_feed_uri": "http://cempion.az/feed/"
     }
   ],
-  "Bahamas": [
+  "BHS": [
     {
       "publication_name": "Bahamas Press",
       "publication_website_uri": "http://bahamaspress.com/",
@@ -940,7 +940,7 @@
       "publication_rss_feed_uri": "http://www.theabaconian.com/category/lifestyles/people/feed/"
     }
   ],
-  "Bahrain": [
+  "BHR": [
     {
       "publication_name": "AlWatan",
       "publication_website_uri": "http://alwatannews.net/",
@@ -987,7 +987,7 @@
       "publication_rss_feed_uri": "http://dalelkm.com/rss/"
     }
   ],
-  "Bangladesh": [
+  "BGD": [
     {
       "publication_name": "Prothom Alo",
       "publication_website_uri": "http://prothom-alo.com/",
@@ -1079,7 +1079,7 @@
       "publication_rss_feed_uri": "https://earther.vercel.app/rss.xml"
     }
   ],
-  "Barbados": [
+  "BRB": [
     {
       "publication_name": "Nation News",
       "publication_website_uri": "http://www.nationnews.com/",
@@ -1106,7 +1106,7 @@
       "publication_rss_feed_uri": "http://www.cbc.bb/cbcbarbados/index.php/en/homepage-2/itemlist/user/42-caribbeanbroadcastingcorporation?format=feed"
     }
   ],
-  "Belarus": [
+  "BLR": [
     {
       "publication_name": "TUT.by News",
       "publication_website_uri": "http://news.tut.by/",
@@ -1188,7 +1188,7 @@
       "publication_rss_feed_uri": "http://www.budzma.com/feed"
     }
   ],
-  "Belgium": [
+  "BEL": [
     {
       "publication_name": "La Libre",
       "publication_website_uri": "https://www.lalibre.be/",
@@ -1245,7 +1245,7 @@
       "publication_rss_feed_uri": "https://www.7sur7.be/home/rss.xml"
     }
   ],
-  "Belize": [
+  "BLZ": [
     {
       "publication_name": "Belize News",
       "publication_website_uri": "http://belizenews.com/",
@@ -1297,7 +1297,7 @@
       "publication_rss_feed_uri": "http://www.guardian.bz/index.php?format=feed&type=rss"
     }
   ],
-  "Benin": [
+  "BEN": [
     {
       "publication_name": "Jolome",
       "publication_website_uri": "http://www.jolome.com/",
@@ -1344,7 +1344,7 @@
       "publication_rss_feed_uri": "http://www.microchip.com/forums/rss-m459893.ashx"
     }
   ],
-  "Bermuda": [
+  "BMU": [
     {
       "publication_name": "Royal Gazette",
       "publication_website_uri": "http://royalgazette.com/",
@@ -1371,7 +1371,7 @@
       "publication_rss_feed_uri": "http://vsb.bm/feed/"
     }
   ],
-  "Bhutan": [
+  "BTN": [
     {
       "publication_name": "BBS",
       "publication_website_uri": "http://www.bbs.bt/news/",
@@ -1398,7 +1398,7 @@
       "publication_rss_feed_uri": "http://www.thebhutanese.bt/tag/druk-green-power-corporation/feed/"
     }
   ],
-  "Bolivia": [
+  "BOL": [
     {
       "publication_name": "La Razón",
       "publication_website_uri": "https://la-razon.com/",
@@ -1435,7 +1435,7 @@
       "publication_rss_feed_uri": "https://lapatria.bo/feed/"
     }
   ],
-  "Bosnia and Herzegovina": [
+  "BIH": [
     {
       "publication_name": "Avaz",
       "publication_website_uri": "http://dnevniavaz.ba/",
@@ -1527,7 +1527,7 @@
       "publication_rss_feed_uri": "http://www.apple.com/pr/feeds/pr.rss"
     }
   ],
-  "Botswana": [
+  "BWA": [
     {
       "publication_name": "The Monitor",
       "publication_website_uri": "http://www.mmegi.bw/",
@@ -1569,7 +1569,7 @@
       "publication_rss_feed_uri": "http://fmradiobuffer.com/feed/"
     }
   ],
-  "Brazil": [
+  "BRA": [
     {
       "publication_name": "UOL Notícias",
       "publication_website_uri": "https://www.uol.com.br/",
@@ -1661,7 +1661,7 @@
       "publication_rss_feed_uri": "https://www.pragmatismopolitico.com.br/feed"
     }
   ],
-  "Brunei": [
+  "BRN": [
     {
       "publication_name": "The Brunei Times",
       "publication_website_uri": "http://www.bt.com.bn/",
@@ -1688,7 +1688,7 @@
       "publication_rss_feed_uri": "http://www.rtbundy.com/rss/news"
     }
   ],
-  "Bulgaria": [
+  "BGR": [
     {
       "publication_name": "Vesti.bg",
       "publication_website_uri": "http://vesti.bg/",
@@ -1780,7 +1780,7 @@
       "publication_rss_feed_uri": "http://www.segabg.com/rss20.xml"
     }
   ],
-  "Burkina Faso": [
+  "BFA": [
     {
       "publication_name": "leFaso.net",
       "publication_website_uri": "http://lefaso.net/",
@@ -1822,7 +1822,7 @@
       "publication_rss_feed_uri": "http://bbari103.afrikblog.com/rss.xml"
     }
   ],
-  "Burma": [
+  "MMR": [
     {
       "publication_name": "Thit Htoo Lwin",
       "publication_website_uri": "http://www.thithtoolwin.com/",
@@ -1874,7 +1874,7 @@
       "publication_rss_feed_uri": "http://vimeo.com/channels/205092/videos/rss"
     }
   ],
-  "Burundi": [
+  "BDI": [
     {
       "publication_name": "IWACU",
       "publication_website_uri": "http://iwacu-burundi.org/",
@@ -1921,7 +1921,7 @@
       "publication_rss_feed_uri": "http://rwandapaparazzi.net/amateka-y-ikinyobwa-cyangwa-inzoga-ya-primus-gahuzamiryango-benshi-bakunda/feed/"
     }
   ],
-  "Cambodia": [
+  "KHM": [
     {
       "publication_name": "DAP News",
       "publication_website_uri": "http://dap-news.com/",
@@ -1998,7 +1998,7 @@
       "publication_rss_feed_uri": "http://www.happykidscambodia.com/1/feed"
     }
   ],
-  "Cameroon": [
+  "CMR": [
     {
       "publication_name": "CIN Cameroon-Info.Net",
       "publication_website_uri": "http://cameroon-info.net/",
@@ -2095,7 +2095,7 @@
       "publication_rss_feed_uri": "http://journalducameroun.com/rss/"
     }
   ],
-  "Canada": [
+  "CAN": [
     {
       "publication_name": "CBC News",
       "publication_website_uri": "https://www.cbc.ca/",
@@ -2252,7 +2252,7 @@
       "publication_rss_feed_uri": "https://www.macleans.ca/feed/"
     }
   ],
-  "Cape Verde": [
+  "CPV": [
     {
       "publication_name": "SAPO.cv",
       "publication_website_uri": "http://www.sapo.cv",
@@ -2279,7 +2279,7 @@
       "publication_rss_feed_uri": "http://www.rtc.edu/rss.xml"
     }
   ],
-  "Cayman Islands": [
+  "CYM": [
     {
       "publication_name": "cayCompass",
       "publication_website_uri": "http://compasscayman.com/",
@@ -2306,7 +2306,7 @@
       "publication_rss_feed_uri": "http://www.z99.ky/feed/"
     }
   ],
-  "Central African Republic": [
+  "CAF": [
     {
       "publication_name": "Centrafrique Presse Info",
       "publication_website_uri": "http://www.centrafrique-presse.info/",
@@ -2318,7 +2318,7 @@
       "publication_rss_feed_uri": "http://www.radiondekeluka.org/index.php?format=feed&type=rss"
     }
   ],
-  "Chad": [
+  "TCD": [
     {
       "publication_name": "ONR TV",
       "publication_website_uri": "http://onrtv.td/",
@@ -2345,7 +2345,7 @@
       "publication_rss_feed_uri": "http://tchadonline.com/index.php/feed/"
     }
   ],
-  "Chile": [
+  "CHL": [
     {
       "publication_name": "BioBioChile",
       "publication_website_uri": "https://biobiochile.cl/",
@@ -2387,7 +2387,7 @@
       "publication_rss_feed_uri": "https://santiagotimes.cl/feed/"
     }
   ],
-  "China": [
+  "CHN": [
     {
       "publication_name": "QQ",
       "publication_website_uri": "http://qq.com/",
@@ -2489,7 +2489,7 @@
       "publication_rss_feed_uri": "http://furtherglory.wordpress.com/2014/08/27/the-nazis-were-green-when-being-green-wasnt-cool/feed/"
     }
   ],
-  "Colombia": [
+  "COL": [
     {
       "publication_name": "El Tiempo",
       "publication_website_uri": "http://eltiempo.com/",
@@ -2586,7 +2586,7 @@
       "publication_rss_feed_uri": "http://www.jetsetmag.com/newsroom/feed/"
     }
   ],
-  "Comoros": [
+  "COM": [
     {
       "publication_name": "Al-Watwan",
       "publication_website_uri": "http://www.alwatwan.net/",
@@ -2613,7 +2613,7 @@
       "publication_rss_feed_uri": "http://www.scoop.it/t/comores-by-mauritius-oil-and-gas/rss.xml"
     }
   ],
-  "Cook Islands": [
+  "COK": [
     {
       "publication_name": "Cook Islands News",
       "publication_website_uri": "http://www.cookislandsnews.com/",
@@ -2625,7 +2625,7 @@
       "publication_rss_feed_uri": "http://rss.nzherald.co.nz/rss/xml/nzhrsslocid_000000010.xml"
     }
   ],
-  "Costa Rica": [
+  "CRI": [
     {
       "publication_name": "Diario Extra",
       "publication_website_uri": "http://diarioextra.com/",
@@ -2707,7 +2707,7 @@
       "publication_rss_feed_uri": "http://www.radiocolumbia.nl/?feed=rss2&cat=1"
     }
   ],
-  "Croatia": [
+  "HRV": [
     {
       "publication_name": "Jutarnji.hr",
       "publication_website_uri": "http://jutarnji.hr/",
@@ -2804,7 +2804,7 @@
       "publication_rss_feed_uri": "http://www.story.hr/feed"
     }
   ],
-  "Cuba": [
+  "CUB": [
     {
       "publication_name": "el Nuevo Herald",
       "publication_website_uri": "http://elnuevoherald.com/",
@@ -2856,7 +2856,7 @@
       "publication_rss_feed_uri": "http://www.laprensalatina.com/feed/"
     }
   ],
-  "Cyprus": [
+  "CYP": [
     {
       "publication_name": "Sigma Live",
       "publication_website_uri": "http://sigmalive.com/",
@@ -2948,7 +2948,7 @@
       "publication_rss_feed_uri": "http://feeds.24.com/articles/Fin24/News/rss"
     }
   ],
-  "Czech Republic": [
+  "CZE": [
     {
       "publication_name": "Novinky.cz",
       "publication_website_uri": "http://novinky.cz/",
@@ -3050,7 +3050,7 @@
       "publication_rss_feed_uri": "http://inspirujiciosobnosti.cz/feed/"
     }
   ],
-  "Democratic Republic of the Congo": [
+  "COD": [
     {
       "publication_name": "Mediacongo.net",
       "publication_website_uri": "http://mediacongo.net/",
@@ -3132,7 +3132,7 @@
       "publication_rss_feed_uri": "http://www.lesoftonline.net/taxonomy/term/1/all/feed"
     }
   ],
-  "Denmark": [
+  "DNK": [
     {
       "publication_name": "Ekstra Bladet",
       "publication_website_uri": "http://ekstrabladet.dk/",
@@ -3224,7 +3224,7 @@
       "publication_rss_feed_uri": "http://rucforsk.ruc.dk/site/da/persons/bent-greve(33c89b1e-70cc-4464-93ec-ee7835022b59"
     }
   ],
-  "Djibouti": [
+  "DJI": [
     {
       "publication_name": "La Nacion",
       "publication_website_uri": "http://www.lanation.dj/",
@@ -3241,7 +3241,7 @@
       "publication_rss_feed_uri": "http://scholarsink.wordpress.com/feed/"
     }
   ],
-  "Dominica": [
+  "DMA": [
     {
       "publication_name": "Dominica News",
       "publication_website_uri": "http://dominicanewsonline.com/",
@@ -3273,7 +3273,7 @@
       "publication_rss_feed_uri": "http://www.vidadominicana.com/index.php?format=feed&type=rss"
     }
   ],
-  "Dominican Republic": [
+  "DOM": [
     {
       "publication_name": "Listin Diario",
       "publication_website_uri": "http://listindiario.com/",
@@ -3365,7 +3365,7 @@
       "publication_rss_feed_uri": "http://www.lainformacion.com.do/rss3.php"
     }
   ],
-  "East Timor": [
+  "TLS": [
     {
       "publication_name": "Guide Post",
       "publication_website_uri": "http://www.guideposttimor.com/",
@@ -3377,7 +3377,7 @@
       "publication_rss_feed_uri": "http://timordigital.com/feed.php"
     }
   ],
-  "Ecuador": [
+  "ECU": [
     {
       "publication_name": "El Comercio",
       "publication_website_uri": "https://elcomercio.pe/",
@@ -3499,7 +3499,7 @@
       "publication_rss_feed_uri": "https://studiofutbol.com.ec/feed/"
     }
   ],
-  "Egypt": [
+  "EGY": [
     {
       "publication_name": "Youm7",
       "publication_website_uri": "http://www.youm7.com/",
@@ -3596,7 +3596,7 @@
       "publication_rss_feed_uri": "http://www.filgoal.com/Arabic/RSS/NewsRSS.aspx"
     }
   ],
-  "El Salvador": [
+  "SLV": [
     {
       "publication_name": "El Salvador",
       "publication_website_uri": "http://elsalvador.com/",
@@ -3648,7 +3648,7 @@
       "publication_rss_feed_uri": "http://www.salvatruchos.com/tv/8-noticias?format=feed&type=rss"
     }
   ],
-  "Equatorial Guinea": [
+  "GNQ": [
     {
       "publication_name": "Guinea-ecuatorial.net",
       "publication_website_uri": "http://www.guinea-ecuatorial.net/",
@@ -3670,7 +3670,7 @@
       "publication_rss_feed_uri": "http://www.garotasestupidas.com/tvge-vlog-minha-participacao-no-clipe-lips-are-movin-meghan-trainor/feed/"
     }
   ],
-  "Eritrea": [
+  "ERI": [
     {
       "publication_name": "Assenna.com",
       "publication_website_uri": "http://www.assenna.com/",
@@ -3752,7 +3752,7 @@
       "publication_rss_feed_uri": "http://feeds.feedburner.com/Eastafrocom"
     }
   ],
-  "Estonia": [
+  "EST": [
     {
       "publication_name": "DELFI",
       "publication_website_uri": "http://delfi.ee/",
@@ -3834,7 +3834,7 @@
       "publication_rss_feed_uri": "http://www.reporter.ee/feed/"
     }
   ],
-  "Ethiopia": [
+  "ETH": [
     {
       "publication_name": "Ethiomedia.com",
       "publication_website_uri": "http://www.ethiomedia.com/",
@@ -3931,7 +3931,7 @@
       "publication_rss_feed_uri": "http://www.tadias.com/tag/ethiopia/feed/"
     }
   ],
-  "Faroe Islands": [
+  "FRO": [
     {
       "publication_name": "Portal.fo",
       "publication_website_uri": "http://portal.fo/",
@@ -3998,7 +3998,7 @@
       "publication_rss_feed_uri": "http://www.runavik.fo/Register/Rss.aspx?cId={EBF240E8-5F13-4E8E-AE36-21380A3623BA}"
     }
   ],
-  "Fiji": [
+  "FJI": [
     {
       "publication_name": "FijiVillage.com",
       "publication_website_uri": "http://fijivillage.com/",
@@ -4050,7 +4050,7 @@
       "publication_rss_feed_uri": "http://www.skypacific.tv/index.php?option=com_content&view=category&layout=blog&id=166&Itemid=269&format=feed&type=rss"
     }
   ],
-  "Finland": [
+  "FIN": [
     {
       "publication_name": "Ilta-Sanomat",
       "publication_website_uri": "http://iltasanomat.fi/",
@@ -4147,7 +4147,7 @@
       "publication_rss_feed_uri": "http://www.voice.fi/rss/atom_kategoria.php?cat_id=1"
     }
   ],
-  "France": [
+  "FRA": [
     {
       "publication_name": "France 24",
       "publication_website_uri": "https://www.france24.com/fr",
@@ -4259,7 +4259,7 @@
       "publication_rss_feed_uri": "https://www.ouest-france.fr/rss/france"
     }
   ],
-  "French Guiana": [
+  "GUF": [
     {
       "publication_name": "Blada",
       "publication_website_uri": "http://blada.com/",
@@ -4291,7 +4291,7 @@
       "publication_rss_feed_uri": "http://atgreviews.com/category/ps-tv/feed/"
     }
   ],
-  "French Polynesia": [
+  "PYF": [
     {
       "publication_name": "Polynesie 1ere",
       "publication_website_uri": "http://polynesie.la1ere.fr/",
@@ -4333,7 +4333,7 @@
       "publication_rss_feed_uri": "http://www.tiarefm.pf/2014/11/03/le-salon-de-la-beaute-et-du-bien-etre/feed/"
     }
   ],
-  "Gabon": [
+  "GAB": [
     {
       "publication_name": "Gabon Eco",
       "publication_website_uri": "http://gaboneco.com/",
@@ -4380,7 +4380,7 @@
       "publication_rss_feed_uri": "http://fr.infosgabon.com/feed/"
     }
   ],
-  "Gambia": [
+  "GMB": [
     {
       "publication_name": "Daily Observer",
       "publication_website_uri": "http://observer.gm/",
@@ -4407,7 +4407,7 @@
       "publication_rss_feed_uri": "http://thegambiaecho.com/xp/feed/"
     }
   ],
-  "Georgia": [
+  "GEO": [
     {
       "publication_name": "Ambebi.ge",
       "publication_website_uri": "http://geo.ambebi.ge/",
@@ -4504,7 +4504,7 @@
       "publication_rss_feed_uri": "http://www.ieeeghn.org/wiki/index.php?title=Special:Contributions/Azalma&feed=atom&limit=50&target=Azalma"
     }
   ],
-  "Germany": [
+  "DEU": [
     {
       "publication_name": "Bild",
       "publication_website_uri": "http://bild.de/",
@@ -4606,7 +4606,7 @@
       "publication_rss_feed_uri": "http://www.handelsblatt.com/contentexport/feed/schlagzeilen"
     }
   ],
-  "Ghana": [
+  "GHA": [
     {
       "publication_name": "GhanaWeb",
       "publication_website_uri": "http://www.ghanaweb.com/",
@@ -4703,7 +4703,7 @@
       "publication_rss_feed_uri": "http://www.facenfacts.com/RSS-FEED/22/"
     }
   ],
-  "Gibraltar": [
+  "GIB": [
     {
       "publication_name": "Gibraltar Chronicle",
       "publication_website_uri": "http://www.chronicle.gi/",
@@ -4735,7 +4735,7 @@
       "publication_rss_feed_uri": "http://www.gibraltarchamberofcommerce.com/news-publications/b2b-magazine/feed/"
     }
   ],
-  "Greece": [
+  "GRC": [
     {
       "publication_name": "in.gr",
       "publication_website_uri": "http://in.gr/",
@@ -4832,7 +4832,7 @@
       "publication_rss_feed_uri": "http://www.megatv.com/rss.asp?catid=13480&subid=20120"
     }
   ],
-  "Greenland": [
+  "GRL": [
     {
       "publication_name": "sermitsiaq.ag",
       "publication_website_uri": "http://sermitsiaq.ag/",
@@ -4849,7 +4849,7 @@
       "publication_rss_feed_uri": "http://nsidc.org/greenland-today/feed/"
     }
   ],
-  "Grenada": [
+  "GRD": [
     {
       "publication_name": "Spice Grenada",
       "publication_website_uri": "http://www.spicegrenada.com/",
@@ -4866,7 +4866,7 @@
       "publication_rss_feed_uri": "http://stakeholders.ofcom.org.uk/rss/obb.xml"
     }
   ],
-  "Guadeloupe": [
+  "GLP": [
     {
       "publication_name": "France-Antilles Guadeloupe",
       "publication_website_uri": "http://www.guadeloupe.franceantilles.fr/",
@@ -4893,7 +4893,7 @@
       "publication_rss_feed_uri": "http://lafamillecallue-auxantilles.over-blog.com/rss"
     }
   ],
-  "Guam": [
+  "GUM": [
     {
       "publication_name": "Guam Pacific Daily News",
       "publication_website_uri": "http://guampdn.com/",
@@ -4910,7 +4910,7 @@
       "publication_rss_feed_uri": "http://mvguam.com/local/business.feed?type=rss"
     }
   ],
-  "Guatemala": [
+  "GTM": [
     {
       "publication_name": "Prensa Libre",
       "publication_website_uri": "http://prensalibre.com/",
@@ -5012,7 +5012,7 @@
       "publication_rss_feed_uri": "http://www.publinews.gt/rss.xml"
     }
   ],
-  "Guernsey": [
+  "GGY": [
     {
       "publication_name": "This is Guernsey",
       "publication_website_uri": "http://www.thisisguernsey.com/news/",
@@ -5034,7 +5034,7 @@
       "publication_rss_feed_uri": "http://www.gsyfutu.com/?feed=rss2&tag=housing"
     }
   ],
-  "Guinea": [
+  "GIN": [
     {
       "publication_name": "Guineenews",
       "publication_website_uri": "http://guineenews.org/",
@@ -5086,7 +5086,7 @@
       "publication_rss_feed_uri": "http://www.radiotopafrica.com/index.php/show/itemlist/user/460-gls?format=feed"
     }
   ],
-  "Guinea-Bissau": [
+  "GNB": [
     {
       "publication_name": "Guine-Bissau",
       "publication_website_uri": "http://www.guine-bissau.com/",
@@ -5108,7 +5108,7 @@
       "publication_rss_feed_uri": "http://gazetaonline.globo.com/_conteudo/noticias/rss.xml"
     }
   ],
-  "Guyana": [
+  "GUY": [
     {
       "publication_name": "Kaieteur News",
       "publication_website_uri": "http://kaieteurnewsonline.com/",
@@ -5130,7 +5130,7 @@
       "publication_rss_feed_uri": "http://capitolnewsgy.com/feed/"
     }
   ],
-  "Haiti": [
+  "HTI": [
     {
       "publication_name": "RTVC Radio Television Caraibes",
       "publication_website_uri": "http://radiotelevisioncaraibes.com/",
@@ -5172,7 +5172,7 @@
       "publication_rss_feed_uri": "http://www.alterpresse.org/spip.php?page=backend"
     }
   ],
-  "Honduras": [
+  "HND": [
     {
       "publication_name": "Diario La Prensa",
       "publication_website_uri": "http://laprensa.hn/",
@@ -5224,7 +5224,7 @@
       "publication_rss_feed_uri": "http://ceellibertadorcurillocaqueta.wordpress.com/feed/"
     }
   ],
-  "Hong Kong": [
+  "HKG": [
     {
       "publication_name": "Apple Daily",
       "publication_website_uri": "http://hk.apple.nextmedia.com/",
@@ -5321,7 +5321,7 @@
       "publication_rss_feed_uri": "http://am730.com.br/feed/"
     }
   ],
-  "Hungary": [
+  "HUN": [
     {
       "publication_name": "ORIGO",
       "publication_website_uri": "http://origo.hu/",
@@ -5423,7 +5423,7 @@
       "publication_rss_feed_uri": "http://nepszava.hu/rss/"
     }
   ],
-  "Iceland": [
+  "ISL": [
     {
       "publication_name": "mbl.is",
       "publication_website_uri": "http://mbl.is/",
@@ -5495,7 +5495,7 @@
       "publication_rss_feed_uri": "http://www.feykir.is/feed"
     }
   ],
-  "India": [
+  "IND": [
     {
       "publication_name": "Rediff",
       "publication_website_uri": "http://rediff.com/",
@@ -5597,7 +5597,7 @@
       "publication_rss_feed_uri": "http://indianexpress.com/feed/"
     }
   ],
-  "Indonesia": [
+  "IDN": [
     {
       "publication_name": "Detik",
       "publication_website_uri": "http://detik.com/",
@@ -5699,7 +5699,7 @@
       "publication_rss_feed_uri": "http://www.jpnn.com/index.php/im533_966x100.sw?mib=rss"
     }
   ],
-  "Iran": [
+  "IRN": [
     {
       "publication_name": "Tabnak",
       "publication_website_uri": "http://tabnak.ir/",
@@ -5801,7 +5801,7 @@
       "publication_rss_feed_uri": "http://jahan-news.blogsky.com/rss"
     }
   ],
-  "Iraq": [
+  "IRQ": [
     {
       "publication_name": "Iraqi Media Network",
       "publication_website_uri": "http://imn.iq/",
@@ -5883,7 +5883,7 @@
       "publication_rss_feed_uri": "http://www.nrtmedya.com/rss.xml"
     }
   ],
-  "Ireland": [
+  "IRL": [
     {
       "publication_name": "RTE",
       "publication_website_uri": "http://rte.ie/",
@@ -5980,7 +5980,7 @@
       "publication_rss_feed_uri": "http://limerickleader.ie/cmlink/1.2593409"
     }
   ],
-  "Isle of Man": [
+  "IMN": [
     {
       "publication_name": "IOM Today",
       "publication_website_uri": "http://www.iomtoday.co.im/",
@@ -6007,7 +6007,7 @@
       "publication_rss_feed_uri": "http://isleofman.isle-news.com/comments/feed/"
     }
   ],
-  "Israel": [
+  "ISR": [
     {
       "publication_name": "Walla",
       "publication_website_uri": "http://walla.co.il/",
@@ -6109,7 +6109,7 @@
       "publication_rss_feed_uri": "http://www.jpost.com/RSS/RssFeedsFrontPage.aspx"
     }
   ],
-  "Italy": [
+  "ITA": [
     {
       "publication_name": "Corriere della Sera",
       "publication_website_uri": "http://corriere.it/",
@@ -6211,7 +6211,7 @@
       "publication_rss_feed_uri": "http://crocerossa.altervista.org/giovani/agi?format=feed&type=rss"
     }
   ],
-  "Jamaica": [
+  "JAM": [
     {
       "publication_name": "Jamaica Gleaner",
       "publication_website_uri": "http://jamaica-gleaner.com/",
@@ -6263,7 +6263,7 @@
       "publication_rss_feed_uri": "http://www.876news.com/?format=feed"
     }
   ],
-  "Japan": [
+  "JPN": [
     {
       "publication_name": "Yahoo! News Japan",
       "publication_website_uri": "http://headlines.yahoo.co.jp/",
@@ -6365,7 +6365,7 @@
       "publication_rss_feed_uri": "http://diamond.jp/list/rss?cc=s-taokastrategy"
     }
   ],
-  "Jersey": [
+  "JEY": [
     {
       "publication_name": "Channel TV",
       "publication_website_uri": "http://www.channelonline.tv/",
@@ -6387,7 +6387,7 @@
       "publication_rss_feed_uri": "http://jersey.isle-news.com/archives/category/construction/feed/"
     }
   ],
-  "Jordan": [
+  "JOR": [
     {
       "publication_name": "Saraya News",
       "publication_website_uri": "http://sarayanews.com/",
@@ -6474,7 +6474,7 @@
       "publication_rss_feed_uri": "https://www.robtex.com/en/advisory/dns/net/kahroba/index.rss"
     }
   ],
-  "Kazakhstan": [
+  "KAZ": [
     {
       "publication_name": "NUR.kz",
       "publication_website_uri": "http://nur.kz/",
@@ -6566,7 +6566,7 @@
       "publication_rss_feed_uri": "http://basoglucaravan.com.tr/feed/"
     }
   ],
-  "Kenya": [
+  "KEN": [
     {
       "publication_name": "Daily Nation",
       "publication_website_uri": "http://www.nation.co.ke/",
@@ -6663,7 +6663,7 @@
       "publication_rss_feed_uri": "http://ismailimail.wordpress.com/2011/10/07/aga-khan-hospital-breast-cancer-awareness-charity-walk-coastweek-com/feed/"
     }
   ],
-  "Kosovo": [
+  "XKK": [
     {
       "publication_name": "KOHAnet",
       "publication_website_uri": "http://koha.net/",
@@ -6765,7 +6765,7 @@
       "publication_rss_feed_uri": "http://infokosova.net/lojera/rss.php"
     }
   ],
-  "Kuwait": [
+  "KWT": [
     {
       "publication_name": "Al Watan Kuwait.tt",
       "publication_website_uri": "http://kuwait.tt/",
@@ -6862,7 +6862,7 @@
       "publication_rss_feed_uri": "http://www.beyaz.org/tag/al-khaleej-u20/feed/"
     }
   ],
-  "Kyrgyzstan": [
+  "KGZ": [
     {
       "publication_name": "AKIpress",
       "publication_website_uri": "http://www.akipress.com/",
@@ -6909,7 +6909,7 @@
       "publication_rss_feed_uri": "http://www.vesti.kg/index.php?option=com_k2&view=itemlist&format=feed"
     }
   ],
-  "Laos": [
+  "LAO": [
     {
       "publication_name": "KPL News",
       "publication_website_uri": "http://www.kpl.net.la/",
@@ -6936,7 +6936,7 @@
       "publication_rss_feed_uri": "http://www.sodepac.com/feed/"
     }
   ],
-  "Latvia": [
+  "LVA": [
     {
       "publication_name": "DELFI",
       "publication_website_uri": "http://delfi.lv/",
@@ -7028,7 +7028,7 @@
       "publication_rss_feed_uri": "http://www.puaro.lv/rss/puaro-ruskij.xml"
     }
   ],
-  "Lebanon": [
+  "LBN": [
     {
       "publication_name": "tayyar.org",
       "publication_website_uri": "http://tayyar.org/",
@@ -7110,7 +7110,7 @@
       "publication_rss_feed_uri": "http://freetalnow.blogspot.com/feeds/posts/default?alt=rss"
     }
   ],
-  "Lesotho": [
+  "LSO": [
     {
       "publication_name": "Lesotho Times",
       "publication_website_uri": "http://www.lestimes.com/",
@@ -7137,7 +7137,7 @@
       "publication_rss_feed_uri": "http://feeds.feedburner.com/InformativeAndEnlightening"
     }
   ],
-  "Liberia": [
+  "LBR": [
     {
       "publication_name": "New Democrat",
       "publication_website_uri": "http://www.newdemocratnews.com/",
@@ -7184,7 +7184,7 @@
       "publication_rss_feed_uri": "http://inprofiledaily.com/rss.xml"
     }
   ],
-  "Libya": [
+  "LBY": [
     {
       "publication_name": "Al Manara",
       "publication_website_uri": "http://www.almanaralink.com/",
@@ -7261,7 +7261,7 @@
       "publication_rss_feed_uri": "http://www.libya-businessnews.com/feed/"
     }
   ],
-  "Liechtenstein": [
+  "LIE": [
     {
       "publication_name": "Vaterland",
       "publication_website_uri": "http://vaterland.li/",
@@ -7298,7 +7298,7 @@
       "publication_rss_feed_uri": "http://www.biojournals.com/bjr.xml"
     }
   ],
-  "Lithuania": [
+  "LTU": [
     {
       "publication_name": "DELFI",
       "publication_website_uri": "http://delfi.lt/",
@@ -7395,7 +7395,7 @@
       "publication_rss_feed_uri": "http://senas.vdu.lt/news.xml"
     }
   ],
-  "Luxembourg": [
+  "LUX": [
     {
       "publication_name": "RTL",
       "publication_website_uri": "http://rtl.lu/",
@@ -7417,7 +7417,7 @@
       "publication_rss_feed_uri": "http://paperjam.lu/feed.rss"
     }
   ],
-  "Macau": [
+  "MAC": [
     {
       "publication_name": "Macao Daily",
       "publication_website_uri": "http://macaodaily.com/",
@@ -7444,7 +7444,7 @@
       "publication_rss_feed_uri": "http://macaubusinessdaily.com/rss.xml"
     }
   ],
-  "Macedonia": [
+  "MKD": [
     {
       "publication_name": "Kurir",
       "publication_website_uri": "http://kurir.mk/",
@@ -7546,7 +7546,7 @@
       "publication_rss_feed_uri": "https://www.mrt.com.mk/rss.xml"
     }
   ],
-  "Madagascar": [
+  "MDG": [
     {
       "publication_name": "Moov",
       "publication_website_uri": "http://www.moov.mg/",
@@ -7593,7 +7593,7 @@
       "publication_rss_feed_uri": "http://usznikek.blog.hu/rss"
     }
   ],
-  "Malawi": [
+  "MWI": [
     {
       "publication_name": "Nyasa Times",
       "publication_website_uri": "http://www.nyasatimes.com/",
@@ -7640,7 +7640,7 @@
       "publication_rss_feed_uri": "http://www.manaonline.gov.mw/index.php/religion/itemlist/category/26-news?format=feed"
     }
   ],
-  "Malaysia": [
+  "MYS": [
     {
       "publication_name": "The Star online",
       "publication_website_uri": "http://thestar.com.my/",
@@ -7737,7 +7737,7 @@
       "publication_rss_feed_uri": "http://web3.bernama.com/rssmoa_en_all.php/"
     }
   ],
-  "Maldives": [
+  "MDV": [
     {
       "publication_name": "Haveeru",
       "publication_website_uri": "http://haveeru.com.mv/",
@@ -7779,7 +7779,7 @@
       "publication_rss_feed_uri": "http://www.newdhivehiobserver.com/feed"
     }
   ],
-  "Mali": [
+  "MLI": [
     {
       "publication_name": "Maliweb.net",
       "publication_website_uri": "http://www.maliweb.net/",
@@ -7826,7 +7826,7 @@
       "publication_rss_feed_uri": "http://www.ortm.info/feed/"
     }
   ],
-  "Malta": [
+  "MLT": [
     {
       "publication_name": "Times of Malta",
       "publication_website_uri": "http://timesofmalta.com/",
@@ -7868,7 +7868,7 @@
       "publication_rss_feed_uri": "http://www.escflashmalta.com/index.php/music-news/itemlist/tag/Denmark?format=feed&limitstart="
     }
   ],
-  "Marshall Islands": [
+  "MHL": [
     {
       "publication_name": "Marshall Islands Journal",
       "publication_website_uri": "http://www.marshallislandsjournal.com/",
@@ -7880,7 +7880,7 @@
       "publication_rss_feed_uri": "http://www.yokwe.net/index.php?module=News&func=view&theme=rss"
     }
   ],
-  "Martinique": [
+  "MTQ": [
     {
       "publication_name": "Martinique 1ere",
       "publication_website_uri": "http://martinique.la1ere.fr/",
@@ -7907,7 +7907,7 @@
       "publication_rss_feed_uri": "http://politiques-publiques.com/martinique/feed/"
     }
   ],
-  "Mauritania": [
+  "MRT": [
     {
       "publication_name": "Sahara Medias",
       "publication_website_uri": "http://www.saharamedias.net/",
@@ -7984,7 +7984,7 @@
       "publication_rss_feed_uri": "http://www.elwatan.com/actualite/rss.xml"
     }
   ],
-  "Mauritius": [
+  "MUS": [
     {
       "publication_name": "Lexpress.mu",
       "publication_website_uri": "http://lexpress.mu/",
@@ -8036,7 +8036,7 @@
       "publication_rss_feed_uri": "http://www.powiatkrapkowicki.pl/temat/wicestarosta/feed/"
     }
   ],
-  "Mayotte": [
+  "MYT": [
     {
       "publication_name": "Mayotte Hebdo",
       "publication_website_uri": "http://www.mayottehebdo.com/",
@@ -8063,7 +8063,7 @@
       "publication_rss_feed_uri": "http://feeds.feedburner.com/orange-mayotte"
     }
   ],
-  "Mexico": [
+  "MEX": [
     {
       "publication_name": "Esmas.com",
       "publication_website_uri": "http://esmas.com/",
@@ -8160,7 +8160,7 @@
       "publication_rss_feed_uri": "http://www.elnorte.com/rss/portada.xml"
     }
   ],
-  "Moldova": [
+  "MDA": [
     {
       "publication_name": "Stirile Pro TV",
       "publication_website_uri": "http://protv.md/",
@@ -8267,7 +8267,7 @@
       "publication_rss_feed_uri": "https://www.zdg.md/feed/atom/"
     }
   ],
-  "Monaco": [
+  "MCO": [
     {
       "publication_name": "Monaco Times",
       "publication_website_uri": "http://www.rivieratimes.com/index.php/monaco.html",
@@ -8319,7 +8319,7 @@
       "publication_rss_feed_uri": "http://www.montecarlonews.it/links/rss/argomenti/matrimonio-del-principe/rss.xml"
     }
   ],
-  "Mongolia": [
+  "MNG": [
     {
       "publication_name": "Zaluu.com",
       "publication_website_uri": "http://zaluu.com/",
@@ -8401,7 +8401,7 @@
       "publication_rss_feed_uri": "http://podrobnoobovsem.ru/rss/www-ezone-mn-pro100-6c"
     }
   ],
-  "Montenegro": [
+  "MNE": [
     {
       "publication_name": "Vijesti",
       "publication_website_uri": "https://vijesti.me/",
@@ -8563,7 +8563,7 @@
       "publication_rss_feed_uri": "https://barinfo.me/feed/"
     }
   ],
-  "Morocco": [
+  "MAR": [
     {
       "publication_name": "Hespress",
       "publication_website_uri": "http://www.hespress.com/",
@@ -8660,7 +8660,7 @@
       "publication_rss_feed_uri": "http://akhbarok24.com/comments/feed"
     }
   ],
-  "Mozambique": [
+  "MOZ": [
     {
       "publication_name": "O Pa",
       "publication_website_uri": "http://opais.co.mz/",
@@ -8697,7 +8697,7 @@
       "publication_rss_feed_uri": "http://www.savana.co.mz/index.php?format=feed&type=rss"
     }
   ],
-  "Namibia": [
+  "NAM": [
     {
       "publication_name": "Namibian",
       "publication_website_uri": "http://www.namibian.com.na/",
@@ -8739,7 +8739,7 @@
       "publication_rss_feed_uri": "http://russellvillager.com/feed/"
     }
   ],
-  "Nepal": [
+  "NPL": [
     {
       "publication_name": "eKantipur.com",
       "publication_website_uri": "http://ekantipur.com/",
@@ -8791,7 +8791,7 @@
       "publication_rss_feed_uri": "http://www.newsofnepal.com/new/feed"
     }
   ],
-  "Netherlands": [
+  "NLD": [
     {
       "publication_name": "Telegraaf.nl",
       "publication_website_uri": "http://telegraaf.nl/",
@@ -8893,7 +8893,7 @@
       "publication_rss_feed_uri": "http://www.tedxamsterdamed.nl/feed/"
     }
   ],
-  "New Caledonia": [
+  "NCL": [
     {
       "publication_name": "Canal+",
       "publication_website_uri": "http://www.canalplus-caledonie.com/",
@@ -8910,7 +8910,7 @@
       "publication_rss_feed_uri": "http://www.caledonianpost.com/comments/feed"
     }
   ],
-  "New Zealand": [
+  "NZL": [
     {
       "publication_name": "Stuff.co.nz",
       "publication_website_uri": "http://stuff.co.nz/",
@@ -9007,7 +9007,7 @@
       "publication_rss_feed_uri": "http://www.nycradiolive.org/?feed=podcast"
     }
   ],
-  "Nicaragua": [
+  "NIC": [
     {
       "publication_name": "LA PRENSA",
       "publication_website_uri": "http://laprensa.com.ni/",
@@ -9059,7 +9059,7 @@
       "publication_rss_feed_uri": "http://www.desdechinandega.com/multinoticias-canal-4-lleva-a-toda-nicaragua-transmision-de-la-purisima.html/feed"
     }
   ],
-  "Niger": [
+  "NER": [
     {
       "publication_name": "Tam Tam Info",
       "publication_website_uri": "http://tamtaminfo.com/",
@@ -9086,7 +9086,7 @@
       "publication_rss_feed_uri": "http://www.tunisientunisie.com/tag/sahal/feed/"
     }
   ],
-  "Nigeria": [
+  "NGA": [
     {
       "publication_name": "Vanguard",
       "publication_website_uri": "http://www.vanguardngr.com/",
@@ -9173,7 +9173,7 @@
       "publication_rss_feed_uri": "http://www.informationng.com/feed"
     }
   ],
-  "North Korea": [
+  "PRK": [
     {
       "publication_name": "Korena Central News Agency",
       "publication_website_uri": "http://kcna.kp/",
@@ -9190,7 +9190,7 @@
       "publication_rss_feed_uri": "http://www.northkoreatech.org/2011/02/17/rodong-sinmun-launches-website/feed/"
     }
   ],
-  "Northern Mariana Islands": [
+  "MNP": [
     {
       "publication_name": "Marianas Variety",
       "publication_website_uri": "http://www.mvariety.com/",
@@ -9202,7 +9202,7 @@
       "publication_rss_feed_uri": "http://www.asgam.com/news/itemlist/tag/Tinian%20Dynasty%20Hotel.feed"
     }
   ],
-  "Norway": [
+  "NOR": [
     {
       "publication_name": "VG Nett",
       "publication_website_uri": "http://vg.no/",
@@ -9304,7 +9304,7 @@
       "publication_rss_feed_uri": "http://www.newsinenglish.no/2013/10/20/ministers-adapt-to-life-in-a-fish-bowl/feed/"
     }
   ],
-  "Oman": [
+  "OMN": [
     {
       "publication_name": "OmanDaily.com",
       "publication_website_uri": "http://omandaily.com/",
@@ -9346,7 +9346,7 @@
       "publication_rss_feed_uri": "http://www.azamn.com/?feed=rss2"
     }
   ],
-  "Pakistan": [
+  "PAK": [
     {
       "publication_name": "Daily Jang",
       "publication_website_uri": "http://jang.com.pk/",
@@ -9443,7 +9443,7 @@
       "publication_rss_feed_uri": "https://www.colombotelegraph.com/index.php/national-defense-university-delegates-meet-sri-lankan-authorities-pakistan-observer/feed/"
     }
   ],
-  "Palestine": [
+  "PSE": [
     {
       "publication_name": "Al Watan Voice",
       "publication_website_uri": "http://alwatanvoice.com/",
@@ -9490,7 +9490,7 @@
       "publication_rss_feed_uri": "http://radiobethlehem2000.net/site/index.php?action=rss"
     }
   ],
-  "Panama": [
+  "PAN": [
     {
       "publication_name": "La Prensa Panama",
       "publication_website_uri": "http://prensa.com/",
@@ -9592,7 +9592,7 @@
       "publication_rss_feed_uri": "http://www.elcantor.com/tag/informe-de-gobierno/feed/"
     }
   ],
-  "Papua New Guinea": [
+  "PNG": [
     {
       "publication_name": "Post-Courier",
       "publication_website_uri": "http://postcourier.com.pg/",
@@ -9609,7 +9609,7 @@
       "publication_rss_feed_uri": "http://www.lngworldnews.com/tag/png/feed/"
     }
   ],
-  "Paraguay": [
+  "PRY": [
     {
       "publication_name": "ABC Color",
       "publication_website_uri": "http://abc.com.py/",
@@ -9661,7 +9661,7 @@
       "publication_rss_feed_uri": "http://www.capitanbadonews.com/noticia/amambay/identifican-cadaver-hallado-en-el-amambay-noticias-sin-fronteras/31305/feed"
     }
   ],
-  "Peru": [
+  "PER": [
     {
       "publication_name": "El Comercio Perú",
       "publication_website_uri": "https://elcomercio.pe/",
@@ -9713,7 +9713,7 @@
       "publication_rss_feed_uri": "https://libero.pe/rss/home.xml"
     }
   ],
-  "Philippines": [
+  "PHL": [
     {
       "publication_name": "Inquirer.net",
       "publication_website_uri": "http://inquirer.net/",
@@ -9765,7 +9765,7 @@
       "publication_rss_feed_uri": "http://vimeo.com/channels/manilakoreantimes/videos/rss"
     }
   ],
-  "Poland": [
+  "POL": [
     {
       "publication_name": "Gazeta.pl",
       "publication_website_uri": "http://gazeta.pl/",
@@ -9867,7 +9867,7 @@
       "publication_rss_feed_uri": "http://rss.dziennik.pl/Dziennik-Wiadomosci"
     }
   ],
-  "Portugal": [
+  "PRT": [
     {
       "publication_name": "Expresso",
       "publication_website_uri": "https://expresso.pt/",
@@ -9969,7 +9969,7 @@
       "publication_rss_feed_uri": "https://www.avozdetrasosmontes.pt/feed"
     }
   ],
-  "Puerto Rico": [
+  "PRI": [
     {
       "publication_name": "El Nuevo Dia",
       "publication_website_uri": "http://elnuevodia.com/",
@@ -10021,7 +10021,7 @@
       "publication_rss_feed_uri": "http://www.metro.pr/rss.xml"
     }
   ],
-  "Qatar": [
+  "QAT": [
     {
       "publication_name": "Raya",
       "publication_website_uri": "http://raya.com/",
@@ -10063,7 +10063,7 @@
       "publication_rss_feed_uri": "http://www.qatar-gulfnews.com/feed/"
     }
   ],
-  "Republic of the Congo": [
+  "COG": [
     {
       "publication_name": "Congo-Site.com",
       "publication_website_uri": "http://www.congo-site.com/",
@@ -10100,7 +10100,7 @@
       "publication_rss_feed_uri": "http://www.cnsscongo.net/?feed=rss2&p=728"
     }
   ],
-  "Reunion": [
+  "REU": [
     {
       "publication_name": "Orange Reunion",
       "publication_website_uri": "http://reunion.orange.fr/",
@@ -10142,7 +10142,7 @@
       "publication_rss_feed_uri": "https://www.mwc-cmm.org/article/feed/t%c3%a9moignages-missionnaires-fr?language=en"
     }
   ],
-  "Romania": [
+  "ROU": [
     {
       "publication_name": "adevarul.ro",
       "publication_website_uri": "http://adevarul.ro/",
@@ -10254,7 +10254,7 @@
       "publication_rss_feed_uri": "https://www.biziday.ro/feed/"
     }
   ],
-  "Russia": [
+  "RUS": [
     {
       "publication_name": "Yandex Novosti",
       "publication_website_uri": "http://news.yandex.ru/",
@@ -10351,7 +10351,7 @@
       "publication_rss_feed_uri": "https://tass.ru/rss/all.xml"
     }
   ],
-  "Rwanda": [
+  "RWA": [
     {
       "publication_name": "IGIHE",
       "publication_website_uri": "http://igihe.com/",
@@ -10398,7 +10398,7 @@
       "publication_rss_feed_uri": "http://www.newsofrwanda.com/feed/"
     }
   ],
-  "Saint Helena": [
+  "SHN": [
     {
       "publication_name": "Islander",
       "publication_website_uri": "http://www.the-islander.org.ac/",
@@ -10425,7 +10425,7 @@
       "publication_rss_feed_uri": "https://sentineldiscussion.safenet-inc.com/troubleshooting/feed"
     }
   ],
-  "Samoa": [
+  "WSM": [
     {
       "publication_name": "Samoa News",
       "publication_website_uri": "http://www.samoanews.com/",
@@ -10452,7 +10452,7 @@
       "publication_rss_feed_uri": "http://www.talamua.com/feed/"
     }
   ],
-  "San Marino": [
+  "SMR": [
     {
       "publication_name": "Libertas",
       "publication_website_uri": "http://www.libertas.sm/",
@@ -10489,7 +10489,7 @@
       "publication_rss_feed_uri": "https://www.sanmarinortv.sm/rss.xml"
     }
   ],
-  "Sao Tome and Principe": [
+  "STP": [
     {
       "publication_name": "Jornal ST",
       "publication_website_uri": "http://www.jornal.st/",
@@ -10506,7 +10506,7 @@
       "publication_rss_feed_uri": "http://www.diariodelsur.mx/?feed=rss2&p=72815"
     }
   ],
-  "Saudi Arabia": [
+  "SAU": [
     {
       "publication_name": "Sabq",
       "publication_website_uri": "http://sabq.org/",
@@ -10558,7 +10558,7 @@
       "publication_rss_feed_uri": "http://www.alsharq.net.sa/feed"
     }
   ],
-  "Senegal": [
+  "SEN": [
     {
       "publication_name": "seneweb.com",
       "publication_website_uri": "http://www.seneweb.com/",
@@ -10650,7 +10650,7 @@
       "publication_rss_feed_uri": "http://www.wiwsport.com/rss/fluxrss.xml"
     }
   ],
-  "Serbia": [
+  "SRB": [
     {
       "publication_name": "Blic",
       "publication_website_uri": "http://blic.rs/",
@@ -10752,7 +10752,7 @@
       "publication_rss_feed_uri": "https://n1info.rs/feed/"
     }
   ],
-  "Seychelles": [
+  "SYC": [
     {
       "publication_name": "Nation",
       "publication_website_uri": "http://www.nation.sc/",
@@ -10779,7 +10779,7 @@
       "publication_rss_feed_uri": "http://www.virtual-lands-3d.com/rss.xml.html"
     }
   ],
-  "Sierra Leone": [
+  "SLE": [
     {
       "publication_name": "Awareness Times",
       "publication_website_uri": "http://news.sl/",
@@ -10831,7 +10831,7 @@
       "publication_rss_feed_uri": "http://www.sierraleonetimes.com/index.php/rss/8fcd2bb0346b8627"
     }
   ],
-  "Singapore": [
+  "SGP": [
     {
       "publication_name": "Asia One",
       "publication_website_uri": "http://asiaone.com/",
@@ -10878,7 +10878,7 @@
       "publication_rss_feed_uri": "http://www.businesstimes.com.sg/lifestyle/travel/where-hills-are-truly-alive-20140118"
     }
   ],
-  "Slovakia": [
+  "SVK": [
     {
       "publication_name": "Topky.sk",
       "publication_website_uri": "http://topky.sk/",
@@ -10985,7 +10985,7 @@
       "publication_rss_feed_uri": "https://www.teraz.sk/rss/rss-vsetky-spravy.rss"
     }
   ],
-  "Slovenia": [
+  "SVN": [
     {
       "publication_name": "24ur.com",
       "publication_website_uri": "http://24ur.com/",
@@ -11087,7 +11087,7 @@
       "publication_rss_feed_uri": "http://rss.primorske.si/"
     }
   ],
-  "Solomon Islands": [
+  "SLB": [
     {
       "publication_name": "Solomon Star",
       "publication_website_uri": "http://www.solomonstarnews.com/",
@@ -11109,7 +11109,7 @@
       "publication_rss_feed_uri": "http://www.islandsun.com.sb/index.php?format=feed&type=rss"
     }
   ],
-  "Somalia": [
+  "SOM": [
     {
       "publication_name": "Hiiraan",
       "publication_website_uri": "http://hiiraan.com/",
@@ -11201,7 +11201,7 @@
       "publication_rss_feed_uri": "http://boramanews.com/index.php?format=feed&type=rss"
     }
   ],
-  "South Africa": [
+  "ZAF": [
     {
       "publication_name": "News24",
       "publication_website_uri": "http://www.news24.com/",
@@ -11303,7 +11303,7 @@
       "publication_rss_feed_uri": "http://rapportleadership.org/feed/"
     }
   ],
-  "South Korea": [
+  "KOR": [
     {
       "publication_name": "Daum Media",
       "publication_website_uri": "http://media.daum.net/",
@@ -11400,7 +11400,7 @@
       "publication_rss_feed_uri": "http://www.efinancialnews.com/rss"
     }
   ],
-  "South Sudan": [
+  "SSD": [
     {
       "publication_name": "SouthSudan.net",
       "publication_website_uri": "http://www.southsudan.net/",
@@ -11412,7 +11412,7 @@
       "publication_rss_feed_uri": "http://www.southsudannewsagency.com/news/analyses?start=66&format=feed&type=rss"
     }
   ],
-  "Spain": [
+  "ESP": [
     {
       "publication_name": "EL PAIS",
       "publication_website_uri": "https://elpais.com/",
@@ -11554,7 +11554,7 @@
       "publication_rss_feed_uri": "https://www.sport.es/es/rss/ultimas/rss.xml"
     }
   ],
-  "Sri Lanka": [
+  "LKA": [
     {
       "publication_name": "divaina.com",
       "publication_website_uri": "http://divaina.com/",
@@ -11606,7 +11606,7 @@
       "publication_rss_feed_uri": "http://www.paradiseisland.com.tr/?feed=rss2"
     }
   ],
-  "St. Kitts & Nevis": [
+  "KNA": [
     {
       "publication_name": "NevisPages.com",
       "publication_website_uri": "http://nevispages.com/",
@@ -11633,7 +11633,7 @@
       "publication_rss_feed_uri": "http://zizonline.com/feed/"
     }
   ],
-  "St. Lucia": [
+  "LCA": [
     {
       "publication_name": "St. Lucia Star",
       "publication_website_uri": "http://stluciastar.com/",
@@ -11650,7 +11650,7 @@
       "publication_rss_feed_uri": "http://www.htsprint.co.uk/blog/feed/"
     }
   ],
-  "St. Vincent & the Grenadines": [
+  "VCT": [
     {
       "publication_name": "Searchlight",
       "publication_website_uri": "http://searchlight.vc/",
@@ -11667,7 +11667,7 @@
       "publication_rss_feed_uri": "http://www.nbcsvg.com/tag/meat/feed/"
     }
   ],
-  "Sudan": [
+  "SDN": [
     {
       "publication_name": "Alrakoba",
       "publication_website_uri": "http://www.alrakoba.net/",
@@ -11769,7 +11769,7 @@
       "publication_rss_feed_uri": "http://www.alahramsd.com/feed/index.1.rss"
     }
   ],
-  "Suriname": [
+  "SUR": [
     {
       "publication_name": "Starnieuws",
       "publication_website_uri": "http://starnieuws.com/",
@@ -11796,7 +11796,7 @@
       "publication_rss_feed_uri": "http://srnieuws.me/algemeen/rss/"
     }
   ],
-  "Swaziland": [
+  "SWZ": [
     {
       "publication_name": "Times of Swaziland",
       "publication_website_uri": "http://www.times.co.sz/",
@@ -11808,7 +11808,7 @@
       "publication_rss_feed_uri": "http://swazikids.wordpress.com/feed/"
     }
   ],
-  "Sweden": [
+  "SWE": [
     {
       "publication_name": "Aftonbladet",
       "publication_website_uri": "http://aftonbladet.se/",
@@ -11905,7 +11905,7 @@
       "publication_rss_feed_uri": "http://norran.se/feed"
     }
   ],
-  "Switzerland": [
+  "CHE": [
     {
       "publication_name": "Blick",
       "publication_website_uri": "http://blick.ch/",
@@ -12007,7 +12007,7 @@
       "publication_rss_feed_uri": "http://www.luzernerzeitung.ch/storage/rss/rss/kanton_obwalden.xml"
     }
   ],
-  "Syria": [
+  "SYR": [
     {
       "publication_name": "Asharq Al-Awsat",
       "publication_website_uri": "http://aawsat.com/",
@@ -12104,7 +12104,7 @@
       "publication_rss_feed_uri": "http://www.damaspost.com/%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D8%A9/feed"
     }
   ],
-  "Taiwan": [
+  "TWN": [
     {
       "publication_name": "UDN",
       "publication_website_uri": "http://udn.com/",
@@ -12156,7 +12156,7 @@
       "publication_rss_feed_uri": "http://orientaldaily.on.cc/rss/adult.xml"
     }
   ],
-  "Tajikistan": [
+  "TJK": [
     {
       "publication_name": "ASIA-Plus",
       "publication_website_uri": "http://news.tj/",
@@ -12183,7 +12183,7 @@
       "publication_rss_feed_uri": "http://www.centrasia.ru/rss/redtram.xml"
     }
   ],
-  "Tanzania": [
+  "TZA": [
     {
       "publication_name": "Mwananchi",
       "publication_website_uri": "http://www.mwananchi.co.tz/",
@@ -12285,7 +12285,7 @@
       "publication_rss_feed_uri": "http://world.time.com/tag/arusha/feed/"
     }
   ],
-  "Thailand": [
+  "THA": [
     {
       "publication_name": "news.sanook.com",
       "publication_website_uri": "http://news.sanook.com/",
@@ -12332,7 +12332,7 @@
       "publication_rss_feed_uri": "http://nationchannel.com/rss/hotnews.xml"
     }
   ],
-  "Togo": [
+  "TGO": [
     {
       "publication_name": "TOGO Republique Togolaise",
       "publication_website_uri": "http://www.republicoftogo.com/",
@@ -12389,7 +12389,7 @@
       "publication_rss_feed_uri": "http://www.togoquebec.ca/communiques/feed/"
     }
   ],
-  "Tonga": [
+  "TON": [
     {
       "publication_name": "Matangi",
       "publication_website_uri": "http://matangitonga.to/",
@@ -12401,7 +12401,7 @@
       "publication_rss_feed_uri": "http://www.taimionline.com/topics/news/tonga/feed"
     }
   ],
-  "Trinidad & Tobago": [
+  "TTO": [
     {
       "publication_name": "Trinidad Express",
       "publication_website_uri": "http://trinidadexpress.com/",
@@ -12423,7 +12423,7 @@
       "publication_rss_feed_uri": "http://tntmirror.com/?feed=rss2"
     }
   ],
-  "Tunisia": [
+  "TUN": [
     {
       "publication_name": "Attounissia",
       "publication_website_uri": "http://www.attounissia.com.tn/",
@@ -12525,7 +12525,7 @@
       "publication_rss_feed_uri": "http://footplus.tn/feed"
     }
   ],
-  "Turkey": [
+  "TUR": [
     {
       "publication_name": "Milliyet",
       "publication_website_uri": "http://milliyet.com.tr/",
@@ -12697,7 +12697,7 @@
       "publication_rss_feed_uri": "http://www.aktifhaber.com/rss/"
     }
   ],
-  "Turkmenistan": [
+  "TKM": [
     {
       "publication_name": "Turkmenistan.ru",
       "publication_website_uri": "http://www.turkmenistan.ru/",
@@ -12714,7 +12714,7 @@
       "publication_rss_feed_uri": "http://www.turkmenistanhavayollari.gen.tr/feed/"
     }
   ],
-  "Turks & Caicos": [
+  "TCA": [
     {
       "publication_name": "Turks and Caicos Sun",
       "publication_website_uri": "http://suntci.com/",
@@ -12736,7 +12736,7 @@
       "publication_rss_feed_uri": "http://www.timespub.tc/2002/06/rediscovering-the-hidden-culture-folk-songs/feed/"
     }
   ],
-  "Uganda": [
+  "UGA": [
     {
       "publication_name": "New Vision",
       "publication_website_uri": "http://www.newvision.co.ug/",
@@ -12788,7 +12788,7 @@
       "publication_rss_feed_uri": "http://africanvibes.com/wordpressnew/tag/cameroon/feed/"
     }
   ],
-  "UK": [
+  "GBR": [
     {
       "publication_name": "BBC",
       "publication_website_uri": "http://bbc.co.uk/",
@@ -12990,7 +12990,7 @@
       "publication_rss_feed_uri": "http://www.nowmagazine.co.uk/feeds/headline/celebrity-news.rss"
     }
   ],
-  "Ukraine": [
+  "UKR": [
     {
       "publication_name": "UKR.NET",
       "publication_website_uri": "http://ukr.net/",
@@ -13092,7 +13092,7 @@
       "publication_rss_feed_uri": "http://comments.ua/export/rss_ru.xml"
     }
   ],
-  "United Arab Emirates": [
+  "ARE": [
     {
       "publication_name": "GulfNews.com",
       "publication_website_uri": "http://gulfnews.com/",
@@ -13144,7 +13144,7 @@
       "publication_rss_feed_uri": "http://www.thenational.ae/section/rss/1403"
     }
   ],
-  "Uruguay": [
+  "URY": [
     {
       "publication_name": "EL PAIS Uruguay",
       "publication_website_uri": "https://elpais.com.uy/",
@@ -13196,7 +13196,7 @@
       "publication_rss_feed_uri": "https://www.subrayado.com.uy/rss/pages/home.xml"
     }
   ],
-  "US": [
+  "USA": [
     {
       "publication_name": "CNN",
       "publication_website_uri": "http://cnn.com/",
@@ -13448,7 +13448,7 @@
       "publication_rss_feed_uri": "http://www.usnews.com/blogrss/world-report.xml"
     }
   ],
-  "Uzbekistan": [
+  "UZB": [
     {
       "publication_name": "Gazeta.uz",
       "publication_website_uri": "http://gazeta.uz/",
@@ -13495,14 +13495,14 @@
       "publication_rss_feed_uri": "http://haberustam.com/tag/mezon-nedir/feed/"
     }
   ],
-  "Vanuatu": [
+  "VUT": [
     {
       "publication_name": "Vanuatu Daily Post",
       "publication_website_uri": "http://www.dailypost.vu/",
       "publication_rss_feed_uri": "http://www.dailypost.vu/search/?q=\"premier%20league\"&t=&l=25&d=&d1=&d2=&s=start_time&sd=desc&f=rss"
     }
   ],
-  "Vatican": [
+  "VAT": [
     {
       "publication_name": "Bollettino",
       "publication_website_uri": "http://press.vatican.va/",
@@ -13524,7 +13524,7 @@
       "publication_rss_feed_uri": "http://vaticaninsider.lastampa.it/rss-feed/articolo/37965/"
     }
   ],
-  "Venezuela": [
+  "VEN": [
     {
       "publication_name": "Noticias24",
       "publication_website_uri": "http://noticias24.com/",
@@ -13626,7 +13626,7 @@
       "publication_rss_feed_uri": "http://www.ellider.com.co/category/deportes/feed/"
     }
   ],
-  "Vietnam": [
+  "VNM": [
     {
       "publication_name": "VnExpress",
       "publication_website_uri": "http://vnexpress.net/",
@@ -13718,7 +13718,7 @@
       "publication_rss_feed_uri": "http://giadinh.net.vn/home.rss"
     }
   ],
-  "Virgin Islands": [
+  "VIR": [
     {
       "publication_name": "Virgin Island Daily News",
       "publication_website_uri": "http://virginislandsdailynews.com/",
@@ -13745,7 +13745,7 @@
       "publication_rss_feed_uri": "http://bvinews.com/new/feed/"
     }
   ],
-  "Yemen": [
+  "YEM": [
     {
       "publication_name": "Mareb Press",
       "publication_website_uri": "http://marebpress.net/",
@@ -13822,7 +13822,7 @@
       "publication_rss_feed_uri": "http://freedom-ye.com/rss.php"
     }
   ],
-  "Zambia": [
+  "ZMB": [
     {
       "publication_name": "Zambian Watchdog",
       "publication_website_uri": "http://www.zambianwatchdog.com/",
@@ -13869,7 +13869,7 @@
       "publication_rss_feed_uri": "http://www.openzambia.com/2013/03/zambia-reports-satas-one-party-state-dream-not-tenable-says-nevers/feed/"
     }
   ],
-  "Zimbabwe": [
+  "ZWE": [
     {
       "publication_name": "Herald",
       "publication_website_uri": "http://www.herald.co.zw/",

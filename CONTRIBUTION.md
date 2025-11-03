@@ -21,10 +21,13 @@ Thank you!
 
 ## How to Contribute
 
+**Note about data structure**: The database uses ISO 3166-1 Alpha-3 country codes as keys (e.g., `"USA"`, `"GBR"`, `"IND"`). When the README is generated, these codes are automatically converted to full country names for display.
+
 Follow these steps to add your RSS feed:
 
 1. **Add your RSS feed** to the respective country in `database/news-feed-list-of-countries.json`
-   - Find your country in the JSON file
+   - Find your country in the JSON file using its **ISO Alpha-3 country code** (e.g., `"USA"` for United States, `"GBR"` for United Kingdom, `"IND"` for India)
+   - You can find your country's Alpha-3 code at [ISO 3166-1 alpha-3 on Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
    - Add your publication details following the existing format:
      ```json
      {

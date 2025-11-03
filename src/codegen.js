@@ -5,7 +5,15 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import cliProgress from 'cli-progress';
 import pLimit from 'p-limit';
+import countries from 'i18n-iso-countries';
+import { createRequire } from 'module';
 import { validateFeed, generateStatisticsBlock, PARALLEL_WORKERS } from './utils.js';
+
+const require = createRequire(import.meta.url);
+const en = require('i18n-iso-countries/langs/en.json');
+
+// Register English locale for country names
+countries.registerLocale(en);
 
 // Get __dirname equivalent in ES modules
 const __filename = fileURLToPath(import.meta.url);
@@ -30,25 +38,27 @@ function slugify(country) {
 
 /**
  * Generates the Table of Contents for the markdown file
- * @param {Array<string>} countries - List of country names
+ * @param {Array<string>} countryCodes - List of country Alpha-3 codes
  * @returns {string} - The TOC markdown string
  */
-function generateTableOfContents(countries) {
+function generateTableOfContents(countryCodes) {
   let toc = '## Table of Contents\n';
-  countries.forEach(country => {
-    toc += `- [${country}](#${slugify(country)})\n`;
+  countryCodes.forEach(code => {
+    const countryName = countries.getName(code, 'en') || code;
+    toc += `- [${countryName}](#${slugify(countryName)})\n`;
   });
   return toc + '\n';
 }
 
 /**
  * Generates the markdown content for a single country
- * @param {string} country - The country name
+ * @param {string} countryCode - The country Alpha-3 code
  * @param {Array<Object>} publications - List of publications with validation status
  * @returns {string} - The markdown content for the country section
  */
-function generateCountrySection(country, publications) {
-  let section = `## ${country}\n\n`;
+function generateCountrySection(countryCode, publications) {
+  const countryName = countries.getName(countryCode, 'en') || countryCode;
+  let section = `## ${countryName}\n\n`;
 
   publications.forEach(pub => {
     let statusIcon;
@@ -193,7 +203,12 @@ async function generateMarkdown() {
   // Generate markdown content
   console.log('\n📝 Generating README.md file...');
 
-  const countries = Object.keys(validatedData).sort();
+  // Sort country codes by their English names
+  const countryCodes = Object.keys(validatedData).sort((a, b) => {
+    const nameA = countries.getName(a, 'en') || a;
+    const nameB = countries.getName(b, 'en') || b;
+    return nameA.localeCompare(nameB);
+  });
 
   let markdown = '# AUTO-GENERATED: DO NOT MODIFY MANUALLY\n\n';
   markdown += '**See [CONTRIBUTION.md](CONTRIBUTION.md) for instructions on how to contribute.**\n\n';
@@ -205,18 +220,18 @@ async function generateMarkdown() {
   markdown += '- ❌ **Invalid/Outdated Feed** - Feed is inaccessible, malformed, or hasn\'t been updated in over 24 hours\n';
   markdown += '- ⚠️ **Bot Protected** - Feed is behind bot protection and cannot be validated automatically\n\n';
 
-  markdown += generateTableOfContents(countries);
+  markdown += generateTableOfContents(countryCodes);
 
-  countries.forEach(country => {
-    markdown += generateCountrySection(country, validatedData[country]);
+  countryCodes.forEach(countryCode => {
+    markdown += generateCountrySection(countryCode, validatedData[countryCode]);
   });
 
   // Prepare JSON data for active feeds only
   const activeFeedsJson = {};
 
-  countries.forEach(country => {
+  countryCodes.forEach(countryCode => {
     // For active feeds JSON - only include valid feeds (exclude bot-protected)
-    const activeFeeds = validatedData[country]
+    const activeFeeds = validatedData[countryCode]
       .filter(pub => pub.isValid === true)
       .map(pub => ({
         publication_name: pub.publication_name,
@@ -225,7 +240,7 @@ async function generateMarkdown() {
       }));
 
     if (activeFeeds.length > 0) {
-      activeFeedsJson[country] = activeFeeds;
+      activeFeedsJson[countryCode] = activeFeeds;
     }
   });
 
@@ -246,7 +261,7 @@ async function generateMarkdown() {
     console.log(`   Total feeds processed: ${totalFeeds}`);
     console.log(`   Valid feeds (✅): ${validFeeds}`);
     console.log(`   Invalid/Outdated feeds (❌): ${totalFeeds - validFeeds}`);
-    console.log(`   Countries included: ${countries.length}`);
+    console.log(`   Countries included: ${countryCodes.length}`);
     console.log(`   Countries with active feeds: ${Object.keys(activeFeedsJson).length}`);
     console.log(`   Success rate: ${((validFeeds / totalFeeds) * 100).toFixed(1)}%`);
 
