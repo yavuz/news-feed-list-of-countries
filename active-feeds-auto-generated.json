@@ -94,6 +94,21 @@
       "publication_rss_feed_uri": "https://www.todoagro.com.ar/noticias/feed/"
     },
     {
+      "publication_name": "La Politica Online",
+      "publication_website_uri": "https://www.lapoliticaonline.com/",
+      "publication_rss_feed_uri": "https://www.lapoliticaonline.com/files/rss/ultimasnoticias.xml"
+    },
+    {
+      "publication_name": "Ole",
+      "publication_website_uri": "https://www.ole.com.ar/",
+      "publication_rss_feed_uri": "https://www.ole.com.ar/rss/ultimas-noticias"
+    },
+    {
+      "publication_name": "La Gaceta",
+      "publication_website_uri": "http://www.lagaceta.com.ar/",
+      "publication_rss_feed_uri": "https://feeds.feedburner.com/LaGaceta-General"
+    },
+    {
       "publication_name": "La Voz del Interior",
       "publication_website_uri": "https://www.lavoz.com.ar/",
       "publication_rss_feed_uri": "https://www.lavoz.com.ar/arc/outboundfeeds/feeds/rss/?outputType=xml"
@@ -107,6 +122,11 @@
       "publication_name": "El intransigente",
       "publication_website_uri": "https://elintransigente.com/",
       "publication_rss_feed_uri": "https://elintransigente.com/feed/"
+    },
+    {
+      "publication_name": "La Derecha Diario",
+      "publication_website_uri": "https://derechadiario.com.ar/",
+      "publication_rss_feed_uri": "https://derechadiario.com.ar/rss/last-posts"
     },
     {
       "publication_name": "Buenos Aires Times",
@@ -151,19 +171,7 @@
       "publication_rss_feed_uri": "http://civilnet.am/feed/"
     }
   ],
-  "ABW": [
-    {
-      "publication_name": "AWE 24",
-      "publication_website_uri": "http://awe24.com/",
-      "publication_rss_feed_uri": "http://www.awe24.com/rss"
-    }
-  ],
   "AUS": [
-    {
-      "publication_name": "ABC",
-      "publication_website_uri": "http://abc.net.au/",
-      "publication_rss_feed_uri": "http://www.abc.net.au/news/feed/46182/rss.xml"
-    },
     {
       "publication_name": "The Age",
       "publication_website_uri": "http://theage.com.au/",
@@ -180,6 +188,16 @@
       "publication_name": "Krone.at",
       "publication_website_uri": "http://krone.at/",
       "publication_rss_feed_uri": "http://www.krone.at/Nachrichten/rss.html"
+    },
+    {
+      "publication_name": "Kleine Zeitung",
+      "publication_website_uri": "http://kleinezeitung.at/",
+      "publication_rss_feed_uri": "http://www.kleinezeitung.at/rss/wirtschaft"
+    },
+    {
+      "publication_name": "KURIER.at",
+      "publication_website_uri": "http://kurier.at/",
+      "publication_rss_feed_uri": "http://kurier.at/xml/feed"
     },
     {
       "publication_name": "DiePresse.com",
@@ -265,6 +283,11 @@
   ],
   "BRB": [
     {
+      "publication_name": "Nation News",
+      "publication_website_uri": "http://www.nationnews.com/",
+      "publication_rss_feed_uri": "http://www.nationnews.com/feed/rss"
+    },
+    {
       "publication_name": "Voice of Barbados",
       "publication_website_uri": "http://vob929.ocmnet.net/",
       "publication_rss_feed_uri": "http://www.theguardian.com/world/barbados/rss"
@@ -289,9 +312,19 @@
       "publication_rss_feed_uri": "https://www.lalibre.be/rss"
     },
     {
+      "publication_name": "De Standaard",
+      "publication_website_uri": "https://www.standaard.be/",
+      "publication_rss_feed_uri": "https://www.standaard.be/rss"
+    },
+    {
       "publication_name": "DH",
       "publication_website_uri": "https://www.dhnet.be/",
       "publication_rss_feed_uri": "https://www.dhnet.be/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "publication_name": "De Morgen",
+      "publication_website_uri": "https://demorgen.be/",
+      "publication_rss_feed_uri": "https://demorgen.be/in-het-nieuws/rss.xml"
     },
     {
       "publication_name": "RTBF",
@@ -304,9 +337,43 @@
       "publication_rss_feed_uri": "https://www.hln.be/home/rss.xml"
     },
     {
+      "publication_name": "Knack.be",
+      "publication_website_uri": "https://www.knack.be/",
+      "publication_rss_feed_uri": "https://www.knack.be/feed/"
+    },
+    {
+      "publication_name": "Het Belang Van Limburg",
+      "publication_website_uri": "https://hbvl.be/",
+      "publication_rss_feed_uri": "https://hbvl.be/rss"
+    },
+    {
       "publication_name": "7sur7",
       "publication_website_uri": "https://www.7sur7.be/home/rss.xml",
       "publication_rss_feed_uri": "https://www.7sur7.be/home/rss.xml"
+    }
+  ],
+  "BLZ": [
+    {
+      "publication_name": "Channel 5",
+      "publication_website_uri": "http://channel5belize.com/",
+      "publication_rss_feed_uri": "http://edition.channel5belize.com/OYE/?feed=rss2&tag=love"
+    },
+    {
+      "publication_name": "The Reporter",
+      "publication_website_uri": "http://www.reporter.bz/",
+      "publication_rss_feed_uri": "http://www.hollywoodreporter.com/taxonomy/term/59/0/feed"
+    },
+    {
+      "publication_name": "Amandala",
+      "publication_website_uri": "http://amandala.com.bz/",
+      "publication_rss_feed_uri": "http://amandala.com.bz/news/feed/"
+    }
+  ],
+  "BEN": [
+    {
+      "publication_name": "Adjinakou",
+      "publication_website_uri": "http://www.journal-adjinakou-benin.info/",
+      "publication_rss_feed_uri": "http://mediaf.org/?feed=rss2&tag=charles-honvoh-adjinakou"
     }
   ],
   "BMU": [
@@ -317,6 +384,16 @@
     }
   ],
   "BOL": [
+    {
+      "publication_name": "La Razón",
+      "publication_website_uri": "https://la-razon.com/",
+      "publication_rss_feed_uri": "https://larazon.bo/feed/"
+    },
+    {
+      "publication_name": "El Diario",
+      "publication_website_uri": "https://eldiario.net/",
+      "publication_rss_feed_uri": "https://www.eldiario.net/portal/feed/"
+    },
     {
       "publication_name": "Opinion",
       "publication_website_uri": "https://www.opinion.com.bo/",
@@ -336,6 +413,13 @@
       "publication_name": "La Patria",
       "publication_website_uri": "https://lapatria.bo/",
       "publication_rss_feed_uri": "https://lapatria.bo/feed/"
+    }
+  ],
+  "BIH": [
+    {
+      "publication_name": "Dnevnik.ba",
+      "publication_website_uri": "http://dnevnik.ba/",
+      "publication_rss_feed_uri": "http://www.dnevnik.ba/rss.xml"
     }
   ],
   "BRA": [
@@ -363,6 +447,21 @@
       "publication_name": "Estadão",
       "publication_website_uri": "https://www.estadao.com.br/",
       "publication_rss_feed_uri": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/"
+    },
+    {
+      "publication_name": "globoesporte.com",
+      "publication_website_uri": "http://globoesporte.globo.com/",
+      "publication_rss_feed_uri": "https://ge.globo.com/rss/ge"
+    },
+    {
+      "publication_name": "G1",
+      "publication_website_uri": "http://g1.globo.com/",
+      "publication_rss_feed_uri": "https://g1.globo.com/rss/g1/"
+    },
+    {
+      "publication_name": "Extra",
+      "publication_website_uri": "http://extra.globo.com/",
+      "publication_rss_feed_uri": "https://extra.globo.com/rss/extra"
     },
     {
       "publication_name": "Jornal de Brasília",
@@ -398,9 +497,19 @@
       "publication_name": "Agência Brasil",
       "publication_website_uri": "https://agenciabrasil.ebc.com.br/",
       "publication_rss_feed_uri": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+    },
+    {
+      "publication_name": "The Rio Times",
+      "publication_website_uri": "https://riotimesonline.com/",
+      "publication_rss_feed_uri": "https://riotimesonline.com/feed/"
     }
   ],
   "BGR": [
+    {
+      "publication_name": "Dnes Dir.bg",
+      "publication_website_uri": "http://dnes.dir.bg/",
+      "publication_rss_feed_uri": "http://dnes.dir.bg/support/cat_rss.php"
+    },
     {
       "publication_name": "Dnes.bg",
       "publication_website_uri": "http://dnes.bg/",
@@ -415,6 +524,11 @@
       "publication_name": "24 Chasa",
       "publication_website_uri": "http://24chasa.bg/",
       "publication_rss_feed_uri": "http://www.24chasa.bg/RSS.asp"
+    },
+    {
+      "publication_name": "Dnevnik",
+      "publication_website_uri": "http://dnevnik.bg/",
+      "publication_rss_feed_uri": "http://www.dnevnik.bg/rss/"
     },
     {
       "publication_name": "Actualno",
@@ -432,9 +546,19 @@
       "publication_name": "IWACU",
       "publication_website_uri": "http://iwacu-burundi.org/",
       "publication_rss_feed_uri": "http://www.iwacu-burundi.org/feed/"
+    },
+    {
+      "publication_name": "RTNB",
+      "publication_website_uri": "http://www.rtnb.bi/",
+      "publication_rss_feed_uri": "http://www.iwacu-burundi.org/tag/presidence/feed/"
     }
   ],
   "KHM": [
+    {
+      "publication_name": "RFI Khmer",
+      "publication_website_uri": "http://khmer.rfi.fr/",
+      "publication_rss_feed_uri": "http://www.khmer.rfi.fr/cambodia/rss"
+    },
     {
       "publication_name": "Phnom Penh Post (English)",
       "publication_website_uri": "http://phnompenhpost.com/",
@@ -455,9 +579,29 @@
   ],
   "CAN": [
     {
-      "publication_name": "Calgary Herald",
-      "publication_website_uri": "https://calgaryherald.com/",
-      "publication_rss_feed_uri": "https://calgaryherald.com/feed"
+      "publication_name": "CBC News",
+      "publication_website_uri": "https://www.cbc.ca/",
+      "publication_rss_feed_uri": "https://www.cbc.ca/cmlink/rss-topstories"
+    },
+    {
+      "publication_name": "Radio Canada",
+      "publication_website_uri": "http://www.radio-canada.ca/",
+      "publication_rss_feed_uri": "https://ici.radio-canada.ca/rss/4159"
+    },
+    {
+      "publication_name": "Toronto Star",
+      "publication_website_uri": "https://www.thestar.com/",
+      "publication_rss_feed_uri": "https://www.thestar.com/search/?f=rss&t=article&bl=2827101&l=20"
+    },
+    {
+      "publication_name": "Toronto Sun",
+      "publication_website_uri": "https://www.torontosun.com/",
+      "publication_rss_feed_uri": "https://torontosun.com/category/news/feed"
+    },
+    {
+      "publication_name": "Global News",
+      "publication_website_uri": "https://www.globalnews.ca/",
+      "publication_rss_feed_uri": "https://globalnews.ca/feed/"
     },
     {
       "publication_name": "Vancouver Sun",
@@ -465,9 +609,14 @@
       "publication_rss_feed_uri": "https://torontosun.com/feed/"
     },
     {
-      "publication_name": "Montreal Gazette",
-      "publication_website_uri": "https://montrealgazette.com/",
-      "publication_rss_feed_uri": "https://montrealgazette.com/feed/"
+      "publication_name": "Edmonton Journal",
+      "publication_website_uri": "https://edmontonjournal.com/",
+      "publication_rss_feed_uri": "https://edmontonjournal.com/feed/"
+    },
+    {
+      "publication_name": "Canada.com",
+      "publication_website_uri": "https://canada.com/",
+      "publication_rss_feed_uri": "https://o.canada.com/feed/"
     },
     {
       "publication_name": "City News Toronto",
@@ -480,21 +629,6 @@
       "publication_rss_feed_uri": "http://feeds.feedburner.com/FP_TopStories"
     },
     {
-      "publication_name": "Ottawa Sun",
-      "publication_website_uri": "https://ottawasun.com/",
-      "publication_rss_feed_uri": "https://ottawasun.com/feed/"
-    },
-    {
-      "publication_name": "Province",
-      "publication_website_uri": "https://www.theprovince.com/",
-      "publication_rss_feed_uri": "https://theprovince.com/feed/"
-    },
-    {
-      "publication_name": "The Star Phoenix",
-      "publication_website_uri": "https://thestarphoenix.com/",
-      "publication_rss_feed_uri": "https://thestarphoenix.com/feed/"
-    },
-    {
       "publication_name": "Le Journal de Montreal",
       "publication_website_uri": "http://www.journaldemontreal.com/",
       "publication_rss_feed_uri": "http://www.journaldemontreal.com/accueil/rss.xml"
@@ -503,11 +637,6 @@
       "publication_name": "Winnipeg Free Press",
       "publication_website_uri": "https://www.winnipegfreepress.com/",
       "publication_rss_feed_uri": "https://www.winnipegfreepress.com/breakingnews/feed"
-    },
-    {
-      "publication_name": "Windsor Star",
-      "publication_website_uri": "https://windsorstar.com/",
-      "publication_rss_feed_uri": "https://windsorstar.com/feed"
     },
     {
       "publication_name": "The Tyee",
@@ -525,11 +654,6 @@
       "publication_rss_feed_uri": "https://www.biv.com/rss"
     },
     {
-      "publication_name": "Regina Leader",
-      "publication_website_uri": "https://leaderpost.com/",
-      "publication_rss_feed_uri": "https://leaderpost.com/feed/"
-    },
-    {
       "publication_name": "Grande Prairie Daily Herald",
       "publication_website_uri": "https://www.dailyheraldtribune.com/",
       "publication_rss_feed_uri": "https://www.dailyheraldtribune.com/feed"
@@ -538,6 +662,11 @@
       "publication_name": "Le Journal de Quebec",
       "publication_website_uri": "https://www.journaldequebec.com/",
       "publication_rss_feed_uri": "https://www.journaldequebec.com/rss.xml"
+    },
+    {
+      "publication_name": "Maclean's Magazine",
+      "publication_website_uri": "https://www.macleans.ca/",
+      "publication_rss_feed_uri": "https://www.macleans.ca/feed/"
     }
   ],
   "CPV": [
@@ -547,7 +676,24 @@
       "publication_rss_feed_uri": "http://videos.sapo.cv/asemana/rss"
     }
   ],
+  "CYM": [
+    {
+      "publication_name": "Cayman News Service",
+      "publication_website_uri": "http://caymannewsservice.com/",
+      "publication_rss_feed_uri": "https://caymannewsservice.com/feed/"
+    }
+  ],
   "CHL": [
+    {
+      "publication_name": "BioBioChile",
+      "publication_website_uri": "https://biobiochile.cl/",
+      "publication_rss_feed_uri": "https://feeds.feedburner.com/radiobiobio/NNeJ"
+    },
+    {
+      "publication_name": "The Clinic",
+      "publication_website_uri": "https://www.theclinic.cl/",
+      "publication_rss_feed_uri": "https://www.theclinic.cl/feed/"
+    },
     {
       "publication_name": "Diario Financiero",
       "publication_website_uri": "https://www.df.cl/",
@@ -620,6 +766,11 @@
       "publication_name": "Marti",
       "publication_website_uri": "http://martinoticias.com/",
       "publication_rss_feed_uri": "http://www.martinoticias.com/podcast/video.aspx?count=20&zoneId=128"
+    },
+    {
+      "publication_name": "Prensa latina",
+      "publication_website_uri": "http://prensa-latina.cu/",
+      "publication_rss_feed_uri": "http://www.laprensalatina.com/feed/"
     }
   ],
   "CYP": [
@@ -637,6 +788,11 @@
       "publication_name": "Cyprus Mail (English)",
       "publication_website_uri": "http://cyprus-mail.com/",
       "publication_rss_feed_uri": "http://cyprus-mail.com/feed/"
+    },
+    {
+      "publication_name": "iKypros.com",
+      "publication_website_uri": "http://ikypros.com/",
+      "publication_rss_feed_uri": "http://backend.deviantart.com/rss.xml?q=favby%3AMk513%2F60801150&type=deviation"
     }
   ],
   "CZE": [
@@ -715,6 +871,11 @@
       "publication_rss_feed_uri": "http://ekstrabladet.dk/rssfeed/all/"
     },
     {
+      "publication_name": "BT",
+      "publication_website_uri": "http://bt.dk/",
+      "publication_rss_feed_uri": "http://www.bt.dk/bt/seneste/rss"
+    },
+    {
       "publication_name": "Nordjyske.dk",
       "publication_website_uri": "http://nordjyske.dk/",
       "publication_rss_feed_uri": "http://www.nordjyske.dk/RSS/forside"
@@ -763,6 +924,11 @@
   ],
   "ECU": [
     {
+      "publication_name": "El Universo",
+      "publication_website_uri": "https://eluniverso.com/",
+      "publication_rss_feed_uri": "https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/noticias/ecuador?outputType=xml"
+    },
+    {
       "publication_name": "Expreso",
       "publication_website_uri": "https://expreso.ec/",
       "publication_rss_feed_uri": "https://www.expreso.ec/rss/"
@@ -773,24 +939,14 @@
       "publication_rss_feed_uri": "https://elmercurio.com.ec/feed/"
     },
     {
-      "publication_name": "La Prensa",
-      "publication_website_uri": "https://www.laprensa.com.ec/",
-      "publication_rss_feed_uri": "https://www.laprensa.com.ec/feed/"
-    },
-    {
-      "publication_name": "Los Andes",
-      "publication_website_uri": "https://www.diariolosandes.com.ec/",
-      "publication_rss_feed_uri": "https://www.diariolosandes.com.ec/feed/"
-    },
-    {
-      "publication_name": "La Republica",
-      "publication_website_uri": "https://larepublica.ec/",
-      "publication_rss_feed_uri": "https://www.larepublica.ec/feed/"
-    },
-    {
       "publication_name": "El Heraldo",
       "publication_website_uri": "https://www.elheraldo.com.ec/",
       "publication_rss_feed_uri": "https://www.elheraldo.com.ec/feed/"
+    },
+    {
+      "publication_name": "El Norte",
+      "publication_website_uri": "https://elnorte.ec/",
+      "publication_rss_feed_uri": "https://elnorte.ec/feed/"
     },
     {
       "publication_name": "Noti Amazonía",
@@ -801,6 +957,11 @@
       "publication_name": "Qué!",
       "publication_website_uri": "https://quenoticias.com/",
       "publication_rss_feed_uri": "https://quenoticias.com/feed/"
+    },
+    {
+      "publication_name": "La Nación",
+      "publication_website_uri": "https://lanacion.com.ec/",
+      "publication_rss_feed_uri": "https://lanacion.com.ec/feed/"
     },
     {
       "publication_name": "ecuavisa",
@@ -840,6 +1001,13 @@
       "publication_rss_feed_uri": "http://www.ikhwanwiki.com/index.php?title=%D9%85%D9%84%D9%81_%D8%A7%D9%84%D8%A5%D8%AE%D9%88%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D9%85%D9%86&feed=atom&action=history"
     }
   ],
+  "GNQ": [
+    {
+      "publication_name": "La Gaceta",
+      "publication_website_uri": "http://www.lagacetadeguinea.com/",
+      "publication_rss_feed_uri": "http://lagacetanewspaper.com/feed/"
+    }
+  ],
   "ERI": [
     {
       "publication_name": "Asmarino Independent",
@@ -850,9 +1018,24 @@
       "publication_name": "Awate.com",
       "publication_website_uri": "http://www.awate.com/",
       "publication_rss_feed_uri": "http://awate.com/feed/"
+    },
+    {
+      "publication_name": "VOA Tigrigna",
+      "publication_website_uri": "http://tigrigna.voanews.com/",
+      "publication_rss_feed_uri": "http://tigrigna.voanews.com/podcast/?count=50&zoneId=3315"
+    },
+    {
+      "publication_name": "Eritrea Profile",
+      "publication_website_uri": "http://www.shabait.com/eritrea-profile",
+      "publication_rss_feed_uri": "http://feeds.bbci.co.uk/news/world/africa/rss.xml"
     }
   ],
   "EST": [
+    {
+      "publication_name": "Postimees",
+      "publication_website_uri": "http://postimees.ee/",
+      "publication_rss_feed_uri": "http://www.postimees.ee/rss/"
+    },
     {
       "publication_name": "Elu24 meelelahutusuudised",
       "publication_website_uri": "http://elu24.ee/",
@@ -890,6 +1073,16 @@
   ],
   "FIN": [
     {
+      "publication_name": "Ilta-Sanomat",
+      "publication_website_uri": "http://iltasanomat.fi/",
+      "publication_rss_feed_uri": "http://www.iltasanomat.fi/rss/uutiset.xml"
+    },
+    {
+      "publication_name": "Iltalehti.fi",
+      "publication_website_uri": "http://iltalehti.fi/",
+      "publication_rss_feed_uri": "http://www.iltalehti.fi/rss/uutiset.xml"
+    },
+    {
       "publication_name": "yle",
       "publication_website_uri": "http://yle.fi/",
       "publication_rss_feed_uri": "http://yle.fi/uutiset/rss/uutiset.rss?osasto=news"
@@ -916,6 +1109,11 @@
     }
   ],
   "FRA": [
+    {
+      "publication_name": "France 24",
+      "publication_website_uri": "https://www.france24.com/fr",
+      "publication_rss_feed_uri": "https://www.france24.com/fr/rss"
+    },
     {
       "publication_name": "Le Monde",
       "publication_website_uri": "https://www.lemonde.fr/fr",
@@ -952,9 +1150,24 @@
       "publication_rss_feed_uri": "https://www.mediapart.fr/articles/feed"
     },
     {
-      "publication_name": "Le Nouvel Obs (L'Obs)",
-      "publication_website_uri": "https://www.nouvelobs.com/",
-      "publication_rss_feed_uri": "https://www.nouvelobs.com/rss.xml"
+      "publication_name": "20 Minutes",
+      "publication_website_uri": "https://www.20minutes.fr/",
+      "publication_rss_feed_uri": "https://www.20minutes.fr/feeds/rss-une.xml"
+    },
+    {
+      "publication_name": "L'Équipe",
+      "publication_website_uri": "https://www.lequipe.fr/",
+      "publication_rss_feed_uri": "https://dwh.lequipe.fr/api/edito/rss?path=/"
+    },
+    {
+      "publication_name": "L'Humanité",
+      "publication_website_uri": "https://www.humanite.fr/",
+      "publication_rss_feed_uri": "https://www.humanite.fr/rss"
+    },
+    {
+      "publication_name": "La Croix",
+      "publication_website_uri": "https://www.la-croix.com/",
+      "publication_rss_feed_uri": "https://www.la-croix.com/rss"
     },
     {
       "publication_name": "Le Point",
@@ -965,6 +1178,28 @@
       "publication_name": "Le Progrès",
       "publication_website_uri": "https://www.leprogres.fr/",
       "publication_rss_feed_uri": "https://www.leprogres.fr/rss"
+    },
+    {
+      "publication_name": "Les Dernières Nouvelles d'Alsace (DNA)",
+      "publication_website_uri": "https://www.dna.fr/",
+      "publication_rss_feed_uri": "https://www.dna.fr/rss"
+    },
+    {
+      "publication_name": "Franceinfo",
+      "publication_website_uri": "https://www.francetvinfo.fr/",
+      "publication_rss_feed_uri": "https://www.francetvinfo.fr/titres.rss"
+    },
+    {
+      "publication_name": "Ouest France",
+      "publication_website_uri": "https://www.ouest-france.fr/",
+      "publication_rss_feed_uri": "https://www.ouest-france.fr/rss/france"
+    }
+  ],
+  "GUF": [
+    {
+      "publication_name": "Guya Web",
+      "publication_website_uri": "http://www.guyaweb.com/",
+      "publication_rss_feed_uri": "http://www.guyaweb.com/flux-agenda/"
     }
   ],
   "PYF": [
@@ -972,6 +1207,25 @@
       "publication_name": "Tahiti Infos",
       "publication_website_uri": "http://www.tahiti-infos.com/",
       "publication_rss_feed_uri": "http://www.tahiti-infos.com/xml/syndication.rss"
+    },
+    {
+      "publication_name": "Tahiti News",
+      "publication_website_uri": "http://tahitinews.co/",
+      "publication_rss_feed_uri": "https://tahitinews.co/feed/"
+    }
+  ],
+  "GAB": [
+    {
+      "publication_name": "Infos Gabon",
+      "publication_website_uri": "http://infosgabon.com/",
+      "publication_rss_feed_uri": "http://fr.infosgabon.com/feed/"
+    }
+  ],
+  "GEO": [
+    {
+      "publication_name": "News.ge",
+      "publication_website_uri": "http://news.ge/",
+      "publication_rss_feed_uri": "http://news.ge/ge/rss"
     }
   ],
   "DEU": [
@@ -1016,6 +1270,11 @@
       "publication_rss_feed_uri": "http://www.rp-online.de/feed.rss"
     },
     {
+      "publication_name": "ARD Tagesschau",
+      "publication_website_uri": "http://tagesschau.de/",
+      "publication_rss_feed_uri": "http://www.tagesschau.de/xml/rss2"
+    },
+    {
       "publication_name": "NDR",
       "publication_website_uri": "http://ndr.de/",
       "publication_rss_feed_uri": "http://www.ndr.de/podcast/podcast2956.xml"
@@ -1034,6 +1293,31 @@
     }
   ],
   "GRC": [
+    {
+      "publication_name": "in.gr",
+      "publication_website_uri": "http://in.gr/",
+      "publication_rss_feed_uri": "http://rss.in.gr/Netvolution.Site.Engine.PageHandler.axd?rid=2&pid=250&la=1&si=1"
+    },
+    {
+      "publication_name": "Newsbomb.gr",
+      "publication_website_uri": "http://newsbomb.gr/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/newsbombgr"
+    },
+    {
+      "publication_name": "NewsIt.gr",
+      "publication_website_uri": "http://newsit.gr/",
+      "publication_rss_feed_uri": "http://www.newsit.gr/rss/artrss.php"
+    },
+    {
+      "publication_name": "Proto Thema",
+      "publication_website_uri": "http://protothema.gr/",
+      "publication_rss_feed_uri": "http://www.protothema.gr/rss/news/general/"
+    },
+    {
+      "publication_name": "Ta Nea",
+      "publication_website_uri": "http://tanea.gr/",
+      "publication_rss_feed_uri": "http://www.tanea.gr/rss.axd?pgid=1"
+    },
     {
       "publication_name": "SKAI.gr",
       "publication_website_uri": "http://skai.gr/",
@@ -1071,6 +1355,11 @@
       "publication_rss_feed_uri": "http://guineenews.org/feed/"
     },
     {
+      "publication_name": "Radio Kankan",
+      "publication_website_uri": "http://www.radio-kankan.com/",
+      "publication_rss_feed_uri": "http://guineematin.com/category/ma-region/haute-guinee/kankan/feed/"
+    },
+    {
       "publication_name": "Radio Nostalgie Guin",
       "publication_website_uri": "http://www.nostalgieguinee.net/",
       "publication_rss_feed_uri": "http://rss.wn.com/French/related-articles/2014/12/08/les_personnes_seules_sont_les_plus_touchees/"
@@ -1100,11 +1389,6 @@
       "publication_name": "Orient Daily",
       "publication_website_uri": "http://orientaldaily.on.cc/",
       "publication_rss_feed_uri": "http://feeds.feedburner.com/123greetings-daily-rss"
-    },
-    {
-      "publication_name": "HKEJ",
-      "publication_website_uri": "http://hkej.com/",
-      "publication_rss_feed_uri": "http://startupbeat.hkej.com/?feed=rss2"
     }
   ],
   "HUN": [
@@ -1114,9 +1398,24 @@
       "publication_rss_feed_uri": "http://index.hu/24ora/rss"
     },
     {
+      "publication_name": "hvg.hu",
+      "publication_website_uri": "http://hvg.hu/",
+      "publication_rss_feed_uri": "http://hvg.hu/rss"
+    },
+    {
+      "publication_name": "Blikk",
+      "publication_website_uri": "http://blikk.hu/",
+      "publication_rss_feed_uri": "http://www.blikk.hu/rss/blikk"
+    },
+    {
       "publication_name": "Velvet",
       "publication_website_uri": "http://velvet.hu/",
       "publication_rss_feed_uri": "http://velvet.hu/24ora/rss/"
+    },
+    {
+      "publication_name": "Sport Geza",
+      "publication_website_uri": "http://sportgeza.hu/",
+      "publication_rss_feed_uri": "http://sportgeza.hu/24ora/rss/"
     },
     {
       "publication_name": "Nepszava",
@@ -1173,12 +1472,22 @@
       "publication_rss_feed_uri": "http://zeenews.india.com/rss/india-national-news.xml"
     },
     {
+      "publication_name": "The Hindu",
+      "publication_website_uri": "http://thehindu.com/",
+      "publication_rss_feed_uri": "http://www.thehindu.com/news/?service=rss"
+    },
+    {
       "publication_name": "Dainik Jagran",
       "publication_website_uri": "http://jagran.com/",
       "publication_rss_feed_uri": "http://rss.jagran.com/local/uttar-pradesh/lucknow-city.xml"
     }
   ],
   "IDN": [
+    {
+      "publication_name": "Tribun News",
+      "publication_website_uri": "http://tribunnews.com/",
+      "publication_rss_feed_uri": "http://www.tribunnews.com/rss"
+    },
     {
       "publication_name": "okezone.com",
       "publication_website_uri": "http://okezone.com/",
@@ -1217,6 +1526,11 @@
       "publication_name": "IrishCentral",
       "publication_website_uri": "http://irishcentral.com/",
       "publication_rss_feed_uri": "http://www.irishcentral.com/templates/section_feed_content_abstract.rss?section=/news/politics"
+    },
+    {
+      "publication_name": "Donegal Daily",
+      "publication_website_uri": "http://donegaldaily.com/",
+      "publication_rss_feed_uri": "http://www.donegaldaily.com/feed/"
     },
     {
       "publication_name": "Highland Radio",
@@ -1302,11 +1616,6 @@
   ],
   "ITA": [
     {
-      "publication_name": "La Repubblica",
-      "publication_website_uri": "http://repubblica.it/",
-      "publication_rss_feed_uri": "http://www.repubblica.it/rss/homepage/rss2.0.xml"
-    },
-    {
       "publication_name": "ANSA.it",
       "publication_website_uri": "http://ansa.it/",
       "publication_rss_feed_uri": "http://www.ansa.it/english/english_rss.xml"
@@ -1322,9 +1631,14 @@
       "publication_rss_feed_uri": "http://www.tgcom24.mediaset.it/rss/homepage.xml"
     },
     {
-      "publication_name": "Il Messaggero",
-      "publication_website_uri": "http://ilmessaggero.it/",
-      "publication_rss_feed_uri": "http://www.ilmessaggero.it/rss/home.xml"
+      "publication_name": "Corriere dello Sport",
+      "publication_website_uri": "http://corrieredellosport.it/",
+      "publication_rss_feed_uri": "http://www.corrieredellosport.it/rss/Altri-Sport-2.xml"
+    },
+    {
+      "publication_name": "Il Giornale",
+      "publication_website_uri": "http://ilgiornale.it/",
+      "publication_rss_feed_uri": "http://www.ilgiornale.it/taxonomy/term/40822/feed"
     }
   ],
   "JAM": [
@@ -1339,6 +1653,11 @@
       "publication_name": "NHK",
       "publication_website_uri": "http://nhk.or.jp/",
       "publication_rss_feed_uri": "http://www.nhk.or.jp/rj/podcast/rss/english.xml"
+    },
+    {
+      "publication_name": "Daily Sports Online",
+      "publication_website_uri": "http://daily.co.jp/",
+      "publication_rss_feed_uri": "http://www.dailymail.co.uk/sport/index.rss"
     },
     {
       "publication_name": "nikkansports.com",
@@ -1358,6 +1677,18 @@
       "publication_rss_feed_uri": "http://www.jordanzad.com/rss.php?type=main"
     }
   ],
+  "KAZ": [
+    {
+      "publication_name": "Tengri News",
+      "publication_website_uri": "http://tengrinews.kz/",
+      "publication_rss_feed_uri": "http://tengrinews.kz/news.rss"
+    },
+    {
+      "publication_name": "Kazakhstan Today",
+      "publication_website_uri": "http://kt.kz/",
+      "publication_rss_feed_uri": "http://www.kt.kz/kaz/rss/"
+    }
+  ],
   "KEN": [
     {
       "publication_name": "Standard Media",
@@ -1367,9 +1698,9 @@
   ],
   "XKK": [
     {
-      "publication_name": "ZERI.info",
-      "publication_website_uri": "http://zeri.info/",
-      "publication_rss_feed_uri": "https://zeri.info/rss/zerat"
+      "publication_name": "RTK Live",
+      "publication_website_uri": "http://rtklive.com/",
+      "publication_rss_feed_uri": "https://www.rtklive.com/sq/feed/"
     },
     {
       "publication_name": "Radio Evropa e Lire",
@@ -1377,18 +1708,31 @@
       "publication_rss_feed_uri": "http://www.evropaelire.org/api/ayiiyqveqjiyqv"
     }
   ],
-  "KWT": [
-    {
-      "publication_name": "Alanba",
-      "publication_website_uri": "http://alanba.com.kw/",
-      "publication_rss_feed_uri": "http://www.alanba.com.kw/rss/art-news"
-    }
-  ],
   "KGZ": [
+    {
+      "publication_name": "AKIpress",
+      "publication_website_uri": "http://www.akipress.com/",
+      "publication_rss_feed_uri": "http://www.akipress.com/rss/en.rss"
+    },
+    {
+      "publication_name": "Tazabek",
+      "publication_website_uri": "http://tazabek.kg/",
+      "publication_rss_feed_uri": "http://www.tazabek.kg/rss/news.rss"
+    },
     {
       "publication_name": "CA-News.org",
       "publication_website_uri": "http://ca-news.org/",
       "publication_rss_feed_uri": "http://uz.ca-news.org/rss/main.rss"
+    },
+    {
+      "publication_name": "K-News",
+      "publication_website_uri": "http://knews.kg/",
+      "publication_rss_feed_uri": "http://www.knews.kg/pro_dengi/rss/"
+    },
+    {
+      "publication_name": "Vesti.kg",
+      "publication_website_uri": "http://vesti.kg/",
+      "publication_rss_feed_uri": "http://www.vesti.kg/index.php?option=com_k2&view=itemlist&format=feed"
     }
   ],
   "LAO": [
@@ -1410,13 +1754,6 @@
       "publication_rss_feed_uri": "http://www.gorod.lv/rss-news.php"
     }
   ],
-  "LSO": [
-    {
-      "publication_name": "Sunday Express",
-      "publication_website_uri": "http://sundayexpress.co.ls/",
-      "publication_rss_feed_uri": "http://sundayexpress.co.ls/category/news/feed/"
-    }
-  ],
   "LBR": [
     {
       "publication_name": "New Republic",
@@ -1425,11 +1762,6 @@
     }
   ],
   "LBY": [
-    {
-      "publication_name": "Al Manara",
-      "publication_website_uri": "http://www.almanaralink.com/",
-      "publication_rss_feed_uri": "http://www.dubaisavers.com/tag/al-manara/feed/"
-    },
     {
       "publication_name": "Tripoli Post",
       "publication_website_uri": "http://www.tripolipost.com/",
@@ -1446,6 +1778,11 @@
       "publication_name": "Lietuvos Rytas",
       "publication_website_uri": "http://lrytas.lt/",
       "publication_rss_feed_uri": "http://www.lrytas.lt/rss/"
+    },
+    {
+      "publication_name": "15min.lt",
+      "publication_website_uri": "http://15min.lt/",
+      "publication_rss_feed_uri": "http://www.15min.lt/rss"
     }
   ],
   "LUX": [
@@ -1453,6 +1790,13 @@
       "publication_name": "RTL",
       "publication_website_uri": "http://rtl.lu/",
       "publication_rss_feed_uri": "http://rtl.lu/rss/headlines/"
+    }
+  ],
+  "MAC": [
+    {
+      "publication_name": "Hoje Macau",
+      "publication_website_uri": "http://hojemacau.com.mo/",
+      "publication_rss_feed_uri": "http://hojemacau.com.mo/?feed=rss2"
     }
   ],
   "MDG": [
@@ -1505,11 +1849,6 @@
   ],
   "MLT": [
     {
-      "publication_name": "Times of Malta",
-      "publication_website_uri": "http://timesofmalta.com/",
-      "publication_rss_feed_uri": "http://www.timesofmalta.com/rss"
-    },
-    {
       "publication_name": "Malta Today",
       "publication_website_uri": "http://maltatoday.com.mt/",
       "publication_rss_feed_uri": "http://www.maltatoday.com.mt/rss/"
@@ -1527,13 +1866,6 @@
       "publication_rss_feed_uri": "http://www.martinique.franceantilles.fr/rss/lea_Une.xml"
     }
   ],
-  "MUS": [
-    {
-      "publication_name": "Lexpress.mu",
-      "publication_website_uri": "http://lexpress.mu/",
-      "publication_rss_feed_uri": "http://www.lexpress.mu/rss.xml"
-    }
-  ],
   "MEX": [
     {
       "publication_name": "Reforma.com",
@@ -1544,6 +1876,11 @@
       "publication_name": "SDPnoticias.com",
       "publication_website_uri": "http://sdpnoticias.com/",
       "publication_rss_feed_uri": "http://feeds.feedburner.com/SDPnoticiascom"
+    },
+    {
+      "publication_name": "El Norte",
+      "publication_website_uri": "http://elnorte.com/",
+      "publication_rss_feed_uri": "http://www.elnorte.com/rss/portada.xml"
     }
   ],
   "MDA": [
@@ -1619,6 +1956,11 @@
       "publication_rss_feed_uri": "https://rss.portalanalitika.me/"
     },
     {
+      "publication_name": "Actualno.me",
+      "publication_website_uri": "https://aktuelno.me/",
+      "publication_rss_feed_uri": "https://rss.aktuelno.me/"
+    },
+    {
       "publication_name": "RTCG",
       "publication_website_uri": "https://rtcg.me/",
       "publication_rss_feed_uri": "https://rtcg.me/vijesti/rss.html"
@@ -1634,6 +1976,21 @@
       "publication_rss_feed_uri": "http://www.radiodux.me/rss.xml"
     },
     {
+      "publication_name": "RadioTitograd",
+      "publication_website_uri": "https://radiotitograd.me/",
+      "publication_rss_feed_uri": "https://radiotitograd.me/feed/"
+    },
+    {
+      "publication_name": "Espona",
+      "publication_website_uri": "https://espona.me/",
+      "publication_rss_feed_uri": "https://espona.me/index.php?format=feed&type=atom"
+    },
+    {
+      "publication_name": "Svetigora",
+      "publication_website_uri": "https://svetigora.com/",
+      "publication_rss_feed_uri": "https://svetigora.com/feed/"
+    },
+    {
       "publication_name": "BokaNews",
       "publication_website_uri": "https://bokanews.me/",
       "publication_rss_feed_uri": "https://bokanews.me/feed/"
@@ -1644,14 +2001,39 @@
       "publication_rss_feed_uri": "https://volimpodgoricu.me/feed"
     },
     {
+      "publication_name": "Kodex.me",
+      "publication_website_uri": "https://kodex.me/feed/",
+      "publication_rss_feed_uri": "https://kodex.me/feed/"
+    },
+    {
       "publication_name": "Onogošt",
       "publication_website_uri": "https://onogost.me/",
       "publication_rss_feed_uri": "https://onogost.me/feed/"
     },
     {
+      "publication_name": "SrpskeNovine",
+      "publication_website_uri": "https://s-medijicg.com/",
+      "publication_rss_feed_uri": "https://s-medijicg.com/?format=feed&type=atom"
+    },
+    {
       "publication_name": "PVInformer",
       "publication_website_uri": "https://www.pvinformer.me/",
       "publication_rss_feed_uri": "https://www.pvinformer.me/feed/"
+    },
+    {
+      "publication_name": "PVPortal",
+      "publication_website_uri": "https://pvportal.me/",
+      "publication_rss_feed_uri": "https://pvportal.me/feed/"
+    },
+    {
+      "publication_name": "Roditelji.me",
+      "publication_website_uri": "https://www.roditelji.me/",
+      "publication_rss_feed_uri": "https://www.roditelji.me/feed/"
+    },
+    {
+      "publication_name": "RadioBerane",
+      "publication_website_uri": "https://radioberane.me/",
+      "publication_rss_feed_uri": "https://radioberane.me/feed/"
     },
     {
       "publication_name": "RadioBar",
@@ -1660,6 +2042,11 @@
     }
   ],
   "MAR": [
+    {
+      "publication_name": "Hespress",
+      "publication_website_uri": "http://www.hespress.com/",
+      "publication_rss_feed_uri": "http://www.hespress.com/feed/index.rss"
+    },
     {
       "publication_name": "yabiladi.com",
       "publication_website_uri": "http://www.yabiladi.com/",
@@ -1751,16 +2138,14 @@
       "publication_rss_feed_uri": "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_000000001.xml"
     },
     {
+      "publication_name": "Otago Daily Times",
+      "publication_website_uri": "http://odt.co.nz/",
+      "publication_rss_feed_uri": "http://www.odt.co.nz/news/feed"
+    },
+    {
       "publication_name": "Scoop",
       "publication_website_uri": "http://scoop.co.nz/",
       "publication_rss_feed_uri": "http://www.scoop.co.nz/storyindex/index.rss?s.c=HL"
-    }
-  ],
-  "NIC": [
-    {
-      "publication_name": "La Nueva Radio YA",
-      "publication_website_uri": "http://nuevaya.com.ni/",
-      "publication_rss_feed_uri": "http://nuevaya.com.ni/feed/"
     }
   ],
   "NER": [
@@ -1826,6 +2211,11 @@
       "publication_rss_feed_uri": "http://feeds.feedburner.com/daily-express-news-showbiz"
     },
     {
+      "publication_name": "Pakistan Today",
+      "publication_website_uri": "http://pakistantoday.com.pk/",
+      "publication_rss_feed_uri": "http://www.pakistantoday.com.pk/feed/"
+    },
+    {
       "publication_name": "Daily Times",
       "publication_website_uri": "http://dailytimes.com.pk/",
       "publication_rss_feed_uri": "http://www.dailytimes.com.pk/rss_feeds"
@@ -1865,6 +2255,11 @@
       "publication_rss_feed_uri": "https://diariocorreo.pe/arc/outboundfeeds/rss/?outputType=xml"
     },
     {
+      "publication_name": "Los Andes",
+      "publication_website_uri": "https://losandes.com.pe/",
+      "publication_rss_feed_uri": "https://losandes.com.pe/feed/"
+    },
+    {
       "publication_name": "RPP.pe",
       "publication_website_uri": "https://rpp.pe/",
       "publication_rss_feed_uri": "https://rpp.pe/rss"
@@ -1889,9 +2284,34 @@
   ],
   "POL": [
     {
+      "publication_name": "Gazeta.pl",
+      "publication_website_uri": "http://gazeta.pl/",
+      "publication_rss_feed_uri": "http://rss.gazeta.pl/pub/rss/wiadomosci.xml"
+    },
+    {
+      "publication_name": "INTERIA.PL",
+      "publication_website_uri": "http://interia.pl/",
+      "publication_rss_feed_uri": "http://pogoda.interia.pl/feed"
+    },
+    {
+      "publication_name": "Onet Wiadomosci",
+      "publication_website_uri": "http://wiadomosci.onet.pl/",
+      "publication_rss_feed_uri": "http://wiadomosci.onet.pl/.feed"
+    },
+    {
+      "publication_name": "WP.pl Wiadomosci",
+      "publication_website_uri": "http://wiadomosci.wp.pl/",
+      "publication_rss_feed_uri": "http://wiadomosci.wp.pl/rss.xml"
+    },
+    {
       "publication_name": "Money.pl",
       "publication_website_uri": "http://money.pl/",
       "publication_rss_feed_uri": "http://www.money.pl/rss/main.xml"
+    },
+    {
+      "publication_name": "Gazeta Wyborcza",
+      "publication_website_uri": "http://wyborcza.pl/",
+      "publication_rss_feed_uri": "https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml"
     },
     {
       "publication_name": "TVP",
@@ -1961,6 +2381,22 @@
       "publication_rss_feed_uri": "https://www.jornaldenegocios.pt/rss"
     },
     {
+      "publication_name": "Observador",
+      "publication_website_uri": "https://observador.pt/",
+      "publication_rss_feed_uri": "https://observador.pt/rss/"
+    },
+    {
+      "publication_name": "Diário As Beiras",
+      "publication_website_uri": "https://www.asbeiras.pt/",
+      "publication_rss_feed_uri": "https://feeds.feedburner.com/asbeiras"
+    },
+    {
+      "publication_name": "Diário de Notícias Madeira (dnoticias.pt)",
+      "publication_website_uri": "https://www.dnoticias.pt/",
+      "publication_rss_feed_uri": "https://www.dnoticias.pt/rss.xml",
+      "bot_protection": true
+    },
+    {
       "publication_name": "Diário de Coimbra",
       "publication_website_uri": "https://www.diariocoimbra.pt/",
       "publication_rss_feed_uri": "https://www.diariocoimbra.pt/feed/"
@@ -1969,6 +2405,23 @@
       "publication_name": "O Minho",
       "publication_website_uri": "https://ominho.pt/",
       "publication_rss_feed_uri": "https://ominho.pt/feed"
+    },
+    {
+      "publication_name": "A Voz de Trás-os-Montes",
+      "publication_website_uri": "https://www.avozdetrasosmontes.pt/",
+      "publication_rss_feed_uri": "https://www.avozdetrasosmontes.pt/feed"
+    }
+  ],
+  "PRI": [
+    {
+      "publication_name": "NotiCel",
+      "publication_website_uri": "http://noticel.com/",
+      "publication_rss_feed_uri": "http://noticel.com/feed"
+    },
+    {
+      "publication_name": "Noti Uno 630 AM",
+      "publication_website_uri": "http://notiuno.com/",
+      "publication_rss_feed_uri": "http://estrella51.blogspot.com/feeds/posts/default?alt=rss"
     }
   ],
   "QAT": [
@@ -1976,6 +2429,13 @@
       "publication_name": "Doha News",
       "publication_website_uri": "http://dohanews.co/",
       "publication_rss_feed_uri": "http://feeds.feedburner.com/DohaNews"
+    }
+  ],
+  "GMB": [
+    {
+      "publication_name": "Point",
+      "publication_website_uri": "http://thepoint.gm/",
+      "publication_rss_feed_uri": "http://thepoint.gm/posts/rss/xml"
     }
   ],
   "ROU": [
@@ -2017,9 +2477,9 @@
   ],
   "RUS": [
     {
-      "publication_name": "Lenta.ru",
-      "publication_website_uri": "http://lenta.ru/",
-      "publication_rss_feed_uri": "http://lenta.ru/rss/"
+      "publication_name": "RIA Novosti",
+      "publication_website_uri": "http://ria.ru/",
+      "publication_rss_feed_uri": "https://ria.ru/export/rss2/index.xml"
     },
     {
       "publication_name": "Utro.ru",
@@ -2040,6 +2500,20 @@
       "publication_name": "TASS",
       "publication_website_uri": "https://tass.ru/",
       "publication_rss_feed_uri": "https://tass.ru/rss/all.xml"
+    }
+  ],
+  "SHN": [
+    {
+      "publication_name": "Islander",
+      "publication_website_uri": "http://www.the-islander.org.ac/",
+      "publication_rss_feed_uri": "http://www.islander.org/feed/"
+    }
+  ],
+  "WSM": [
+    {
+      "publication_name": "Samoa News",
+      "publication_website_uri": "http://www.samoanews.com/",
+      "publication_rss_feed_uri": "http://www.samoanews.com/?q=rss.xml&quicktabs_3=0"
     }
   ],
   "SMR": [
@@ -2071,6 +2545,21 @@
       "publication_name": "Senego",
       "publication_website_uri": "http://senego.net/",
       "publication_rss_feed_uri": "http://senego.com/feed"
+    },
+    {
+      "publication_name": "Xalimasn.com",
+      "publication_website_uri": "http://xalimasn.com/",
+      "publication_rss_feed_uri": "http://xalimasn.com/une-refutation-des-theses-de-lanimateur-tekhe-gaye-et-autres-porte-propagandes-sur-les-supposes-60-milliards-de-aliou-sall/feed/"
+    },
+    {
+      "publication_name": "PressAfrik",
+      "publication_website_uri": "http://www.pressafrik.com/",
+      "publication_rss_feed_uri": "http://www.sanslimitesn.com/tag/exclusivite-pressafrik-com/feed/"
+    },
+    {
+      "publication_name": "WIW Sport",
+      "publication_website_uri": "http://wiwsport.com/",
+      "publication_rss_feed_uri": "http://www.wiwsport.com/rss/fluxrss.xml"
     }
   ],
   "SRB": [
@@ -2110,6 +2599,11 @@
       "publication_rss_feed_uri": "http://www.danas.rs/rss/rss.asp?column_id=0"
     },
     {
+      "publication_name": "Vesti.rs",
+      "publication_website_uri": "http://vesti.rs/",
+      "publication_rss_feed_uri": "http://www.pirotskevesti.rs/sport/13135/feed/"
+    },
+    {
       "publication_name": "Televizija N1",
       "publication_website_uri": "https://n1info.rs/",
       "publication_rss_feed_uri": "https://n1info.rs/feed/"
@@ -2137,11 +2631,6 @@
       "publication_name": "Pluska.sk",
       "publication_website_uri": "http://pluska.sk/",
       "publication_rss_feed_uri": "http://www.pluska.sk/rss.xml"
-    },
-    {
-      "publication_name": "HNonline.sk",
-      "publication_website_uri": "http://hnonline.sk/",
-      "publication_rss_feed_uri": "http://hnonline.sk/rss/1"
     },
     {
       "publication_name": "oPeniazoch.sk",
@@ -2246,14 +2735,14 @@
       "publication_rss_feed_uri": "https://e00-elmundo.uecdn.es/rss/portada.xml"
     },
     {
-      "publication_name": "Antena 3",
-      "publication_website_uri": "https://www.antena3.com/",
-      "publication_rss_feed_uri": "https://www.antena3.com/noticias/rss/4013050.xml"
-    },
-    {
       "publication_name": "LaVanguardia.com",
       "publication_website_uri": "https://lavanguardia.com/",
       "publication_rss_feed_uri": "https://www.lavanguardia.com/rss/home.xml"
+    },
+    {
+      "publication_name": "La Razon",
+      "publication_website_uri": "https://larazon.es/",
+      "publication_rss_feed_uri": "https://www.larazon.es/?outputType=xml"
     },
     {
       "publication_name": "elEconomista.es",
@@ -2271,6 +2760,11 @@
       "publication_rss_feed_uri": "https://e00-expansion.uecdn.es/rss/portada.xml"
     },
     {
+      "publication_name": "Invertia",
+      "publication_website_uri": "https://www.elespanol.com/invertia/",
+      "publication_rss_feed_uri": "https://www.elespanol.com/rss/invertia/"
+    },
+    {
       "publication_name": "El Confidencial",
       "publication_website_uri": "https://elconfidencial.com/",
       "publication_rss_feed_uri": "https://rss.elconfidencial.com/espana/"
@@ -2284,6 +2778,11 @@
       "publication_name": "Diario Expansion",
       "publication_website_uri": "https://okdiario.com/",
       "publication_rss_feed_uri": "https://okdiario.com/feed"
+    },
+    {
+      "publication_name": "El Independiente",
+      "publication_website_uri": "https://www.elindependiente.com/",
+      "publication_rss_feed_uri": "https://www.elindependiente.com/feed/"
     },
     {
       "publication_name": "El Debate",
@@ -2335,6 +2834,11 @@
   ],
   "PSE": [
     {
+      "publication_name": "IRA Arab News Agency",
+      "publication_website_uri": "http://irarab.com/",
+      "publication_rss_feed_uri": "http://rss.wn.com/English/related-articles/2014/11/29/Timeline_of_violations_against_freedom_of_information_in_Ira/"
+    },
+    {
       "publication_name": "nablus TV",
       "publication_website_uri": "http://nablustv.net/",
       "publication_rss_feed_uri": "http://www.nablustv.net/xml.asp"
@@ -2350,6 +2854,11 @@
       "publication_name": "GFC Nieuws",
       "publication_website_uri": "http://gfcnieuws.com/",
       "publication_rss_feed_uri": "http://www.gfcnieuws.com/?feed=rss2"
+    },
+    {
+      "publication_name": "Waterkant.net",
+      "publication_website_uri": "http://waterkant.net/",
+      "publication_rss_feed_uri": "http://www.waterkant.net/feed/"
     }
   ],
   "SWE": [
@@ -2364,19 +2873,14 @@
       "publication_rss_feed_uri": "https://www.svt.se/rss.xml"
     },
     {
-      "publication_name": "DN.se",
-      "publication_website_uri": "http://dn.se/",
-      "publication_rss_feed_uri": "http://www.dn.se/nyheter/m/rss"
-    },
-    {
-      "publication_name": "di.se",
-      "publication_website_uri": "http://di.se/",
-      "publication_rss_feed_uri": "http://www.di.se/rss/"
-    },
-    {
       "publication_name": "Sydsvenskan",
       "publication_website_uri": "http://sydsvenskan.se/",
       "publication_rss_feed_uri": "http://www.sydsvenskan.se/rss.xml?type=section&id=528225"
+    },
+    {
+      "publication_name": "nwt.se",
+      "publication_website_uri": "http://nwt.se/",
+      "publication_rss_feed_uri": "http://rss.nwt.se/nwtse_karlstad"
     }
   ],
   "CHE": [
@@ -2427,6 +2931,11 @@
   ],
   "MKD": [
     {
+      "publication_name": "Kajgana",
+      "publication_website_uri": "http://kajgana.com/",
+      "publication_rss_feed_uri": "http://kajgana.com/rss.xml"
+    },
+    {
       "publication_name": "crnobelo.com",
       "publication_website_uri": "http://crnobelo.com/",
       "publication_rss_feed_uri": "http://forum.crnobelo.com/forums/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%98%D0%B0.68/index.rss"
@@ -2435,6 +2944,11 @@
       "publication_name": "MKD",
       "publication_website_uri": "http://mkd.mk/",
       "publication_rss_feed_uri": "http://www.mkd.mk/feed"
+    },
+    {
+      "publication_name": "Daily Makedonia",
+      "publication_website_uri": "http://daily.mk/",
+      "publication_rss_feed_uri": "http://news.makedonias.gr/89309/erevna-daily-mail-to-chirotero-protathlima-ston-kosmo-ine-i-superleague/feed/"
     },
     {
       "publication_name": "Makedonska Radio Televizija (MRT)",
@@ -2521,9 +3035,24 @@
       "publication_name": "Yeni Safak",
       "publication_website_uri": "http://www.yenisafak.com.tr",
       "publication_rss_feed_uri": "http://www.yenisafak.com.tr/rss/"
+    },
+    {
+      "publication_name": "STARGAZETE.COM",
+      "publication_website_uri": "http://www.stargazete.com",
+      "publication_rss_feed_uri": "http://www.star.com.tr/rss/rss.asp"
+    },
+    {
+      "publication_name": "Aktif Haber",
+      "publication_website_uri": "http://www.aktifhaber.com",
+      "publication_rss_feed_uri": "http://www.aktifhaber.com/rss/"
     }
   ],
   "UGA": [
+    {
+      "publication_name": "Red Pepper",
+      "publication_website_uri": "http://www.redpepper.co.ug/",
+      "publication_rss_feed_uri": "http://www.redpepper.co.ug/feed/"
+    },
     {
       "publication_name": "BigEye.ug",
       "publication_website_uri": "http://www.bigeye.ug/",
@@ -2564,9 +3093,29 @@
       "publication_rss_feed_uri": "https://uk.news.yahoo.com/rss/uk"
     },
     {
+      "publication_name": "Mail",
+      "publication_website_uri": "http://dailymail.co.uk/",
+      "publication_rss_feed_uri": "http://www.dailymail.co.uk/news/index.rss"
+    },
+    {
+      "publication_name": "BBC News",
+      "publication_website_uri": "http://news.bbc.co.uk/",
+      "publication_rss_feed_uri": "http://feeds.bbci.co.uk/news/england/rss.xml"
+    },
+    {
+      "publication_name": "Sky Sports",
+      "publication_website_uri": "http://skysports.com/",
+      "publication_rss_feed_uri": "http://www1.skysports.com/rss/11095"
+    },
+    {
       "publication_name": "Mirror",
       "publication_website_uri": "http://mirror.co.uk/",
       "publication_rss_feed_uri": "http://www.mirror.co.uk/news/rss.xml"
+    },
+    {
+      "publication_name": "Metro",
+      "publication_website_uri": "http://metro.co.uk/",
+      "publication_rss_feed_uri": "http://metro.co.uk/feed/"
     },
     {
       "publication_name": "Financial Times",
@@ -2604,11 +3153,38 @@
       "publication_rss_feed_uri": "http://www.expressandstar.com/news/feed/"
     }
   ],
+  "TZA": [
+    {
+      "publication_name": "Wavuti",
+      "publication_website_uri": "http://www.wavuti.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/wavuti"
+    }
+  ],
   "USA": [
+    {
+      "publication_name": "ESPN",
+      "publication_website_uri": "http://espn.go.com/",
+      "publication_rss_feed_uri": "http://sports.espn.go.com/espn/rss/news"
+    },
+    {
+      "publication_name": "Fox News",
+      "publication_website_uri": "http://foxnews.com/",
+      "publication_rss_feed_uri": "http://feeds.foxnews.com/foxnews/politics"
+    },
+    {
+      "publication_name": "The New York Times",
+      "publication_website_uri": "http://nytimes.com/",
+      "publication_rss_feed_uri": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
     {
       "publication_name": "ABCNews.com",
       "publication_website_uri": "http://abcnews.go.com/",
       "publication_rss_feed_uri": "http://abcnews.go.com/xmldata/rss?id=4380645"
+    },
+    {
+      "publication_name": "Los Angeles Times",
+      "publication_website_uri": "http://latimes.com/",
+      "publication_rss_feed_uri": "http://www.latimes.com/rss2.0.xml"
     },
     {
       "publication_name": "Yardbarker.com",
@@ -2661,6 +3237,11 @@
       "publication_rss_feed_uri": "http://time.com/feed/"
     },
     {
+      "publication_name": "POLITICO.com",
+      "publication_website_uri": "http://politico.com/",
+      "publication_rss_feed_uri": "http://www.politico.com/rss/politicopicks.xml"
+    },
+    {
       "publication_name": "Seeking Alpha",
       "publication_website_uri": "http://seekingalpha.com/",
       "publication_rss_feed_uri": "http://seekingalpha.com/feed.xml"
@@ -2679,6 +3260,11 @@
       "publication_name": "Breitbart",
       "publication_website_uri": "http://breitbart.com/",
       "publication_rss_feed_uri": "http://feeds.feedburner.com/breitbart"
+    },
+    {
+      "publication_name": "Wired",
+      "publication_website_uri": "http://wired.com/",
+      "publication_rss_feed_uri": "http://feeds.wired.com/wired/index"
     }
   ],
   "URY": [
@@ -2688,9 +3274,34 @@
       "publication_rss_feed_uri": "https://www.elobservador.com.uy/rss/pages/ultimo-momento.xml"
     },
     {
+      "publication_name": "Montevideo Portal",
+      "publication_website_uri": "https://www.montevideo.com.uy/",
+      "publication_rss_feed_uri": "https://www.montevideo.com.uy/anxml.aspx?58"
+    },
+    {
       "publication_name": "La Diaria",
       "publication_website_uri": "https://ladiaria.com.uy/",
       "publication_rss_feed_uri": "https://ladiaria.com.uy/feeds/articulos"
+    },
+    {
+      "publication_name": "El Popular",
+      "publication_website_uri": "https://elpopular.uy/",
+      "publication_rss_feed_uri": "https://elpopular.uy/feed/"
+    },
+    {
+      "publication_name": "La Mañana",
+      "publication_website_uri": "https://www.lamañana.uy/",
+      "publication_rss_feed_uri": "https://www.xn--lamaana-7za.uy/feed/"
+    },
+    {
+      "publication_name": "Diario El Telegrafo",
+      "publication_website_uri": "https://www.eltelegrafo.com/",
+      "publication_rss_feed_uri": "https://www.eltelegrafo.com/feed/"
+    },
+    {
+      "publication_name": "Subrayado HD",
+      "publication_website_uri": "https://subrayado.com.uy/",
+      "publication_rss_feed_uri": "https://www.subrayado.com.uy/rss/pages/home.xml"
     }
   ],
   "UZB": [
@@ -2726,11 +3337,6 @@
   ],
   "YEM": [
     {
-      "publication_name": "Mareb Press",
-      "publication_website_uri": "http://marebpress.net/",
-      "publication_rss_feed_uri": "https://marebpress.net/news_rss.php"
-    },
-    {
       "publication_name": "Al-Tagheer.com",
       "publication_website_uri": "http://al-tagheer.com/",
       "publication_rss_feed_uri": "http://al-tagheer.com/rss.php"
@@ -2763,6 +3369,11 @@
       "publication_name": "Standard",
       "publication_website_uri": "http://www.thestandard.co.zw/",
       "publication_rss_feed_uri": "http://thestandard.org.nz/feed/"
+    },
+    {
+      "publication_name": "Zimbabwe Mail",
+      "publication_website_uri": "http://thezimbabwemail.com/",
+      "publication_rss_feed_uri": "http://thezimbabwemail.com/feed/"
     },
     {
       "publication_name": "ZimEye",

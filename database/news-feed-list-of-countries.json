@@ -9951,7 +9951,8 @@
     {
       "publication_name": "Diário de Notícias Madeira (dnoticias.pt)",
       "publication_website_uri": "https://www.dnoticias.pt/",
-      "publication_rss_feed_uri": "https://www.dnoticias.pt/rss.xml"
+      "publication_rss_feed_uri": "https://www.dnoticias.pt/rss.xml",
+      "bot_protection": true
     },
     {
       "publication_name": "Diário de Coimbra",

@@ -230,14 +230,21 @@ async function generateMarkdown() {
   const activeFeedsJson = {};
 
   countryCodes.forEach(countryCode => {
-    // For active feeds JSON - only include valid feeds (exclude bot-protected)
+    // For active feeds JSON - include valid feeds and bot-protected feeds
     const activeFeeds = validatedData[countryCode]
-      .filter(pub => pub.isValid === true)
-      .map(pub => ({
-        publication_name: pub.publication_name,
-        publication_website_uri: pub.publication_website_uri,
-        publication_rss_feed_uri: pub.publication_rss_feed_uri
-      }));
+      .filter(pub => pub.isValid === true || pub.isValid === 'bot_protected')
+      .map(pub => {
+        const feed = {
+          publication_name: pub.publication_name,
+          publication_website_uri: pub.publication_website_uri,
+          publication_rss_feed_uri: pub.publication_rss_feed_uri
+        };
+        // Include bot_protection flag if present
+        if (pub.bot_protection === true) {
+          feed.bot_protection = true;
+        }
+        return feed;
+      });
 
     if (activeFeeds.length > 0) {
       activeFeedsJson[countryCode] = activeFeeds;
