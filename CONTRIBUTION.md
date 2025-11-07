@@ -37,6 +37,17 @@ Follow these steps to add your RSS feed:
      }
      ```
 
+   - **Optional: Add a category** for feeds that represent regional editions or specific categories:
+     ```json
+     {
+       "publication_name": "Your Publication Name",
+       "category": "Region/Category",
+       "publication_website_uri": "https://yourwebsite.com",
+       "publication_rss_feed_uri": "https://yourwebsite.com/rss"
+     }
+     ```
+     The category will be displayed in the README (e.g., for regional editions like "Mumbai", "Delhi", etc.)
+
    - **For feeds behind bot protection**, add the `bot_protection` flag:
      ```json
      {
