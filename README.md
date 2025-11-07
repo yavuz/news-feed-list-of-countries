@@ -282,7 +282,7 @@
 ## Andorra
 
 - ❌ [Agenda](http://www.agenda.ad/) - [Feed](http://feeds.tvo.org/TheAgendaWithStevePaikin)
-- ✅ [ANA](http://www.ana.ad/) - [Feed](http://www.fotomac.com.tr/rss/anasayfa.xml)
+- ❌ [ANA](http://www.ana.ad/) - [Feed](http://www.fotomac.com.tr/rss/anasayfa.xml)
 - ❌ [El progres](http://www.elprogres.ad/) - [Feed](http://marina-altalunchclub.com/rte-el-progres-parcent/feed/)
 - ❌ [Forum](http://forum.ad/) - [Feed](http://forum.donanimhaber.com/rss.asp?forumID=615&type=1)
 - ✅ [Diari Més](http://www.mes.ad/) - [Feed](http://www.bondia.ad/rss.xml)
@@ -315,7 +315,7 @@
 
 - ❌ [Clarin](https://www.clarin.com/) - [Feed](https://www.clarin.com/rss/lo-ultimo/)
 - ❌ [La Nacion](https://www.lanacion.com.ar/) - [Feed](https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml)
-- ✅ [Infobae](https://www.infobae.com/) - [Feed](https://www.infobae.com/arc/outboundfeeds/rss/)
+- ❌ [Infobae](https://www.infobae.com/) - [Feed](https://www.infobae.com/arc/outboundfeeds/rss/)
 - ✅ [Pagina/12](https://www.pagina12.com.ar/) - [Feed](https://www.pagina12.com.ar/rss/portada)
 - ✅ [Perfil.com](https://www.perfil.com/) - [Feed](https://www.perfil.com/feed)
 - ❌ [Cronica](https://www.cronica.com.ar/) - [Feed](https://www.cronica.com.ar/feed/feed.xml)
@@ -388,7 +388,7 @@
 - ❌ [FOX Sports](http://foxsports.com.au/) - [Feed](http://livesports.foxsports.com.au/Event/rss.aspx?id=316258)
 - ❌ [BigPond News](http://bigpondnews.com/) - [Feed](http://bigpondnews.com/rssfeed/)
 - ❌ [Perth Now](http://perthnow.com.au/) - [Feed](http://livenews.perthnow.com.au/Event/rss.aspx?id=986454)
-- ✅ [Brisbane Times](http://brisbanetimes.com.au/) - [Feed](http://www.brisbanetimes.com.au/rssheadlines/top.xml)
+- ❌ [Brisbane Times](http://brisbanetimes.com.au/) - [Feed](http://www.brisbanetimes.com.au/rssheadlines/top.xml)
 - ❌ [SBS - Special Broadcasting Service](http://sbs.com.au/) - [Feed](http://www.sbs.com.au/rss/Blogindex)
 - ❌ [Adelaide Advertiser](http://adelaidenow.com.au/) - [Feed](http://feeds.news.com.au/public/rss/2.0/anow_breakingnews_230.xml)
 - ❌ [Sports Fan](http://www.sportsfan.com.au/) - [Feed](http://www.sportsfan.com.au/ajax.aspx?Feed=News.RSS&moduleId=810&categories=98)
@@ -396,7 +396,7 @@
 ## Austria
 
 - ❌ [ORF.at](http://orf.at/) - [Feed](http://rss.orf.at/news.xml)
-- ❌ [Krone.at](http://krone.at/) - [Feed](http://www.krone.at/Nachrichten/rss.html)
+- ✅ [Krone.at](http://krone.at/) - [Feed](http://www.krone.at/Nachrichten/rss.html)
 - ❌ [derStandard.at](http://derstandard.at/) - [Feed](http://derstandard.at/?page=rss&ressort=seite1)
 - ❌ [Kleine Zeitung](http://kleinezeitung.at/) - [Feed](http://www.kleinezeitung.at/rss/wirtschaft)
 - ❌ [KURIER.at](http://kurier.at/) - [Feed](http://kurier.at/xml/feed)
@@ -512,14 +512,14 @@
 
 ## Belgium
 
-- ✅ [La Libre](https://www.lalibre.be/) - [Feed](https://www.lalibre.be/rss)
+- ❌ [La Libre](https://www.lalibre.be/) - [Feed](https://www.lalibre.be/rss)
 - ❌ [L'Echo](https://www.lecho.be/) - [Feed](https://www.lecho.be/rss/top_stories.xml)
 - ❌ [De Standaard](https://www.standaard.be/) - [Feed](https://www.standaard.be/rss)
 - ✅ [DH](https://www.dhnet.be/) - [Feed](https://www.dhnet.be/arc/outboundfeeds/rss/?outputType=xml)
 - ✅ [De Morgen](https://demorgen.be/) - [Feed](https://demorgen.be/in-het-nieuws/rss.xml)
 - ❌ [De Tijd](https://tijd.be/) - [Feed](https://tijd.be/rss/top_stories.xml)
-- ✅ [RTBF](https://www.rtbf.be/) - [Feed](https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal)
-- ✅ [HLN](https://www.hln.be/) - [Feed](https://www.hln.be/home/rss.xml)
+- ❌ [RTBF](https://www.rtbf.be/) - [Feed](https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal)
+- ❌ [HLN](https://www.hln.be/) - [Feed](https://www.hln.be/home/rss.xml)
 - ❌ [Knack.be](https://www.knack.be/) - [Feed](https://www.knack.be/feed/)
 - ❌ [Het Belang Van Limburg](https://hbvl.be/) - [Feed](https://hbvl.be/rss)
 - ❌ [7sur7](https://www.7sur7.be/home/rss.xml) - [Feed](https://www.7sur7.be/home/rss.xml)
@@ -531,7 +531,7 @@
 - ❌ [7 News](http://7newsbelize.com/) - [Feed](http://www.7newsbelize.com/7news.xml)
 - ❌ [Love FM News](http://lovefm.com/) - [Feed](http://lovefm.com/feed/)
 - ❌ [Belize Times](http://www.belizetimes.bz/) - [Feed](http://www.belizetimes.bz/feed/)
-- ❌ [The Reporter](http://www.reporter.bz/) - [Feed](http://www.hollywoodreporter.com/taxonomy/term/59/0/feed)
+- ✅ [The Reporter](http://www.reporter.bz/) - [Feed](http://www.hollywoodreporter.com/taxonomy/term/59/0/feed)
 - ❌ [The San Padro Sun](http://www.sanpedrosun.com/) - [Feed](http://pixelsdavao.wordpress.com/feed/)
 - ❌ [Ambergris Today](http://www.ambergristoday.com/) - [Feed](http://www.ambergristoday.com/rss.xml)
 - ❌ [Amandala](http://amandala.com.bz/) - [Feed](http://amandala.com.bz/news/feed/)
@@ -567,7 +567,7 @@
 
 ## Bolivia
 
-- ❌ [La Razón](https://la-razon.com/) - [Feed](https://larazon.bo/feed/)
+- ✅ [La Razón](https://la-razon.com/) - [Feed](https://larazon.bo/feed/)
 - ❌ [El Diario](https://eldiario.net/) - [Feed](https://www.eldiario.net/portal/feed/)
 - ❌ [eju!](https://eju.tv/) - [Feed](https://eju.tv/feed/)
 - ✅ [Opinion](https://www.opinion.com.bo/) - [Feed](https://www.opinion.com.bo/rss/)
@@ -590,7 +590,7 @@
 - ❌ [Ekskluziva.ba](http://ekskluziva.ba/) - [Feed](http://najbolje.ba/recenzije/ekskluziva-ba-najcitaniji-showbizz-portal-u-bih_l778_com_content.rss/)
 - ❌ [Cafe.ba](http://cafe.ba/) - [Feed](http://www.cafe.ba/rss_vijesti.php)
 - ❌ [Poskok](http://poskok.info/) - [Feed](http://poskok.info/wp/?feed=rss2)
-- ❌ [Dnevnik.ba](http://dnevnik.ba/) - [Feed](http://www.dnevnik.ba/rss.xml)
+- ✅ [Dnevnik.ba](http://dnevnik.ba/) - [Feed](http://www.dnevnik.ba/rss.xml)
 - ❌ [Radio Sarajevo](http://radiosarajevo.ba/) - [Feed](http://www.uzivoradio.com/index.php?strana=rss&opcija=najslusanije-bih)
 - ❌ [Slobodna Bosna](http://slobodna-bosna.ba/) - [Feed](http://vipromo.ba/slobodna-bosna-dva-oka-visoko-i-visoka/feed/)
 - ❌ [Express](http://expressmag.ba/) - [Feed](http://www.expressmag.ba/feed/index.rss)
@@ -611,19 +611,19 @@
 
 - ✅ [UOL Notícias](https://www.uol.com.br/) - [Feed](http://rss.home.uol.com.br/index.xml)
 - ✅ [Folha de S.Paulo](https://www.folha.uol.com.br/) - [Feed](https://feeds.folha.uol.com.br/emcimadahora/rss091.xml)
-- ✅ [O Globo](https://oglobo.globo.com/) - [Feed](https://oglobo.globo.com/rss/oglobo)
+- ❌ [O Globo](https://oglobo.globo.com/) - [Feed](https://oglobo.globo.com/rss/oglobo)
 - ✅ [Veja](https://veja.abril.com.br/) - [Feed](https://veja.abril.com.br/rss/)
 - ✅ [Estadão](https://www.estadao.com.br/) - [Feed](https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/)
 - ✅ [globoesporte.com](http://globoesporte.globo.com/) - [Feed](https://ge.globo.com/rss/ge)
 - ✅ [G1](http://g1.globo.com/) - [Feed](https://g1.globo.com/rss/g1/)
 - ✅ [Extra](http://extra.globo.com/) - [Feed](https://extra.globo.com/rss/extra)
 - ✅ [Jornal de Brasília](https://jornaldebrasilia.com.br/) - [Feed](https://jornaldebrasilia.com.br/feed/)
-- ✅ [Jornal Correio (Correio 24 Horas)](https://www.correio24horas.com.br/) - [Feed](https://www.correio24horas.com.br/rss)
-- ✅ [A Tarde](https://www.atarde.com.br/) - [Feed](https://www.atarde.com.br/rss)
-- ✅ [BBC Brasil](https://www.bbc.com/portuguese) - [Feed](https://feeds.bbci.co.uk/portuguese/rss.xml)
-- ✅ [CNN Brasil](https://www.cnnbrasil.com.br/) - [Feed](https://www.cnnbrasil.com.br/rss/)
-- ✅ [Jornal do Comércio](https://jc.ne10.uol.com.br/) - [Feed](https://jc.uol.com.br/ultimas/rss.xml)
-- ✅ [Agência Brasil](https://agenciabrasil.ebc.com.br/) - [Feed](https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml)
+- ❌ [Jornal Correio (Correio 24 Horas)](https://www.correio24horas.com.br/) - [Feed](https://www.correio24horas.com.br/rss)
+- ❌ [A Tarde](https://www.atarde.com.br/) - [Feed](https://www.atarde.com.br/rss)
+- ❌ [BBC Brasil](https://www.bbc.com/portuguese) - [Feed](https://feeds.bbci.co.uk/portuguese/rss.xml)
+- ❌ [CNN Brasil](https://www.cnnbrasil.com.br/) - [Feed](https://www.cnnbrasil.com.br/rss/)
+- ❌ [Jornal do Comércio](https://jc.ne10.uol.com.br/) - [Feed](https://jc.uol.com.br/ultimas/rss.xml)
+- ❌ [Agência Brasil](https://agenciabrasil.ebc.com.br/) - [Feed](https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml)
 - ❌ [The Rio Times](https://riotimesonline.com/) - [Feed](https://riotimesonline.com/feed/)
 - ❌ [Brasil Wire](https://www.brasilwire.com/) - [Feed](https://www.brasilwire.com/feed/)
 - ❌ [Pragmatismo Político](https://www.pragmatismopolitico.com.br/) - [Feed](https://www.pragmatismopolitico.com.br/feed)
@@ -639,13 +639,13 @@
 ## Bulgaria
 
 - ❌ [Vesti.bg](http://vesti.bg/) - [Feed](http://www.vesti.bg/rss.php)
-- ❌ [Dnes Dir.bg](http://dnes.dir.bg/) - [Feed](http://dnes.dir.bg/support/cat_rss.php)
-- ❌ [Dnes.bg](http://dnes.bg/) - [Feed](http://www.dnes.bg/rss.php?today)
-- ❌ [Darik News](http://dariknews.bg/) - [Feed](http://dariknews.bg/rss.php)
-- ❌ [24 Chasa](http://24chasa.bg/) - [Feed](http://www.24chasa.bg/RSS.asp)
+- ✅ [Dnes Dir.bg](http://dnes.dir.bg/) - [Feed](http://dnes.dir.bg/support/cat_rss.php)
+- ✅ [Dnes.bg](http://dnes.bg/) - [Feed](http://www.dnes.bg/rss.php?today)
+- ✅ [Darik News](http://dariknews.bg/) - [Feed](http://dariknews.bg/rss.php)
+- ✅ [24 Chasa](http://24chasa.bg/) - [Feed](http://www.24chasa.bg/RSS.asp)
 - ❌ [Sportni.bg](http://sportni.bg/) - [Feed](http://futbolni-novini.blogspot.com/rss.xml)
 - ❌ [Blitz](http://blitz.bg/) - [Feed](http://www.blitz.bg/rss.php?news)
-- ❌ [Dnevnik](http://dnevnik.bg/) - [Feed](http://www.dnevnik.bg/rss/)
+- ✅ [Dnevnik](http://dnevnik.bg/) - [Feed](http://www.dnevnik.bg/rss/)
 - ❌ [Trud](http://trud.bg/) - [Feed](http://www.trud.bg/RSS.asp)
 - ❌ [Standard Information Agency](http://standartnews.com/) - [Feed](http://www.cpsc.gov/en/Newsroom/CPSC-RSS-Feed/Federal-Register-Notices/)
 - ❌ [News.bg](http://news.ibox.bg/) - [Feed](http://news.ibox.bg/rss_1)
@@ -713,7 +713,7 @@
 - ❌ [237online.com](http://237online.com/) - [Feed](http://ennaharonline.com/fr/sports/29267.rss)
 - ✅ [Afrik.com](http://www.afrik.com/) - [Feed](http://www.afrik.com/affiliation/backend-foot-pays34.html)
 - ❌ [La Nouvelle Expression](http://www.lanouvelleexpression.info/) - [Feed](http://www.lanouvelleexpression.info/index.php?format=feed&type=rss&title=)
-- ❌ [Africa Presse](http://www.africapresse.com/) - [Feed](http://www.africapresse.com/feed/)
+- ✅ [Africa Presse](http://www.africapresse.com/) - [Feed](http://www.africapresse.com/feed/)
 - ❌ [CameroonOnline.org](http://www.cameroononline.org/) - [Feed](http://www.liensutiles.fr/cameroononlineorg-cameroon-news-more-4402452122/feed)
 - ❌ [Kongossa.fr](http://kongossa.fr/) - [Feed](http://www.kongossa.fr/index.php/kongossa?format=feed&type=rss)
 - ❌ [CRTV](http://crtv.cm/) - [Feed](http://www.crtv.cm/cont/rss/feedRadioCrtv.xml)
@@ -722,23 +722,23 @@
 
 ## Canada
 
-- ✅ [CBC News](https://www.cbc.ca/) - [Feed](https://www.cbc.ca/cmlink/rss-topstories)
+- ❌ [CBC News](https://www.cbc.ca/) - [Feed](https://www.cbc.ca/cmlink/rss-topstories)
 - ✅ [Radio Canada](http://www.radio-canada.ca/) - [Feed](https://ici.radio-canada.ca/rss/4159)
-- ✅ [Toronto Star](https://www.thestar.com/) - [Feed](https://www.thestar.com/search/?f=rss&t=article&bl=2827101&l=20)
-- ❌ [National Post](https://www.nationalpost.com/) - [Feed](https://nationalpost.com/feed/)
-- ❌ [Toronto Sun](https://www.torontosun.com/) - [Feed](https://torontosun.com/category/news/feed)
-- ❌ [Global News](https://www.globalnews.ca/) - [Feed](https://globalnews.ca/feed/)
-- ❌ [Calgary Herald](https://calgaryherald.com/) - [Feed](https://calgaryherald.com/feed)
-- ❌ [Vancouver Sun](https://torontosun.com/) - [Feed](https://torontosun.com/feed/)
-- ❌ [Edmonton Journal](https://edmontonjournal.com/) - [Feed](https://edmontonjournal.com/feed/)
+- ❌ [Toronto Star](https://www.thestar.com/) - [Feed](https://www.thestar.com/search/?f=rss&t=article&bl=2827101&l=20)
+- ✅ [National Post](https://www.nationalpost.com/) - [Feed](https://nationalpost.com/feed/)
+- ✅ [Toronto Sun](https://www.torontosun.com/) - [Feed](https://torontosun.com/category/news/feed)
+- ✅ [Global News](https://www.globalnews.ca/) - [Feed](https://globalnews.ca/feed/)
+- ✅ [Calgary Herald](https://calgaryherald.com/) - [Feed](https://calgaryherald.com/feed)
+- ✅ [Vancouver Sun](https://torontosun.com/) - [Feed](https://torontosun.com/feed/)
+- ✅ [Edmonton Journal](https://edmontonjournal.com/) - [Feed](https://edmontonjournal.com/feed/)
 - ❌ [Le Devoir](https://www.ledevoir.com/) - [Feed](https://www.ledevoir.com/rss/manchettes.xml)
 - ✅ [Ottawa Citizen](https://www.ottawacitizen.com/) - [Feed](https://ottawacitizen.com/feed/)
-- ✅ [Montreal Gazette](https://montrealgazette.com/) - [Feed](https://montrealgazette.com/feed/)
+- ❌ [Montreal Gazette](https://montrealgazette.com/) - [Feed](https://montrealgazette.com/feed/)
 - ❌ [La Presse](https://www.lapresse.ca/) - [Feed](https://www.lapresse.ca/actualites/rss)
-- ❌ [Edmonton Sun](https://www.edmontonsun.com/) - [Feed](https://edmontonsun.com/feed)
-- ❌ [Calgary Sun](https://www.calgarysun.com/) - [Feed](https://calgarysun.com/feed)
-- ❌ [Canada.com](https://canada.com/) - [Feed](https://o.canada.com/feed/)
-- ❌ [City News Toronto](https://toronto.citynews.ca/) - [Feed](https://toronto.citynews.ca/feed/)
+- ✅ [Edmonton Sun](https://www.edmontonsun.com/) - [Feed](https://edmontonsun.com/feed)
+- ✅ [Calgary Sun](https://www.calgarysun.com/) - [Feed](https://calgarysun.com/feed)
+- ✅ [Canada.com](https://canada.com/) - [Feed](https://o.canada.com/feed/)
+- ✅ [City News Toronto](https://toronto.citynews.ca/) - [Feed](https://toronto.citynews.ca/feed/)
 - ✅ [Financial Post](https://financialpost.com/) - [Feed](http://feeds.feedburner.com/FP_TopStories)
 - ✅ [Ottawa Sun](https://ottawasun.com/) - [Feed](https://ottawasun.com/feed/)
 - ✅ [Province](https://www.theprovince.com/) - [Feed](https://theprovince.com/feed/)
@@ -788,9 +788,9 @@
 - ❌ [BioBioChile](https://biobiochile.cl/) - [Feed](https://feeds.feedburner.com/radiobiobio/NNeJ)
 - ❌ [Cooperativa.cl](https://cooperativa.cl/) - [Feed](https://www.cooperativa.cl/noticias/site/tax/port/all/rss_16_256_2447_1.xml)
 - ✅ [The Clinic](https://www.theclinic.cl/) - [Feed](https://www.theclinic.cl/feed/)
-- ✅ [Diario Financiero](https://www.df.cl/) - [Feed](https://www.df.cl/noticias/site/list/port/rss.xml)
-- ✅ [Publimetro](https://publimetro.cl/) - [Feed](https://www.publimetro.cl/arc/outboundfeeds/rss/?outputType=xml)
-- ✅ [El Siglo](https://elsiglo.cl/) - [Feed](https://elsiglo.cl/feed/)
+- ❌ [Diario Financiero](https://www.df.cl/) - [Feed](https://www.df.cl/noticias/site/list/port/rss.xml)
+- ❌ [Publimetro](https://publimetro.cl/) - [Feed](https://www.publimetro.cl/arc/outboundfeeds/rss/?outputType=xml)
+- ❌ [El Siglo](https://elsiglo.cl/) - [Feed](https://elsiglo.cl/feed/)
 - ✅ [La Nación](https://lanacion.cl/) - [Feed](https://www.lanacion.cl/feed/)
 - ❌ [Santiago Times](https://santiagotimes.cl/) - [Feed](https://santiagotimes.cl/feed/)
 
@@ -917,11 +917,11 @@
 - ✅ [Lidovky.cz](http://lidovky.cz/) - [Feed](http://servis.lidovky.cz/rss.aspx?c=ln_lidovky)
 - ✅ [Penize.cz](http://penize.cz/) - [Feed](http://feeds.feedburner.com/penize?format=xml)
 - ❌ [tn.cz](http://tn.nova.cz/) - [Feed](http://rss.tn.nova.cz/zpravy/)
-- ✅ [IHNED.cz](http://ihned.cz/) - [Feed](http://ihned.cz/?p=000000_rss)
-- ✅ [Kurzy.cz](http://kurzy.cz/) - [Feed](http://www.kurzy.cz/zpravy/util/forext.dat?type=rss)
-- ✅ [Aha!](http://ahaonline.cz/) - [Feed](http://www.ahaonline.cz/rss.php)
+- ❌ [IHNED.cz](http://ihned.cz/) - [Feed](http://ihned.cz/?p=000000_rss)
+- ❌ [Kurzy.cz](http://kurzy.cz/) - [Feed](http://www.kurzy.cz/zpravy/util/forext.dat?type=rss)
+- ❌ [Aha!](http://ahaonline.cz/) - [Feed](http://www.ahaonline.cz/rss.php)
 - ❌ [Cesky rozhlas](http://rozhlas.cz/) - [Feed](http://www.rozhlas.cz/export/dvojka)
-- ✅ [ShowBiz.cz](http://showbiz.cz/) - [Feed](http://www.showbiz.cz/feed/)
+- ❌ [ShowBiz.cz](http://showbiz.cz/) - [Feed](http://www.showbiz.cz/feed/)
 - ❌ [Tyden.cz](http://tyden.cz/) - [Feed](http://pctuning.tyden.cz/index.php?option=com_bca-rss-syndicator&feed_id=3)
 - ❌ [ParlamentniListy.cz](http://parlamentnilisty.cz/) - [Feed](http://euserver.parlamentnilisty.cz/rss.aspx)
 - ❌ [E15.cz](http://e15.cz/) - [Feed](http://vtm.e15.cz/rss/clanky)
@@ -1006,10 +1006,10 @@
 ## Ecuador
 
 - ❌ [El Comercio](https://elcomercio.pe/) - [Feed](https://www.elcomercio.com/feed/)
-- ❌ [El Universo](https://eluniverso.com/) - [Feed](https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/noticias/ecuador?outputType=xml)
-- ❌ [GK City](https://gk.city/) - [Feed](https://gk.city/feed/)
-- ❌ [Expreso](https://expreso.ec/) - [Feed](https://www.expreso.ec/rss/)
-- ❌ [El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
+- ✅ [El Universo](https://eluniverso.com/) - [Feed](https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/noticias/ecuador?outputType=xml)
+- ✅ [GK City](https://gk.city/) - [Feed](https://gk.city/feed/)
+- ✅ [Expreso](https://expreso.ec/) - [Feed](https://www.expreso.ec/rss/)
+- ✅ [El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
 - ❌ [El Diario](https://eldiario.com.ec/) - [Feed](https://www.rss.eldiario.net/)
 - ✅ [La Prensa](https://www.laprensa.com.ec/) - [Feed](https://www.laprensa.com.ec/feed/)
 - ✅ [Los Andes](https://www.diariolosandes.com.ec/) - [Feed](https://www.diariolosandes.com.ec/feed/)
@@ -1026,9 +1026,9 @@
 - ❌ [La Nación](https://lanacion.com.ec/) - [Feed](https://lanacion.com.ec/feed/)
 - ✅ [ecuavisa](https://ecuavisa.com/) - [Feed](https://www.ecuavisa.com/rss/noticias)
 - ✅ [Diario El Mercurio](https://elmercurio.com.ec/) - [Feed](https://elmercurio.com.ec/feed/)
-- ❌ [Ecuador en vivo](https://ecuadorenvivo.com/) - [Feed](https://ecuadorenvivo.com/feed/)
-- ❌ [futbolecuador.com](https://futbolecuador.com/) - [Feed](https://www.futbolecuador.com/stories/rss)
-- ❌ [StudioFútbol](https://studiofutbol.com.ec/) - [Feed](https://studiofutbol.com.ec/feed/)
+- ✅ [Ecuador en vivo](https://ecuadorenvivo.com/) - [Feed](https://ecuadorenvivo.com/feed/)
+- ✅ [futbolecuador.com](https://futbolecuador.com/) - [Feed](https://www.futbolecuador.com/stories/rss)
+- ✅ [StudioFútbol](https://studiofutbol.com.ec/) - [Feed](https://studiofutbol.com.ec/feed/)
 
 ## Egypt
 
@@ -1103,11 +1103,11 @@
 - ❌ [Maaleht](http://maaleht.ee/) - [Feed](http://blog.maaleht.ee/koduloomad/?feed=rss2&cat=1)
 - ❌ [E24 majandusleht](http://e24.ee/) - [Feed](http://iseseisvuspartei.ee/feed/)
 - ❌ [TallinnCity](http://tallinnapostimees.ee/) - [Feed](http://tallinncity.postimees.ee/rss/)
-- ✅ [Tartu Postimees](http://tartupostimees.ee/) - [Feed](http://tartu.postimees.ee/rss/)
+- ❌ [Tartu Postimees](http://tartupostimees.ee/) - [Feed](http://tartu.postimees.ee/rss/)
 - ❌ [Limon Russian](http://limon.ee/) - [Feed](http://www.tarifdeposu.com/yemek-tarifleri/icecektariflerinasilyapilir/feed/)
-- ✅ [Parnu Postimees](http://parnupostimees.ee/) - [Feed](http://www.parnupostimees.ee/rss/)
+- ❌ [Parnu Postimees](http://parnupostimees.ee/) - [Feed](http://www.parnupostimees.ee/rss/)
 - ❌ [Sports.ee](http://sports.ee/) - [Feed](http://ttolk.ru/?p=16528&feed=rss2)
-- ✅ [Virumaa Teataja](http://virumaateataja.ee/) - [Feed](http://www.virumaateataja.ee/rss/)
+- ❌ [Virumaa Teataja](http://virumaateataja.ee/) - [Feed](http://www.virumaateataja.ee/rss/)
 - ❌ [Reporter](http://reporter.ee/) - [Feed](http://www.reporter.ee/feed/)
 
 ## Eswatini
@@ -1119,7 +1119,7 @@
 
 - ❌ [Ethiomedia.com](http://www.ethiomedia.com/) - [Feed](http://www.abugidainfo.com/index.php/search/ethiomedia/feed/rss2/)
 - ❌ [ESAT](http://www.ethsat.com/) - [Feed](http://ethsat.com/feed/)
-- ✅ [VOA](http://amharic.voanews.com/) - [Feed](http://amharic.voanews.com/podcast/)
+- ❌ [VOA](http://amharic.voanews.com/) - [Feed](http://amharic.voanews.com/podcast/)
 - ❌ [EthiopianReview.com](http://www.ethiopianreview.com/) - [Feed](http://www.ethiopianreview.com/feed)
 - ❌ [Nazret.com](http://www.nazret.com/) - [Feed](http://nazret.com/blog/index.php?tempskin=_rss2)
 - ❌ [ECADF](http://www.ecadforum.com/) - [Feed](http://feeds.feedburner.com/ecadforum/HvBQ)
@@ -1199,12 +1199,12 @@
 - ✅ [France Diplomacy](https://www.diplomatie.gouv.fr/fr) - [Feed](https://www.diplomatie.gouv.fr/spip.php?page=backend-fd)
 - ✅ [Liberation](https://www.liberation.fr/) - [Feed](https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml)
 - ✅ [Mediapart](https://www.mediapart.fr/) - [Feed](https://www.mediapart.fr/articles/feed)
-- ❌ [The Local](https://www.thelocal.fr) - [Feed](https://www.thelocal.fr/feeds/rss.php)
+- ✅ [The Local](https://www.thelocal.fr) - [Feed](https://www.thelocal.fr/feeds/rss.php)
 - ❌ [The Paris Star](https://www.parisstaronline.com) - [Feed](https://www.parisstaronline.com/rss)
 - ❌ [FrenchDailyNews](https://frenchdailynews.com) - [Feed](https://frenchdailynews.com/feed)
-- ❌ [20 Minutes](https://www.20minutes.fr/) - [Feed](https://www.20minutes.fr/feeds/rss-une.xml)
-- ❌ [L'Équipe](https://www.lequipe.fr/) - [Feed](https://dwh.lequipe.fr/api/edito/rss?path=/)
-- ❌ [L'Humanité](https://www.humanite.fr/) - [Feed](https://www.humanite.fr/rss)
+- ✅ [20 Minutes](https://www.20minutes.fr/) - [Feed](https://www.20minutes.fr/feeds/rss-une.xml)
+- ✅ [L'Équipe](https://www.lequipe.fr/) - [Feed](https://dwh.lequipe.fr/api/edito/rss?path=/)
+- ✅ [L'Humanité](https://www.humanite.fr/) - [Feed](https://www.humanite.fr/rss)
 - ✅ [La Croix](https://www.la-croix.com/) - [Feed](https://www.la-croix.com/rss)
 - ✅ [Le Nouvel Obs (L'Obs)](https://www.nouvelobs.com/) - [Feed](https://www.nouvelobs.com/rss.xml)
 - ✅ [Le Point](https://www.lepoint.fr/) - [Feed](https://www.lepoint.fr/rss.xml)
@@ -1323,10 +1323,10 @@
 
 ## Greece
 
-- ✅ [in.gr](http://in.gr/) - [Feed](http://rss.in.gr/Netvolution.Site.Engine.PageHandler.axd?rid=2&pid=250&la=1&si=1)
+- ❌ [in.gr](http://in.gr/) - [Feed](http://rss.in.gr/Netvolution.Site.Engine.PageHandler.axd?rid=2&pid=250&la=1&si=1)
 - ❌ [Zougla.gr](http://zougla.gr/) - [Feed](http://www.zougla.gr/ArticleRss.xml)
-- ✅ [Newsbomb.gr](http://newsbomb.gr/) - [Feed](http://feeds.feedburner.com/newsbombgr)
-- ✅ [NewsIt.gr](http://newsit.gr/) - [Feed](http://www.newsit.gr/rss/artrss.php)
+- ❌ [Newsbomb.gr](http://newsbomb.gr/) - [Feed](http://feeds.feedburner.com/newsbombgr)
+- ❌ [NewsIt.gr](http://newsit.gr/) - [Feed](http://www.newsit.gr/rss/artrss.php)
 - ❌ [enikos.gr](http://enikos.gr/) - [Feed](http://www.enikos.gr/feeds/content_latest.xml)
 - ✅ [Proto Thema](http://protothema.gr/) - [Feed](http://www.protothema.gr/rss/news/general/)
 - ❌ [News247](http://news247.gr/) - [Feed](http://news247.gr/?widget=rssfeed&view=feed&contentId=38291)
@@ -1389,7 +1389,7 @@
 - ❌ [Telediario](http://telediario.com.gt/) - [Feed](http://telediario.com.gt/rss.php)
 - ❌ [el QUETZALTECO](http://elquetzalteco.com.gt/) - [Feed](http://elquetzalteco.com.gt/rss.xml)
 - ❌ [selecciondeguatemala.net](http://selecciondeguatemala.net/) - [Feed](https://fullmarquense.wordpress.com/comments/feed/)
-- ✅ [Plaza Publica](http://plazapublica.com.gt/) - [Feed](http://www.plazapublica.com.gt/rss)
+- ❌ [Plaza Publica](http://plazapublica.com.gt/) - [Feed](http://www.plazapublica.com.gt/rss)
 - ❌ [Publinews](http://publinews.gt/) - [Feed](http://www.publinews.gt/rss.xml)
 
 ## Guernsey
@@ -1433,7 +1433,7 @@
 - ❌ [Metropole Haiti](http://metropolehaiti.com/) - [Feed](http://haiti.mphise.info/rss.xml)
 - ❌ [Radio Signal FM 90.5](http://signalfmhaiti.com/) - [Feed](http://signalfmhaiti.com/?format=feed&type=rss)
 - ❌ [Radio Vision 2000](http://radiovision2000haiti.net/) - [Feed](http://radiovision2000haiti.net/public/category/nouvelles/feed/)
-- ❌ [Haiti Libre](http://haitilibre.com/) - [Feed](http://www.haitilibre.com/rss-flash-en.xml)
+- ✅ [Haiti Libre](http://haitilibre.com/) - [Feed](http://www.haitilibre.com/rss-flash-en.xml)
 - ❌ [Haiti Press Network](http://hpnhaiti.com/) - [Feed](http://www.hpnhaiti.com/site/index.php?option=com_content&view=category&id=11%3Aflash-flash&Itemid=9&layout=default&type=rss&format=feed)
 - ❌ [AlterPresse](http://alterpresse.org/) - [Feed](http://www.alterpresse.org/spip.php?page=backend)
 
@@ -1482,9 +1482,9 @@
 ## Hungary
 
 - ❌ [ORIGO](http://origo.hu/) - [Feed](http://www.origo.hu/contentpartner/rss/hircentrum/origo.xml)
-- ✅ [Index](http://index.hu/) - [Feed](http://index.hu/24ora/rss)
+- ❌ [Index](http://index.hu/) - [Feed](http://index.hu/24ora/rss)
 - ❌ [HIR24](http://hir24.hu/) - [Feed](http://www.hir24.hu/?action=rss)
-- ✅ [hvg.hu](http://hvg.hu/) - [Feed](http://hvg.hu/rss)
+- ❌ [hvg.hu](http://hvg.hu/) - [Feed](http://hvg.hu/rss)
 - ✅ [Blikk](http://blikk.hu/) - [Feed](http://www.blikk.hu/rss/blikk)
 - ✅ [Velvet](http://velvet.hu/) - [Feed](http://velvet.hu/24ora/rss/)
 - ✅ [Sport Geza](http://sportgeza.hu/) - [Feed](http://sportgeza.hu/24ora/rss/)
@@ -1651,18 +1651,18 @@
 - ✅ [Zee News](https://zeenews.india.com/health) Health - [Feed](https://zeenews.india.com/rss/health-news.xml)
 - ✅ [Zee News](https://zeenews.india.com/blogs) Blogs - [Feed](https://zeenews.india.com/rss/blog-news.xml)
 - ✅ [Zee News](https://zeenews.india.com/technology) Technology - [Feed](https://zeenews.india.com/rss/technology-news.xml)
-- ❌ [The Hindu](https://www.thehindu.com/) All - [Feed](https://www.thehindu.com/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/news/) News - [Feed](https://www.thehindu.com/news/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/news/national/) India - [Feed](https://www.thehindu.com/news/national/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/news/international/) World - [Feed](https://www.thehindu.com/news/international/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/news/states/) States - [Feed](https://www.thehindu.com/news/states/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/news/cities/) Cities - [Feed](https://www.thehindu.com/news/cities/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/opinion/) Opinion - [Feed](https://www.thehindu.com/opinion/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/business/) Business - [Feed](https://www.thehindu.com/business/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/) All - [Feed](https://www.thehindu.com/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/news/) News - [Feed](https://www.thehindu.com/news/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/news/national/) India - [Feed](https://www.thehindu.com/news/national/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/news/international/) World - [Feed](https://www.thehindu.com/news/international/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/news/states/) States - [Feed](https://www.thehindu.com/news/states/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/news/cities/) Cities - [Feed](https://www.thehindu.com/news/cities/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/opinion/) Opinion - [Feed](https://www.thehindu.com/opinion/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/business/) Business - [Feed](https://www.thehindu.com/business/feeder/default.rss)
 - ❌ [The Hindu](https://www.thehindu.com/sport/) Sport - [Feed](https://www.thehindu.com/sport/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/entertainment/) Entertainment - [Feed](https://www.thehindu.com/entertainment/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/sci-tech/science/) Science - [Feed](https://www.thehindu.com/sci-tech/science/feeder/default.rss)
-- ❌ [The Hindu](https://www.thehindu.com/life-and-style/) Life & Style - [Feed](https://www.thehindu.com/life-and-style/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/entertainment/) Entertainment - [Feed](https://www.thehindu.com/entertainment/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/sci-tech/science/) Science - [Feed](https://www.thehindu.com/sci-tech/science/feeder/default.rss)
+- ⚠️ [The Hindu](https://www.thehindu.com/life-and-style/) Life & Style - [Feed](https://www.thehindu.com/life-and-style/feeder/default.rss)
 - ✅ [India Today](https://www.indiatoday.in/) Home - [Feed](https://www.indiatoday.in/rss/home)
 - ✅ [India Today](https://www.indiatoday.in/) Nation - [Feed](https://www.indiatoday.in/rss/1206514)
 - ✅ [India Today](https://www.indiatoday.in/) Leisure - [Feed](https://www.indiatoday.in/rss/1206551)
@@ -1721,7 +1721,7 @@
 - ❌ [Kompas.com](http://kompas.com/) - [Feed](http://api.kompas.com/feed/android/kompas/channel.php)
 - ❌ [Yahoo! News Indonesia](http://berita.yahoo.com/) - [Feed](https://id.berita.yahoo.com/rss/teknologi)
 - ❌ [VIVA](http://vivanews.com/) - [Feed](http://rss.vivanews.com/get/bola)
-- ❌ [Tribun News](http://tribunnews.com/) - [Feed](http://www.tribunnews.com/rss)
+- ✅ [Tribun News](http://tribunnews.com/) - [Feed](http://www.tribunnews.com/rss)
 - ❌ [KapanLagi.com](http://kapanlagi.com/) - [Feed](http://www.kapanlagi.com/feed/marketplace.xml)
 - ❌ [Kompasiana](http://kompasiana.com/) - [Feed](http://syaifuddin.wordpress.com/tag/kompasiana/feed/)
 - ❌ [Tempo.co](http://tempo.co/) - [Feed](http://www.tempo.co/rss/terkini)
@@ -1770,10 +1770,10 @@
 - ❌ [Newstalk 106-108 FM](http://newstalk.ie/) - [Feed](http://www.scoop.it/t/historical-britain/rss.xml)
 - ❌ [Politics.ie](http://politics.ie/) - [Feed](http://www.politics.ie/external.php?type=RSS2)
 - ❌ [galwaynews.ie](http://galwaynews.ie/) - [Feed](http://www.ldwp.org/apps/blog/entries/feed/rss)
-- ❌ [Donegal Daily](http://donegaldaily.com/) - [Feed](http://www.donegaldaily.com/feed/)
+- ✅ [Donegal Daily](http://donegaldaily.com/) - [Feed](http://www.donegaldaily.com/feed/)
 - ❌ [Digital Spy](http://digitalspy.ie/) - [Feed](http://www.thedigitalspy.com/category/movie/feed/)
 - ❌ [Advertiser.ie](http://advertiser.ie/) - [Feed](http://www.advertiser.ie/galway/rssfeed)
-- ❌ [Highland Radio](http://highlandradio.com/) - [Feed](http://www.highlandradio.com/feed/)
+- ✅ [Highland Radio](http://highlandradio.com/) - [Feed](http://www.highlandradio.com/feed/)
 - ❌ [The Sunday Business Post](http://businesspost.ie/) - [Feed](http://www.theanswerbank.co.uk/Quizzes-and-Puzzles/Crosswords/Question1388968.rss)
 - ❌ [SportsNewsIRELAND](http://sportsnewsireland.com/) - [Feed](http://sportsnewsireland.com/feed/)
 - ❌ [Evening Echo](http://eveningecho.ie/) - [Feed](http://www.eveningecho.ie/sport/feed/)
@@ -1813,8 +1813,8 @@
 ## Israel
 
 - ❌ [Walla](http://walla.co.il/) - [Feed](http://rss.walla.co.il/?w=/3/7/1/@rss)
-- ✅ [Ynet](http://ynet.co.il/) - [Feed](http://www.ynet.co.il/Integration/StoryRss3082.xml)
-- ✅ [Mako](http://mako.co.il/) - [Feed](http://rcs.mako.co.il/rss/MainSliderRss.xml)
+- ❌ [Ynet](http://ynet.co.il/) - [Feed](http://www.ynet.co.il/Integration/StoryRss3082.xml)
+- ❌ [Mako](http://mako.co.il/) - [Feed](http://rcs.mako.co.il/rss/MainSliderRss.xml)
 - ❌ [Nana 10](http://nana10.co.il/) - [Feed](http://rss.nana10.co.il/?s=34)
 - ❌ [The Maker](http://themarker.com/) - [Feed](http://rss.yeniprogram.gen.tr/rss/9/m/m3/8283/Max-Movie-Maker.xml)
 - ❌ [NRG](http://nrg.co.il/) - [Feed](http://rss.nrg.co.il/news/)
@@ -1913,7 +1913,7 @@
 - ❌ [Rum](http://rumonline.net/) - [Feed](http://www.taraf.com.tr/etiket/rum/feed/)
 - ❌ [alwakeelnews.com](http://alwakeelnews.com/) - [Feed](http://www.dooopy.com/video/rss.php)
 - ✅ [factjo.com](http://factjo.com/) - [Feed](http://alweehdat.net/vb/external.php?type=html)
-- ✅ [Jordan Zad](http://jordanzad.com/) - [Feed](http://www.jordanzad.com/rss.php?type=main)
+- ❌ [Jordan Zad](http://jordanzad.com/) - [Feed](http://www.jordanzad.com/rss.php?type=main)
 - ❌ [Assabeel](http://assabeel.net/) - [Feed](http://www.assabeel.net/culture?format=feed)
 - ❌ [albaladnews.net](http://albaladnews.net/) - [Feed](http://shatharat.net/vb/external.php?type=RSS2)
 - ❌ [allofjo.net](http://allofjo.net/) - [Feed](http://www.shatharat.net/vb/external.php?type=rss2&forumids=105)
@@ -1923,7 +1923,7 @@
 
 - ❌ [NUR.kz](http://nur.kz/) - [Feed](http://news.nur.kz/rss/all.rss)
 - ❌ [Zakon.kz](http://zakon.kz/) - [Feed](http://st.zakon.kz/rss/rss_all.xml)
-- ✅ [Tengri News](http://tengrinews.kz/) - [Feed](http://tengrinews.kz/news.rss)
+- ❌ [Tengri News](http://tengrinews.kz/) - [Feed](http://tengrinews.kz/news.rss)
 - ❌ [Total.kz](http://yvision.kz/) - [Feed](http://socialismkz.info/?feed=rss2&p=7976)
 - ❌ [Resurs](http://resurs.kz/) - [Feed](http://www.hrresurs.com/feed/)
 - ❌ [Today.az](http://today.kz/) - [Feed](http://rapradar.com/tag/az/feed/)
@@ -1937,7 +1937,7 @@
 - ❌ [i-News.kz](http://i-news.kz/) - [Feed](http://i-news.kz/rss.xml)
 - ❌ [Diapazon](http://diapazon.kz/) - [Feed](http://www.diapazon.kz/rss.xml)
 - ❌ [Khabar](http://khabar.kz/) - [Feed](http://www.khabar.kz/kz/agency/zekti?format=feed)
-- ✅ [Kazakhstan Today](http://kt.kz/) - [Feed](http://www.kt.kz/kaz/rss/)
+- ❌ [Kazakhstan Today](http://kt.kz/) - [Feed](http://www.kt.kz/kaz/rss/)
 - ❌ [Caravan](http://caravan.kz/) - [Feed](http://basoglucaravan.com.tr/feed/)
 
 ## Kenya
@@ -1976,7 +1976,7 @@
 - ❌ [KTV](http://kohavision.net/) - [Feed](http://www.ktvlive.co.uk/feed/)
 - ❌ [Zeri I Amerikas](http://zeriamerikes.com/) - [Feed](http://www.worldreview.info/de/taxonomy/term/864/all/feed)
 - ❌ [RTV 21 HD](http://rtv21.tv/) - [Feed](http://www.flashdz.com/?feed=rss2)
-- ❌ [Radio Evropa e Lire](http://evropaelire.org/) - [Feed](http://www.evropaelire.org/api/ayiiyqveqjiyqv)
+- ✅ [Radio Evropa e Lire](http://evropaelire.org/) - [Feed](http://www.evropaelire.org/api/ayiiyqveqjiyqv)
 - ❌ [Presheva.com](http://presheva.com/) - [Feed](http://shop.presheva.com/?feed=rss2&ad_tag=381637438754)
 - ❌ [lajm](http://lajmonline.com/) - [Feed](http://www.lajmpress.com/feed)
 - ❌ [rrokum](http://www.rrokum.tv/) - [Feed](http://www.e-hdtvizle.com/kategoriler/yabanci-tvler/arnavutluk-tvleri/feed/)
@@ -2009,8 +2009,8 @@
 
 ## Kyrgyzstan
 
-- ✅ [AKIpress](http://www.akipress.com/) - [Feed](http://www.akipress.com/rss/en.rss)
-- ✅ [Tazabek](http://tazabek.kg/) - [Feed](http://www.tazabek.kg/rss/news.rss)
+- ❌ [AKIpress](http://www.akipress.com/) - [Feed](http://www.akipress.com/rss/en.rss)
+- ❌ [Tazabek](http://tazabek.kg/) - [Feed](http://www.tazabek.kg/rss/news.rss)
 - ❌ [Svodka](http://svodka.akipress.org/) - [Feed](http://svodka.net/index.php?option=com_rd_rss&id=1&feed=yandex)
 - ❌ [CA-News.org](http://ca-news.org/) - [Feed](http://uz.ca-news.org/rss/main.rss)
 - ❌ [24.kg](http://24.kg/) - [Feed](http://www.eng.24.kg/engine/rss.php)
@@ -2029,7 +2029,7 @@
 
 ## Latvia
 
-- ❌ [DELFI](http://delfi.lv/) - [Feed](http://www.delfi.lv/rss.php)
+- ✅ [DELFI](http://delfi.lv/) - [Feed](http://www.delfi.lv/rss.php)
 - ❌ [TVNET](http://tvnet.lv/) - [Feed](http://feeds.tvnet.lv/tvnet/all/latest)
 - ❌ [Apollo](http://apollo.lv/) - [Feed](https://www.apollomt.com/feed/)
 - ❌ [Kasjauns.lv](http://kasjauns.lv/) - [Feed](http://www.kasjauns.lv/objs/xml/news.xml?news_lang_id=1)
@@ -2157,7 +2157,7 @@
 - ❌ [Moov](http://www.moov.mg/) - [Feed](http://www.moov.mg/photos.rss)
 - ❌ [Midi Madagasikara](http://midi-madagasikara.mg/) - [Feed](http://feeds.feedburner.com/MadagascarTribune/ANN)
 - ✅ [Madagascar Tribune](http://madagascar-tribune.com/) - [Feed](http://www.madagascar-tribune.com/spip.php?page=backend)
-- ✅ [Newsmada](http://newsmada.com/) - [Feed](http://www.newsmada.com/rubriques/actualites/feed/)
+- ❌ [Newsmada](http://newsmada.com/) - [Feed](http://www.newsmada.com/rubriques/actualites/feed/)
 - ❌ [Tana News](http://www.tananews.com/) - [Feed](http://www.tananews.com/wp-rsscours.php)
 - ❌ [La Gazette del Grande Ile](http://www.lagazette-dgi.com/) - [Feed](http://feeds.feedburner.com/GazetteDeLabsinthe)
 - ❌ [Madagate](http://madagate.com/) - [Feed](http://www.madagate.com/index.php?format=feed&type=rss)
@@ -2170,7 +2170,7 @@
 - ❌ [Zodiak Malawi](http://zodiakmalawi.com/) - [Feed](http://www.zodiakmalawi.com/index.php?format=feed&type=rss)
 - ❌ [Malawi Democrat](http://www.malawidemocrat.com/) - [Feed](http://www.malawidemocrat.com/tag/prisons/feed/)
 - ❌ [BNL Times](http://timesmediamw.com/) - [Feed](http://nfctimes.com/taxonomy/term/3083/function.session-start/feed)
-- ✅ [Malawi Nation](http://mwnation.com/) - [Feed](http://www.nyasatimes.com/category/national/feed/)
+- ❌ [Malawi Nation](http://mwnation.com/) - [Feed](http://www.nyasatimes.com/category/national/feed/)
 - ❌ [Marawi Post](http://www.maravipost.com/) - [Feed](http://www.dentistryphilippines.com/tag/marawi/feed/)
 - ❌ [Malawi Today](http://www.malawitoday.com/) - [Feed](http://ucrtoday.ucr.edu/tag/malawi/feed)
 - ❌ [Malawi Voice](http://www.malawivoice.com/) - [Feed](http://www.malawivoice.com/feed/)
@@ -2223,7 +2223,7 @@
 
 ## Malta
 
-- ❌ [Times of Malta](http://timesofmalta.com/) - [Feed](http://www.timesofmalta.com/rss)
+- ✅ [Times of Malta](http://timesofmalta.com/) - [Feed](http://www.timesofmalta.com/rss)
 - ✅ [Malta Today](http://maltatoday.com.mt/) - [Feed](http://www.maltatoday.com.mt/rss/)
 - ❌ [MaltaStar.com](http://maltastar.com/) - [Feed](http://www.maltabusinessnetwork.com/pages/view/31862/mbn-in-the-media?view=rss)
 - ❌ [MaltaRightNow.com](http://maltarightnow.com/) - [Feed](http://maltarightnow.com/news/2014/12/17/l-attakk-fpeshawar-ghalliema-nharqet-hajja-quddiem-l-istudenti/feed/)
@@ -2304,7 +2304,7 @@
 - ❌ [Noticias - Terra Mexico](http://noticias.terra.com.mx/) - [Feed](http://noticias.terra.com.mx/rss/Controller?channelid=9c8ee078d3d13310VgnVCM3000009af154d0RCRD&ctName=atomo-noticia&lg=es-mx)
 - ❌ [El Economista](http://eleconomista.com.mx/) - [Feed](http://kindle.eleconomista.com.mx/)
 - ❌ [Cronica](http://cronica.com.mx/) - [Feed](http://www.cronica.com.mx/rss/rssSeccion.php?id=4)
-- ❌ [El Norte](http://elnorte.com/) - [Feed](http://www.elnorte.com/rss/portada.xml)
+- ✅ [El Norte](http://elnorte.com/) - [Feed](http://www.elnorte.com/rss/portada.xml)
 
 ## Moldova, Republic of
 
@@ -2358,7 +2358,7 @@
 - ✅ [Wikimon](http://wikimon.mn/) - [Feed](http://dmowiki.com/index.php?title=Mikemon&feed=atom&action=history)
 - ❌ [Zindaa](http://zindaa.mn/) - [Feed](http://www.styleonpaper.com/tag/zinda-bhaag/feed/)
 - ✅ [Bolod.mn](http://bolod.mn/) - [Feed](http://www.bolod.mn/feed.php)
-- ❌ [Bataar.mn](http://bataar.mn/) - [Feed](http://www.fact.mn/feed)
+- ✅ [Bataar.mn](http://bataar.mn/) - [Feed](http://www.fact.mn/feed)
 - ❌ [Undesten](http://undesten.mn/) - [Feed](http://www.cekc.mn/2014/12/%d0%bc%d0%be%d0%bd%d0%b3%d0%be%d0%bb-%d0%bc%d0%b8%d1%81%d1%81%d2%af%d2%af%d0%b4%d0%b8%d0%b9%d0%bd-%d0%b0%d0%bd%d0%b3%d0%bb%d0%b8-%d1%85%d1%8d%d0%bb%d0%bd%d0%b8%d0%b9-%d1%87%d0%b0%d0%b4%d0%b2%d0%b0/feed/)
 - ❌ [Goolingoo.mn](http://goolingoo.mn/) - [Feed](http://podrobnoobovsem.ru/rss/www-ezone-mn-pro100-6c)
 
@@ -2523,7 +2523,7 @@
 - ❌ [El Nuevo Diario](http://elnuevodiario.com.ni/) - [Feed](http://www.elnuevodiario.com.ni/rss/economia)
 - ❌ [El 19](http://el19digital.com/) - [Feed](http://www.el19digital.com/index.php/feed)
 - ❌ [La Voz del Sandinismo](http://lavozdelsandinismo.com/) - [Feed](http://lavozdelsandinismo.org/rss/)
-- ✅ [La Nueva Radio YA](http://nuevaya.com.ni/) - [Feed](http://nuevaya.com.ni/feed/)
+- ❌ [La Nueva Radio YA](http://nuevaya.com.ni/) - [Feed](http://nuevaya.com.ni/feed/)
 - ❌ [Confidencial](http://confidencial.com.ni/) - [Feed](http://www.confidencial.com.ni/feed)
 - ❌ [Canal 15](http://canal15.com.ni/) - [Feed](http://www.canal15spc.com/spc-canal-15/feed/)
 - ❌ [La Gente - Radio La Primerisima](http://rlp.com.ni/) - [Feed](http://www.rlp.com.ni/rss/general)
@@ -2533,8 +2533,8 @@
 ## Niger
 
 - ❌ [Tam Tam Info](http://tamtaminfo.com/) - [Feed](http://www.tamtaminfo.com/feed/)
-- ❌ [Niger Diaspora](http://nigerdiaspora.info/) - [Feed](http://nigerdiaspora.net/?type=rss&format=feed)
-- ❌ [La Republicain](http://www.republicain-niger.com/) - [Feed](http://www.republicain-lorrain.fr/rss)
+- ✅ [Niger Diaspora](http://nigerdiaspora.info/) - [Feed](http://nigerdiaspora.net/?type=rss&format=feed)
+- ✅ [La Republicain](http://www.republicain-niger.com/) - [Feed](http://www.republicain-lorrain.fr/rss)
 - ❌ [ORTN](http://www.ortn.ne/) - [Feed](http://actuniger.com/component/jcomments/feed/com_content/7120.html)
 - ❌ [Le Sahal](http://www.lesahel.org/) - [Feed](http://www.tunisientunisie.com/tag/sahal/feed/)
 
@@ -2556,7 +2556,7 @@
 - ❌ [PM News](http://pmnewsnigeria.com/) - [Feed](http://www.pmnewsnigeria.com/2014/12/19/military-claims-of-mass-abduction-are-under-investigation/feed/)
 - ❌ [National Mirror](http://www.nationalmirroronline.net/) - [Feed](http://www.nationalmirroronline.net/new/ogun-checkmates-encroachment-on-school-lands/feed/)
 - ❌ [Online Nigeria News](http://news2.onlinenigeria.com/) - [Feed](http://news2.onlinenigeria.com/feed/index.rss)
-- ❌ [Information Nigeria](http://www.informationnigeria.org/) - [Feed](http://www.informationng.com/feed)
+- ✅ [Information Nigeria](http://www.informationnigeria.org/) - [Feed](http://www.informationng.com/feed)
 
 ## North Korea
 
@@ -2692,11 +2692,11 @@
 
 ## Peru
 
-- ✅ [El Comercio Perú](https://elcomercio.pe/) - [Feed](https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml)
-- ✅ [Gestión](https://gestion.pe/) - [Feed](https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml)
-- ✅ [Trome](https://trome.pe/) - [Feed](https://trome.com/arc/outboundfeeds/rss/?outputType=xml)
-- ✅ [La República](https://larepublica.pe/) - [Feed](https://larepublica.pe/rss/home.xml)
-- ✅ [Diario Correo](https://diariocorreo.pe/) - [Feed](https://diariocorreo.pe/arc/outboundfeeds/rss/?outputType=xml)
+- ❌ [El Comercio Perú](https://elcomercio.pe/) - [Feed](https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml)
+- ❌ [Gestión](https://gestion.pe/) - [Feed](https://gestion.pe/arc/outboundfeeds/rss/?outputType=xml)
+- ❌ [Trome](https://trome.pe/) - [Feed](https://trome.com/arc/outboundfeeds/rss/?outputType=xml)
+- ❌ [La República](https://larepublica.pe/) - [Feed](https://larepublica.pe/rss/home.xml)
+- ❌ [Diario Correo](https://diariocorreo.pe/) - [Feed](https://diariocorreo.pe/arc/outboundfeeds/rss/?outputType=xml)
 - ❌ [Los Andes](https://losandes.com.pe/) - [Feed](https://losandes.com.pe/feed/)
 - ❌ [Generaccion.com](http://generaccion.com/) - [Feed](http://www.generaccion.com/noticia/rss/)
 - ❌ [LaMula](https://lamula.pe/) - [Feed](https://lamula.pe/feed/)
@@ -2706,7 +2706,7 @@
 ## Philippines
 
 - ❌ [Inquirer.net](http://inquirer.net/) - [Feed](http://www.inquirer.net/fullfeed)
-- ❌ [PhilSTAR.com](http://philstar.com/) - [Feed](http://www.philstar.com/rss/entertainment)
+- ✅ [PhilSTAR.com](http://philstar.com/) - [Feed](http://www.philstar.com/rss/entertainment)
 - ❌ [ABS CBN News](http://abs-cbnnews.com/) - [Feed](http://www.abs-cbnnews.com/rss.xml)
 - ❌ [Manila Bulletin](http://philippineairlines.com/) - [Feed](http://www.mb.com.ph/feed/)
 - ❌ [Sun Star](http://sunstar.com.ph/) - [Feed](http://rss.sunstar.com.ph/SunStarCebu)
@@ -2720,7 +2720,7 @@
 
 - ✅ [Gazeta.pl](http://gazeta.pl/) - [Feed](http://rss.gazeta.pl/pub/rss/wiadomosci.xml)
 - ✅ [INTERIA.PL](http://interia.pl/) - [Feed](http://pogoda.interia.pl/feed)
-- ✅ [Onet Wiadomosci](http://wiadomosci.onet.pl/) - [Feed](http://wiadomosci.onet.pl/.feed)
+- ❌ [Onet Wiadomosci](http://wiadomosci.onet.pl/) - [Feed](http://wiadomosci.onet.pl/.feed)
 - ❌ [WP.pl Wiadomosci](http://wiadomosci.wp.pl/) - [Feed](http://wiadomosci.wp.pl/rss.xml)
 - ❌ [babol.pl](http://babol.pl/) - [Feed](http://babol.pl/kat,1025463,rss.xml)
 - ❌ [No co Ty](http://nocoty.pl/) - [Feed](http://nocoty.pl/rss.xml)
@@ -2728,7 +2728,7 @@
 - ✅ [Money.pl](http://money.pl/) - [Feed](http://www.money.pl/rss/main.xml)
 - ❌ [Nasygnale.pl](http://nasygnale.pl/) - [Feed](http://nasygnale.pl/rss.xml)
 - ❌ [TVN24](http://tvn24.pl/) - [Feed](http://www.tvn24.pl/najwazniejsze.xml)
-- ❌ [Gazeta Wyborcza](http://wyborcza.pl/) - [Feed](https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml)
+- ✅ [Gazeta Wyborcza](http://wyborcza.pl/) - [Feed](https://wyborcza.pl/pub/rss/najnowsze_wyborcza.xml)
 - ❌ [Super Express](http://www.se.pl/) - [Feed](http://airportsuperexpress.wordpress.com/feed/)
 - ❌ [Fakt.pl](http://fakt.pl/) - [Feed](http://miejsca.fakt.pl/restauracja-celtic-pub-restaurant-wroclaw/feed)
 - ❌ [TVP](http://tvp.pl/) - [Feed](https://sport.tvp.pl/sport.tvp.pl/rss+xml.php)
@@ -2769,9 +2769,9 @@
 - ❌ [Vocero de Puerto Rico](http://vocero.com/) - [Feed](http://elvocero.com/tag/leche/feed/)
 - ❌ [WAPA TV](http://wapa.tv/) - [Feed](http://rss.wapa.tv/WapatvNoticias)
 - ❌ [Telemundo de Puerto Rico](http://telemundopr.com/) - [Feed](http://www.telemundopr.com/telenoticias/puerto-rico/index.rss2)
-- ❌ [NotiCel](http://noticel.com/) - [Feed](http://noticel.com/feed)
+- ✅ [NotiCel](http://noticel.com/) - [Feed](http://noticel.com/feed)
 - ❌ [ixposednews|Mundonarco.com](http://ixposednews.com/) - [Feed](http://www.ixposednewsonline.com/feeds/posts/default?alt=rss)
-- ❌ [Noti Uno 630 AM](http://notiuno.com/) - [Feed](http://estrella51.blogspot.com/feeds/posts/default?alt=rss)
+- ✅ [Noti Uno 630 AM](http://notiuno.com/) - [Feed](http://estrella51.blogspot.com/feeds/posts/default?alt=rss)
 - ❌ [RadioIsla1320.com](http://radioisla1320.com/) - [Feed](http://www.radioisla1320.com/?feed=rss2&tag=noticias-puerto-rico)
 - ❌ [Metro](http://metro.pr/) - [Feed](http://www.metro.pr/rss.xml)
 
@@ -2783,7 +2783,7 @@
 - ❌ [Al Sharq](http://al-sharq.com/) - [Feed](http://www.beyaz.org/al-sharq-1-2-al-zulfi-mac-ozeti-13-12-2014/feed/)
 - ❌ [Al Arab](http://alarab.qa/) - [Feed](http://www.alarab.qa/rss)
 - ❌ [The Peninsula](http://thepeninsulaqatar.com/) - [Feed](http://news.peninsula.com/rss/EN/THE-PENINSULA-BANGKOK/NEWS)
-- ✅ [Doha News](http://dohanews.co/) - [Feed](http://feeds.feedburner.com/DohaNews)
+- ❌ [Doha News](http://dohanews.co/) - [Feed](http://feeds.feedburner.com/DohaNews)
 - ❌ [Qatar News Agency](http://qnaol.net/) - [Feed](http://www.qatar-gulfnews.com/feed/)
 
 ## Republic of the Congo
@@ -2799,7 +2799,7 @@
 ## Republic of The Gambia
 
 - ❌ [Daily Observer](http://observer.gm/) - [Feed](http://observer.gm/news/channel/Editorial/rss/xml)
-- ✅ [Point](http://thepoint.gm/) - [Feed](http://thepoint.gm/posts/rss/xml)
+- ❌ [Point](http://thepoint.gm/) - [Feed](http://thepoint.gm/posts/rss/xml)
 - ❌ [Freedom](http://www.freedomnewspaper.com/) - [Feed](http://www.freedomnewspaper.com/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=36&ModuleID=431&MaxCount=25)
 - ❌ [Daily News](http://dailynews.gm/) - [Feed](http://dailynews.gm/posts/rss/xml)
 - ❌ [Gambia Echo](http://thegambiaechos.com/) - [Feed](http://thegambiaecho.com/xp/feed/)
@@ -2827,9 +2827,9 @@
 - ❌ [evz.ro](http://evz.ro/) - [Feed](http://www.evz.ro/rss.html)
 - ❌ [Antena3](http://antena3.ro/) - [Feed](http://promoa3.antena3.ro/teaser-antena-3/feed/)
 - ❌ [HotNews.ro](http://hotnews.ro/) - [Feed](http://medlive.hotnews.ro/top-10-mistere-medicale-in-2014-de-la-femeia-care-s-a-nascut-fara-cerebel-la-barbatul-care-s-a-trezit-din-coma-vorbind-mandarina.html/feed)
-- ❌ [jurnalul.ro](http://jurnalul.ro/) - [Feed](http://jurnalul.ro/rss)
+- ✅ [jurnalul.ro](http://jurnalul.ro/) - [Feed](http://jurnalul.ro/rss)
 - ❌ [ProSport](http://prosport.ro/) - [Feed](http://www.shopprosport.com.tr/rss.asp)
-- ❌ [Gazeta Sporturilor](http://gsp.ro/) - [Feed](http://www.gsp.ro/rss.xml)
+- ✅ [Gazeta Sporturilor](http://gsp.ro/) - [Feed](http://www.gsp.ro/rss.xml)
 - ❌ [MEDIAFAX.ro](http://mediafax.ro/) - [Feed](http://www.mediafax.ro/blog/comments/feed/)
 - ❌ [Romania Libere](http://romanialibera.ro/) - [Feed](http://frl.ro/category/stiluri-de-lupte/lupte-libere/feed/)
 - ❌ [Sport.ro](http://sport.ro/) - [Feed](http://www.sport.ro/stiri-despre/steaua/rss/)
@@ -2837,8 +2837,8 @@
 - ❌ [Ziarul Financiar](http://zf.ro/) - [Feed](http://feeds.feedburner.com/GandulFinanciar)
 - ❌ [a1](http://a1.ro/) - [Feed](http://neatza.a1.ro/rss.xml)
 - ❌ [Romania TV](http://rtv.net/) - [Feed](http://www.romaniatv.net/rss/stiri.xml)
-- ❌ [Televiziunea Română (TVR)](http://www.tvr.ro/) - [Feed](http://www.tvr.ro/rss/stiri.xml)
-- ❌ [biziday](https://www.biziday.ro/) - [Feed](https://www.biziday.ro/feed/)
+- ✅ [Televiziunea Română (TVR)](http://www.tvr.ro/) - [Feed](http://www.tvr.ro/rss/stiri.xml)
+- ✅ [biziday](https://www.biziday.ro/) - [Feed](https://www.biziday.ro/feed/)
 
 ## Russian Federation
 
@@ -2850,8 +2850,8 @@
 - ❌ [KP.ru Komsomolskaya Pravda](http://kp.ru/) - [Feed](http://stepconsulting.ru/editions/gazeta-komsomolskaya-pravda/feed)
 - ❌ [rambler Novosti](http://news.rambler.ru/) - [Feed](http://news.rambler.ru/rss/28477137/)
 - ❌ [smi2.ru](http://smi2.ru/) - [Feed](http://smi2.ru/blog/rss)
-- ✅ [Lenta.ru](http://lenta.ru/) - [Feed](http://lenta.ru/rss/)
-- ✅ [Utro.ru](http://utro.ru/) - [Feed](http://www.utro.ru/export/rss2.xml)
+- ❌ [Lenta.ru](http://lenta.ru/) - [Feed](http://lenta.ru/rss/)
+- ❌ [Utro.ru](http://utro.ru/) - [Feed](http://www.utro.ru/export/rss2.xml)
 - ❌ [Novoteka](http://novoteka.ru/) - [Feed](http://www.novotekaru.ru/feed/)
 - ❌ [NEWSru.com](http://newsru.com/) - [Feed](http://feeds.newsru.com/)
 - ❌ [Gazeta.ru](http://gazeta.ru/) - [Feed](http://www.gazeta.ru/export/rss/en_opinions.xml)
@@ -2954,7 +2954,7 @@
 - ❌ [WalFadjri](http://walf-groupe.com/) - [Feed](http://xibaaru.com/tag/walfadjri/feed/)
 - ❌ [le Soleil](http://lesoleil.sn/) - [Feed](http://www.lesoleil.sn/index.php?option=com_content&view=category&id=27&layout=blog&Itemid=44&format=feed&type=rss)
 - ❌ [Le Quotidien](http://www.lequotidien.sn/) - [Feed](http://www.lequotidien.sn/new/index.php/the-star/itemlist?format=feed&moduleID=156)
-- ❌ [PressAfrik](http://www.pressafrik.com/) - [Feed](http://www.sanslimitesn.com/tag/exclusivite-pressafrik-com/feed/)
+- ✅ [PressAfrik](http://www.pressafrik.com/) - [Feed](http://www.sanslimitesn.com/tag/exclusivite-pressafrik-com/feed/)
 - ❌ [Setal.net](http://www.setal.net/) - [Feed](http://www.setal.net/xml/forum.rss?s=212388)
 - ❌ [SudQuotidien](http://www.sudonline.sn/) - [Feed](http://yveslebelge.skynetblogs.be/index.rss)
 - ❌ [SeneNews Actu](http://senenews.com/) - [Feed](http://www.senenews.com/tag/kemi-keba/feed)
@@ -2964,7 +2964,7 @@
 
 - ✅ [Blic](http://blic.rs/) - [Feed](http://www.blic.rs/rss/danasnje-vesti)
 - ❌ [B92](http://b92.net/) - [Feed](http://podcast.b92.net/kaziprst.xml)
-- ✅ [Kurir](http://kurir-info.rs/) - [Feed](http://www.kurir-info.rs/rss/zabava/)
+- ❌ [Kurir](http://kurir-info.rs/) - [Feed](http://www.kurir-info.rs/rss/zabava/)
 - ❌ [Jutarnji List](http://jutarnji.hr/) - [Feed](http://www.jutarnji.hr/rss?type=section&id=74705)
 - ❌ [Dnevni Avaz](http://dnevniavaz.ba/) - [Feed](http://forum.avaz.ba/external.php?type=RSS2&forumids=26)
 - ✅ [Novosti](http://novosti.rs/) - [Feed](http://www.novosti.rs/rss/rss-vesti)
@@ -3030,7 +3030,7 @@
 - ❌ [Zivot](http://zivot.azet.sk/) - [Feed](http://360.rollins.edu/feeds/tag/eric_zivot)
 - ❌ [TREND](http://etrend.sk/) - [Feed](http://www.etrend.sk/rss/etrend.xml)
 - ✅ [oPeniazoch.sk](http://openiazoch.zoznam.sk/) - [Feed](http://openiazoch.zoznam.sk/rss.asp)
-- ❌ [Sport.sk](http://sport.aktuality.sk/) - [Feed](http://sport.aktuality.sk/rss/)
+- ✅ [Sport.sk](http://sport.aktuality.sk/) - [Feed](http://sport.aktuality.sk/rss/)
 - ❌ [Sport.Pravda.sk](http://futbal.pravda.sk/) - [Feed](http://sport.pravda.sk/formula-1/rss/xml/)
 - ❌ [Noviny.sk](http://noviny.sk/) - [Feed](http://tvnoviny.sk/rss/)
 - ✅ [Webnoviny.sk](http://webnoviny.sk/) - [Feed](http://www.webnoviny.sk/rss/rss-trenciansky-kraj.rss)
@@ -3147,23 +3147,23 @@
 - ✅ [ABC](https://abc.es/) - [Feed](https://www.abc.es/rss/atom/portada/)
 - ✅ [elmundo.es](https://elmundo.es/) - [Feed](https://e00-elmundo.uecdn.es/rss/portada.xml)
 - ❌ [RTVE](https://rtve.es/) - [Feed](https://www.rtve.es/rss/temas_noticias.xml)
-- ✅ [Antena 3](https://www.antena3.com/) - [Feed](https://www.antena3.com/noticias/rss/4013050.xml)
+- ❌ [Antena 3](https://www.antena3.com/) - [Feed](https://www.antena3.com/noticias/rss/4013050.xml)
 - ✅ [LaVanguardia.com](https://lavanguardia.com/) - [Feed](https://www.lavanguardia.com/rss/home.xml)
 - ✅ [La Razon](https://larazon.es/) - [Feed](https://www.larazon.es/?outputType=xml)
 - ✅ [elEconomista.es](https://eleconomista.es/) - [Feed](https://www.eleconomista.es/rss/rss-seleccion-ee.php)
 - ✅ [Cinco Dias](https://cincodias.elpais.com/) - [Feed](https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/section/ultimas-noticias/portada)
 - ✅ [Diario Expansion](https://expansion.com/) - [Feed](https://e00-expansion.uecdn.es/rss/portada.xml)
 - ❌ [Invertia](https://www.elespanol.com/invertia/) - [Feed](https://www.elespanol.com/rss/invertia/)
-- ❌ [El Confidencial](https://elconfidencial.com/) - [Feed](https://rss.elconfidencial.com/espana/)
+- ✅ [El Confidencial](https://elconfidencial.com/) - [Feed](https://rss.elconfidencial.com/espana/)
 - ❌ [Libertad Digital](https://libertaddigital.com/) - [Feed](http://feeds2.feedburner.com/libertaddigital/portada)
-- ❌ [elDiario.es](https://www.eldiario.es/) - [Feed](https://www.eldiario.es/rss)
+- ✅ [elDiario.es](https://www.eldiario.es/) - [Feed](https://www.eldiario.es/rss)
 - ✅ [Diario Expansion](https://okdiario.com/) - [Feed](https://okdiario.com/feed)
 - ❌ [El Independiente](https://www.elindependiente.com/) - [Feed](https://www.elindependiente.com/feed/)
-- ✅ [El Debate](https://www.eldebate.com/) - [Feed](https://www.eldebate.com/rss/home.xml)
+- ❌ [El Debate](https://www.eldebate.com/) - [Feed](https://www.eldebate.com/rss/home.xml)
 - ❌ [20minutos.es](https://20minutos.es/) - [Feed](https://www.20minutos.es/rss/minuteca/20minutoses/)
-- ✅ [Europa Press](https://europapress.es/) - [Feed](https://www.europapress.es/rss/rss.aspx)
-- ✅ [elcorreo.com](https://elcorreo.com/) - [Feed](https://www.elcorreo.com/rss/atom/portada/)
-- ✅ [La Voz de Galicia](https://lavozdegalicia.es/) - [Feed](https://www.lavozdegalicia.es/index.xml)
+- ❌ [Europa Press](https://europapress.es/) - [Feed](https://www.europapress.es/rss/rss.aspx)
+- ❌ [elcorreo.com](https://elcorreo.com/) - [Feed](https://www.elcorreo.com/rss/atom/portada/)
+- ❌ [La Voz de Galicia](https://lavozdegalicia.es/) - [Feed](https://www.lavozdegalicia.es/index.xml)
 - ❌ [La Nueva Espana](https://lne.es/) - [Feed](https://www.lne.es/rss/section/3279)
 - ✅ [El Periódico](https://www.epe.es/es/rss/listado-rss.shtml) - [Feed](https://www.epe.es/es/rss/rss_portada.xml)
 - ✅ [La Región](https://www.laregion.es/) - [Feed](https://www.laregion.es/rss/)
@@ -3189,7 +3189,7 @@
 
 - ❌ [Al Watan Voice](http://alwatanvoice.com/) - [Feed](http://feeds.alwatanvoice.com/arabic/people.xml)
 - ❌ [Panet](http://panet.co.il/) - [Feed](http://go.panet.co.il/rss.xml)
-- ❌ [IRA Arab News Agency](http://irarab.com/) - [Feed](http://rss.wn.com/English/related-articles/2014/11/29/Timeline_of_violations_against_freedom_of_information_in_Ira/)
+- ✅ [IRA Arab News Agency](http://irarab.com/) - [Feed](http://rss.wn.com/English/related-articles/2014/11/29/Timeline_of_violations_against_freedom_of_information_in_Ira/)
 - ❌ [AL Fajer TV](http://alfajertv.com/) - [Feed](https://citizenpartridge.wordpress.com/feed/)
 - ❌ [Maan News Agency](http://maannews.net/) - [Feed](http://www.maannews.net/eng/Rss.aspx?CID=NEW)
 - ✅ [nablus TV](http://nablustv.net/) - [Feed](http://www.nablustv.net/xml.asp)
@@ -3223,7 +3223,7 @@
 ## Suriname
 
 - ✅ [Starnieuws](http://starnieuws.com/) - [Feed](http://www.starnieuws.com/rss/starnieuws.rss)
-- ✅ [GFC Nieuws](http://gfcnieuws.com/) - [Feed](http://www.gfcnieuws.com/?feed=rss2)
+- ❌ [GFC Nieuws](http://gfcnieuws.com/) - [Feed](http://www.gfcnieuws.com/?feed=rss2)
 - ❌ [Waterkant.net](http://waterkant.net/) - [Feed](http://www.waterkant.net/feed/)
 - ❌ [Dagblad Suriname](http://dbsuriname.com/) - [Feed](http://www.dbsuriname.com/dbsuriname/index.php/feed/)
 - ❌ [SR Nieuws](http://srnieuws.com/) - [Feed](http://srnieuws.me/algemeen/rss/)
@@ -3231,9 +3231,9 @@
 ## Sweden
 
 - ❌ [Aftonbladet](http://aftonbladet.se/) - [Feed](http://www.aftonbladet.se/?service=rss)
-- ❌ [Expressen](http://expressen.se/) - [Feed](http://www.expressen.se/rss/nyheter)
-- ❌ [SVT](http://svt.se/) - [Feed](https://www.svt.se/rss.xml)
-- ❌ [DN.se](http://dn.se/) - [Feed](http://www.dn.se/nyheter/m/rss)
+- ✅ [Expressen](http://expressen.se/) - [Feed](http://www.expressen.se/rss/nyheter)
+- ✅ [SVT](http://svt.se/) - [Feed](https://www.svt.se/rss.xml)
+- ✅ [DN.se](http://dn.se/) - [Feed](http://www.dn.se/nyheter/m/rss)
 - ✅ [di.se](http://di.se/) - [Feed](http://www.di.se/rss/)
 - ❌ [SvD Svenska Dagbladet](http://svd.se/) - [Feed](http://www.svd.se/nyheter/inrikes/?service=rss)
 - ❌ [Sveriges Radio](http://sverigesradio.se/) - [Feed](http://sverigesradio.se/Podradio/xml/SRI_en_sweToday.xml)
@@ -3349,7 +3349,7 @@
 - ❌ [zazabava.com](http://zazabava.com/) - [Feed](https://www.robtex.com/en/advisory/dns/mk/org/demokratija/www/index.rss)
 - ✅ [Daily Makedonia](http://daily.mk/) - [Feed](http://news.makedonias.gr/89309/erevna-daily-mail-to-chirotero-protathlima-ston-kosmo-ine-i-superleague/feed/)
 - ❌ [Press 24](http://press24.mk/) - [Feed](http://24-press.com/feed)
-- ✅ [Makedonska Radio Televizija (MRT)](https://www.mrt.com.mk/) - [Feed](https://www.mrt.com.mk/rss.xml)
+- ❌ [Makedonska Radio Televizija (MRT)](https://www.mrt.com.mk/) - [Feed](https://www.mrt.com.mk/rss.xml)
 
 ## Timor-Leste
 
@@ -3478,9 +3478,9 @@
 - ❌ [Liga.net](http://liga.net/) - [Feed](http://forum.liga.net/rsslastds.asp)
 - ❌ [Ukrainskaya Pravda](http://pravda.com.ua/) - [Feed](http://www.medihaber.net/2014/12/14/ukrainskaya-pravda-ekrem-dumanlinin-gozaltini-canli-yayinda-verdi/feed/)
 - ❌ [LB.ua](http://lb.ua/) - [Feed](http://lb.ua/export/rss.xml)
-- ❌ [Gazeta.ua](http://gazeta.ua/) - [Feed](http://gazeta.ua/ru/rss)
+- ✅ [Gazeta.ua](http://gazeta.ua/) - [Feed](http://gazeta.ua/ru/rss)
 - ❌ [Yandex.ua News](http://news.yandex.ua/) - [Feed](http://news.yandex.ua/politics.rss)
-- ❌ [Censor.net](http://censor.net.ua/) - [Feed](http://censor.net.ua/includes/news_ru.xml)
+- ✅ [Censor.net](http://censor.net.ua/) - [Feed](http://censor.net.ua/includes/news_ru.xml)
 - ❌ [Join](http://join.ua/) - [Feed](http://auto.join.ua/rss)
 - ❌ [Unian.net](http://unian.net/) - [Feed](http://rss.unian.net/site/news_eng.rss)
 - ✅ [Komsomolskaya pravda](http://kp.ua/) - [Feed](http://kp.ua/rss/feed.xml)
@@ -3509,7 +3509,7 @@
 - ✅ [BBC](http://bbc.co.uk/) - [Feed](http://feeds.bbci.co.uk/news/rss.xml)
 - ✅ [Yahoo! UK News](http://uk.news.yahoo.com/) - [Feed](https://uk.news.yahoo.com/rss/uk)
 - ❌ [Yahoo! Eurosport](http://eurosport.yahoo.com/) - [Feed](https://eurosport.yahoo.com/?format=rss)
-- ❌ [Mail](http://dailymail.co.uk/) - [Feed](http://www.dailymail.co.uk/news/index.rss)
+- ✅ [Mail](http://dailymail.co.uk/) - [Feed](http://www.dailymail.co.uk/news/index.rss)
 - ❌ [The Guardian](http://guardian.co.uk/) - [Feed](http://www.theguardian.com/theguardian/rss)
 - ❌ [Telegraph](http://telegraph.co.uk/) - [Feed](http://www.telegraph.co.uk/news/rss)
 - ✅ [BBC News](http://news.bbc.co.uk/) - [Feed](http://feeds.bbci.co.uk/news/england/rss.xml)
@@ -3523,8 +3523,8 @@
 - ❌ [Goal.com](http://goal.com/) - [Feed](http://www.goal.com/tr/feeds/news?id=445&fmt=rss)
 - ✅ [Metro](http://metro.co.uk/) - [Feed](http://metro.co.uk/feed/)
 - ❌ [Sporting Life](http://sportinglife.com/) - [Feed](http://www.sportinglife.com/rss/general.xml)
-- ❌ [Financial Times](http://ft.com/) - [Feed](http://www.ft.com/rss/world)
-- ❌ [Daily Record](http://dailyrecord.co.uk/) - [Feed](http://www.dailyrecord.co.uk/rss.xml)
+- ✅ [Financial Times](http://ft.com/) - [Feed](http://www.ft.com/rss/world)
+- ✅ [Daily Record](http://dailyrecord.co.uk/) - [Feed](http://www.dailyrecord.co.uk/rss.xml)
 - ❌ [NewsNow.co.uk](http://newsnow.co.uk/) - [Feed](http://www.cix.co.uk/~jimh/weblog/NewsNow.xml)
 - ❌ [The Scotsman](http://scotsman.com/) - [Feed](http://www.scotsman.com/cmlink/1.957044)
 - ❌ [Express](http://express.co.uk/) - [Feed](http://www.express.co.uk/posts/rss/139/)
@@ -3596,21 +3596,21 @@
 - ❌ [NY Daily News](http://nydailynews.com/) - [Feed](http://feeds.nydailynews.com/nydnrss/news)
 - ❌ [Sporting News](http://sportingnews.com/) - [Feed](http://www.sportinglife.com/rss/racing.xml)
 - ❌ [Bloomberg](http://bloomberg.com/) - [Feed](http://www.bloomberg.com/feed/podcast/bloomberg-brief.xml)
-- ❌ [CNBC](http://cnbc.com/) - [Feed](http://www.cnbc.com/id/100003114/device/rss/rss.html)
+- ✅ [CNBC](http://cnbc.com/) - [Feed](http://www.cnbc.com/id/100003114/device/rss/rss.html)
 - ❌ [Examiner.com](http://examiner.com/) - [Feed](http://www.examiner.com/rss/all/top-news)
-- ❌ [UsMagazine.com](http://usmagazine.com/) - [Feed](http://www.usmagazine.com/celebrity_news/rss)
-- ❌ [CBSSports.com](http://cbssports.com/) - [Feed](http://www.cbssports.com/partners/feeds/rss/home_news)
-- ✅ [Slate Magazine](http://slate.com/) - [Feed](http://feeds.slate.com/slate)
+- ✅ [UsMagazine.com](http://usmagazine.com/) - [Feed](http://www.usmagazine.com/celebrity_news/rss)
+- ✅ [CBSSports.com](http://cbssports.com/) - [Feed](http://www.cbssports.com/partners/feeds/rss/home_news)
+- ❌ [Slate Magazine](http://slate.com/) - [Feed](http://feeds.slate.com/slate)
 - ❌ [Scout.com](http://scout.com/) - [Feed](http://rss.scout.com/rss.aspx?&p=18&contenttypeid=20&contentid=127202)
-- ✅ [New York Post](http://nypost.com/) - [Feed](http://nypost.com/news/feed/)
-- ✅ [MarketWatch](http://marketwatch.com/) - [Feed](http://feeds.marketwatch.com/marketwatch/marketpulse/)
+- ❌ [New York Post](http://nypost.com/) - [Feed](http://nypost.com/news/feed/)
+- ❌ [MarketWatch](http://marketwatch.com/) - [Feed](http://feeds.marketwatch.com/marketwatch/marketpulse/)
 - ❌ [Chicago Tribune](http://chicagotribune.com/) - [Feed](http://www.chicagotribune.com/rss2.0.xml)
 - ✅ [NPR : National Public Radio](http://npr.org/) - [Feed](http://www.npr.org/rss/rss.php?id=1004)
 - ✅ [SFGate](http://sfgate.com/) - [Feed](http://www.sfgate.com/bayarea/feed/bay-area-news-429.php)
 - ✅ [TIME.com](http://time.com/) - [Feed](http://time.com/feed/)
 - ❌ [Boston.com](http://boston.com/) - [Feed](http://feeds.boston.com/boston/topstories)
 - ❌ [Businessweek](http://businessweek.com/) - [Feed](http://www.businessweek.com/feeds/homepage.rss)
-- ❌ [POLITICO.com](http://politico.com/) - [Feed](http://www.politico.com/rss/politicopicks.xml)
+- ✅ [POLITICO.com](http://politico.com/) - [Feed](http://www.politico.com/rss/politicopicks.xml)
 - ❌ [Rivals.com](http://rivals.com/) - [Feed](https://rivals100.rivals.com/rss2feed.asp?sid=880)
 - ✅ [Seeking Alpha](http://seekingalpha.com/) - [Feed](http://seekingalpha.com/feed.xml)
 - ✅ [The Christian Science Monitor](http://csmonitor.com/) - [Feed](http://rss.csmonitor.com/feeds/csm)
@@ -3626,13 +3626,13 @@
 ## Uruguay
 
 - ❌ [EL PAIS Uruguay](https://elpais.com.uy/) - [Feed](https://www.elpais.com.uy/rss/)
-- ✅ [El Observador](https://elobservador.com.uy/) - [Feed](https://www.elobservador.com.uy/rss/pages/ultimo-momento.xml)
+- ❌ [El Observador](https://elobservador.com.uy/) - [Feed](https://www.elobservador.com.uy/rss/pages/ultimo-momento.xml)
 - ✅ [Montevideo Portal](https://www.montevideo.com.uy/) - [Feed](https://www.montevideo.com.uy/anxml.aspx?58)
 - ✅ [La Diaria](https://ladiaria.com.uy/) - [Feed](https://ladiaria.com.uy/feeds/articulos)
 - ❌ [LaRed21](https://lr21.com.uy/) - [Feed](https://www.lr21.com.uy/feed)
 - ❌ [El Popular](https://elpopular.uy/) - [Feed](https://elpopular.uy/feed/)
 - ❌ [Hoy Canelones](https://hoycanelones.com.uy/) - [Feed](https://hoycanelones.com.uy/feed/)
-- ✅ [La Mañana](https://www.lamañana.uy/) - [Feed](https://www.xn--lamaana-7za.uy/feed/)
+- ❌ [La Mañana](https://www.lamañana.uy/) - [Feed](https://www.xn--lamaana-7za.uy/feed/)
 - ✅ [Diario El Telegrafo](https://www.eltelegrafo.com/) - [Feed](https://www.eltelegrafo.com/feed/)
 - ✅ [Subrayado HD](https://subrayado.com.uy/) - [Feed](https://www.subrayado.com.uy/rss/pages/home.xml)
 
@@ -3677,7 +3677,7 @@
 
 ## Vietnam
 
-- ✅ [VnExpress](http://vnexpress.net/) - [Feed](http://vnexpress.net/rss/kinh-doanh.rss)
+- ❌ [VnExpress](http://vnexpress.net/) - [Feed](http://vnexpress.net/rss/kinh-doanh.rss)
 - ❌ [Zing News](http://zing.vn/) - [Feed](http://news.zing.vn/RSS/new.rss)
 - ❌ [24H](http://24h.com.vn/) - [Feed](http://www.24h.com.vn/upload/rss/tintuctrongngay.rss)
 - ❌ [Dan Tri](http://dantri.com.vn/) - [Feed](http://dantri.com.vn/giaitri.rss)
@@ -3690,7 +3690,7 @@
 - ❌ [Soha News](http://soha.vn/) - [Feed](http://www.indicine.com/news/soha-ali-khan/feed/)
 - ❌ [Kenh 14](http://kenh14.vn/) - [Feed](http://kenh14.vn/home.rss)
 - ❌ [Vietgiaitri](http://vietgiaitri.com/) - [Feed](http://videos.vietgiaitri.com/?act=rssout&id=6)
-- ❌ [tinmoi](http://tinmoi.vn/) - [Feed](http://www.tinmoi.vn/rss/Tin-tuc.rss)
+- ✅ [tinmoi](http://tinmoi.vn/) - [Feed](http://www.tinmoi.vn/rss/Tin-tuc.rss)
 - ❌ [YuMe](http://yume.vn/) - [Feed](http://www.yume.com/blog/feed/)
 - ❌ [goNews](http://news.go.vn/) - [Feed](http://news.go.vn/rss/2/The-gioi.htm)
 - ❌ [Yahoo! The Gioi Sao](http://vn.thegioisao.yahoo.com/) - [Feed](http://chongtayvoviet.com/trai-tay-muon-lam-quen-ban-gai-viet-nam/feed/)
@@ -3727,7 +3727,7 @@
 - ❌ [Zambian Watchdog](http://www.zambianwatchdog.com/) - [Feed](http://www.zambianwatchdog.com/feed/)
 - ❌ [Tumfweko](http://tumfweko.com/) - [Feed](http://tumfweko.com/feed/)
 - ❌ [Lusaka Times](http://www.lusakatimes.com/) - [Feed](http://feeds.feedburner.com/lusakatimes/hyJU)
-- ✅ [Post](http://postzambia.com/) - [Feed](http://nypost.com/feed/)
+- ❌ [Post](http://postzambia.com/) - [Feed](http://nypost.com/feed/)
 - ❌ [Zambia Daily Mail](http://www.daily-mail.co.zm/) - [Feed](http://www.openzambia.com/2013/08/zambia-daily-mail-state-to-recapitalise-znbc-times-daily-mail/feed/)
 - ❌ [izambia.co.zm](http://www.izambia.co.zm/) - [Feed](http://www.eva-fund.com/tag/eventures-africa-fund/feed)
 - ❌ [Times of Zambia](http://www.times.co.zm/) - [Feed](http://www.times.co.zm/?feed=rss2)
@@ -3760,9 +3760,9 @@
 ## Statistics
 
 ```
-Countries with valid feeds: 141
+Countries with valid feeds: 140
 Total publications parsed: 2881
-Valid feeds (✅): 690
-Invalid/Outdated feeds (❌): 2191
+Valid feeds (✅): 691
+Invalid/Outdated feeds (❌): 2190
 Success rate: 24.0%
 ```

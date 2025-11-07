@@ -6279,49 +6279,57 @@
       "publication_name": "The Hindu",
       "category": "All",
       "publication_website_uri": "https://www.thehindu.com/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "News",
       "publication_website_uri": "https://www.thehindu.com/news/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/news/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/news/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "India",
       "publication_website_uri": "https://www.thehindu.com/news/national/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/news/national/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "World",
       "publication_website_uri": "https://www.thehindu.com/news/international/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/news/international/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "States",
       "publication_website_uri": "https://www.thehindu.com/news/states/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/news/states/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/news/states/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "Cities",
       "publication_website_uri": "https://www.thehindu.com/news/cities/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/news/cities/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/news/cities/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "Opinion",
       "publication_website_uri": "https://www.thehindu.com/opinion/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/opinion/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/opinion/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "Business",
       "publication_website_uri": "https://www.thehindu.com/business/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/business/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/business/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
@@ -6333,19 +6341,22 @@
       "publication_name": "The Hindu",
       "category": "Entertainment",
       "publication_website_uri": "https://www.thehindu.com/entertainment/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/entertainment/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/entertainment/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "Science",
       "publication_website_uri": "https://www.thehindu.com/sci-tech/science/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "The Hindu",
       "category": "Life & Style",
       "publication_website_uri": "https://www.thehindu.com/life-and-style/",
-      "publication_rss_feed_uri": "https://www.thehindu.com/life-and-style/feeder/default.rss"
+      "publication_rss_feed_uri": "https://www.thehindu.com/life-and-style/feeder/default.rss",
+      "bot_protection": true
     },
     {
       "publication_name": "India Today",

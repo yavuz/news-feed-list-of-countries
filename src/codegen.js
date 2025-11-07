@@ -240,6 +240,10 @@ async function generateMarkdown() {
           publication_website_uri: pub.publication_website_uri,
           publication_rss_feed_uri: pub.publication_rss_feed_uri
         };
+        // Include category if present
+        if (pub.category) {
+          feed.category = pub.category;
+        }
         // Include bot_protection flag if present
         if (pub.bot_protection === true) {
           feed.bot_protection = true;
