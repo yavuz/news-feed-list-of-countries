@@ -357,11 +357,6 @@
       "publication_rss_feed_uri": "https://www.lalibre.be/rss"
     },
     {
-      "publication_name": "De Standaard",
-      "publication_website_uri": "https://www.standaard.be/",
-      "publication_rss_feed_uri": "https://www.standaard.be/rss"
-    },
-    {
       "publication_name": "DH",
       "publication_website_uri": "https://www.dhnet.be/",
       "publication_rss_feed_uri": "https://www.dhnet.be/arc/outboundfeeds/rss/?outputType=xml"
@@ -684,11 +679,6 @@
       "publication_rss_feed_uri": "http://feeds.feedburner.com/FP_TopStories"
     },
     {
-      "publication_name": "Ottawa Sun",
-      "publication_website_uri": "https://ottawasun.com/",
-      "publication_rss_feed_uri": "https://ottawasun.com/feed/"
-    },
-    {
       "publication_name": "Province",
       "publication_website_uri": "https://www.theprovince.com/",
       "publication_rss_feed_uri": "https://theprovince.com/feed/"
@@ -954,11 +944,6 @@
     }
   ],
   "DOM": [
-    {
-      "publication_name": "Remolacha.net",
-      "publication_website_uri": "http://remolacha.net/",
-      "publication_rss_feed_uri": "http://remolacha.net/feed/"
-    },
     {
       "publication_name": "Almomento.net",
       "publication_website_uri": "http://almomento.net/",
@@ -3317,11 +3302,6 @@
   ],
   "MLT": [
     {
-      "publication_name": "Times of Malta",
-      "publication_website_uri": "http://timesofmalta.com/",
-      "publication_rss_feed_uri": "http://www.timesofmalta.com/rss"
-    },
-    {
       "publication_name": "Malta Today",
       "publication_website_uri": "http://maltatoday.com.mt/",
       "publication_rss_feed_uri": "http://www.maltatoday.com.mt/rss/"
@@ -3823,11 +3803,6 @@
       "publication_rss_feed_uri": "https://newsnblogs.com/feed/"
     },
     {
-      "publication_name": "UrduPoint.com All Urdu News",
-      "publication_website_uri": "https://www.urdupoint.com/",
-      "publication_rss_feed_uri": "https://www.urdupoint.com/rss/urdupoint.rss"
-    },
-    {
       "publication_name": "ایکسپریس اردو",
       "publication_website_uri": "https://www.express.pk/",
       "publication_rss_feed_uri": "https://www.express.pk/feed/"
@@ -4036,11 +4011,6 @@
       "publication_name": "TVI",
       "publication_website_uri": "https://tvi.iol.pt/",
       "publication_rss_feed_uri": "https://tvi.iol.pt/rss.xml"
-    },
-    {
-      "publication_name": "Renascença",
-      "publication_website_uri": "https://rr.sapo.pt/",
-      "publication_rss_feed_uri": "https://rr.pt/rss/rssfeed.aspx?section=section_noticias"
     },
     {
       "publication_name": "Notícias ao Minuto",
@@ -4600,11 +4570,6 @@
       "publication_rss_feed_uri": "https://e00-marca.uecdn.es/rss/portada.xml"
     },
     {
-      "publication_name": "The Local",
-      "publication_website_uri": "https://feeds.thelocal.com/",
-      "publication_rss_feed_uri": "https://feeds.thelocal.com/rss/es"
-    },
-    {
       "publication_name": "El Periódico - portada",
       "publication_website_uri": "https://www.elperiodico.com/",
       "publication_rss_feed_uri": "https://www.elperiodico.com/es/rss/rss_portada.xml"
@@ -5135,11 +5100,6 @@
       "publication_name": "El Observador",
       "publication_website_uri": "https://elobservador.com.uy/",
       "publication_rss_feed_uri": "https://www.elobservador.com.uy/rss/pages/ultimo-momento.xml"
-    },
-    {
-      "publication_name": "Montevideo Portal",
-      "publication_website_uri": "https://www.montevideo.com.uy/",
-      "publication_rss_feed_uri": "https://www.montevideo.com.uy/anxml.aspx?58"
     },
     {
       "publication_name": "La Diaria",
@@ -5982,12 +5942,6 @@
       "publication_name": "Interior Design (Interior Architecture)",
       "publication_website_uri": "https://www.reddit.com/",
       "publication_rss_feed_uri": "https://www.reddit.com/r/InteriorDesign/.rss",
-      "category": "Interior design"
-    },
-    {
-      "publication_name": "Interiors – Dezeen",
-      "publication_website_uri": "https://www.dezeen.com/",
-      "publication_rss_feed_uri": "https://www.dezeen.com/interiors/feed/",
       "category": "Interior design"
     },
     {
