@@ -44,7 +44,7 @@ function slugify(country) {
 function generateTableOfContents(countryCodes) {
   let toc = '## Table of Contents\n';
   countryCodes.forEach(code => {
-    const countryName = countries.getName(code, 'en') || code;
+    const countryName = code === 'GLOBAL' ? 'Global' : (countries.getName(code, 'en') || code);
     toc += `- [${countryName}](#${slugify(countryName)})\n`;
   });
   return toc + '\n';
@@ -57,7 +57,7 @@ function generateTableOfContents(countryCodes) {
  * @returns {string} - The markdown content for the country section
  */
 function generateCountrySection(countryCode, publications) {
-  const countryName = countries.getName(countryCode, 'en') || countryCode;
+  const countryName = countryCode === 'GLOBAL' ? 'Global' : (countries.getName(countryCode, 'en') || countryCode);
   let section = `## ${countryName}\n\n`;
 
   publications.forEach(pub => {
@@ -104,23 +104,26 @@ async function generateMarkdown() {
   let totalFeeds = 0;
   let validFeeds = 0;
 
-  // Split countries into chunks for each worker
-  const allCountries = Object.keys(data);
-  const chunkSize = Math.ceil(allCountries.length / PARALLEL_WORKERS);
-  const countryChunks = [];
+  // Sort countries by feed count (descending) for better distribution
+  const allCountries = Object.keys(data).sort((a, b) => data[b].length - data[a].length);
 
-  for (let i = 0; i < PARALLEL_WORKERS; i++) {
-    const start = i * chunkSize;
-    const chunk = allCountries.slice(start, start + chunkSize);
-    if (chunk.length > 0) {
-      countryChunks.push(chunk);
+  // Initialize worker chunks with feed counts
+  const countryChunks = Array.from({ length: PARALLEL_WORKERS }, () => []);
+  const feedsPerWorker = Array(PARALLEL_WORKERS).fill(0);
+
+  // Distribute countries using greedy algorithm - assign each country to the worker with fewest feeds
+  for (const country of allCountries) {
+    const feedCount = data[country].length;
+    // Find worker with minimum feeds
+    let minWorkerIndex = 0;
+    for (let i = 1; i < PARALLEL_WORKERS; i++) {
+      if (feedsPerWorker[i] < feedsPerWorker[minWorkerIndex]) {
+        minWorkerIndex = i;
+      }
     }
+    countryChunks[minWorkerIndex].push(country);
+    feedsPerWorker[minWorkerIndex] += feedCount;
   }
-
-  // Calculate feeds per worker for progress bars
-  const feedsPerWorker = countryChunks.map(chunk =>
-    chunk.reduce((sum, country) => sum + data[country].length, 0)
-  );
 
   totalFeeds = feedsPerWorker.reduce((a, b) => a + b, 0);
 
@@ -204,8 +207,11 @@ async function generateMarkdown() {
   // Generate markdown content
   console.log('\n📝 Generating README.md file...');
 
-  // Sort country codes by their English names
+  // Sort country codes by their English names, with GLOBAL at the end
   const countryCodes = Object.keys(validatedData).sort((a, b) => {
+    // GLOBAL should always be at the end
+    if (a === 'GLOBAL') return 1;
+    if (b === 'GLOBAL') return -1;
     const nameA = countries.getName(a, 'en') || a;
     const nameB = countries.getName(b, 'en') || b;
     return nameA.localeCompare(nameB);

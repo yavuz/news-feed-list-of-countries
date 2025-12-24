@@ -42,6 +42,11 @@
   ],
   "AND": [
     {
+      "publication_name": "ANA",
+      "publication_website_uri": "http://www.ana.ad/",
+      "publication_rss_feed_uri": "http://www.fotomac.com.tr/rss/anasayfa.xml"
+    },
+    {
       "publication_name": "Diari Més",
       "publication_website_uri": "http://www.mes.ad/",
       "publication_rss_feed_uri": "http://www.bondia.ad/rss.xml"
@@ -154,13 +159,6 @@
       "publication_name": "Civilnet.am",
       "publication_website_uri": "http://civilnet.am/",
       "publication_rss_feed_uri": "http://civilnet.am/feed/"
-    }
-  ],
-  "ABW": [
-    {
-      "publication_name": "AWE 24",
-      "publication_website_uri": "http://awe24.com/",
-      "publication_rss_feed_uri": "http://www.awe24.com/rss"
     }
   ],
   "AUS": [
@@ -313,6 +311,11 @@
       "publication_rss_feed_uri": "http://www.kalerkantho.com/rss.xml"
     },
     {
+      "publication_name": "jagonews24.com | rss Feed",
+      "publication_website_uri": "https://www.jagonews24.com/",
+      "publication_rss_feed_uri": "https://www.jagonews24.com/rss/rss.xml"
+    },
+    {
       "publication_name": "kalerkantho Kantho",
       "publication_website_uri": "https://www.kalerkantho.com/",
       "publication_rss_feed_uri": "https://www.kalerkantho.com/rss.xml"
@@ -377,9 +380,19 @@
       "publication_name": "HLN",
       "publication_website_uri": "https://www.hln.be/",
       "publication_rss_feed_uri": "https://www.hln.be/home/rss.xml"
+    },
+    {
+      "publication_name": "7sur7",
+      "publication_website_uri": "https://www.7sur7.be/home/rss.xml",
+      "publication_rss_feed_uri": "https://www.7sur7.be/home/rss.xml"
     }
   ],
   "BLZ": [
+    {
+      "publication_name": "Channel 5",
+      "publication_website_uri": "http://channel5belize.com/",
+      "publication_rss_feed_uri": "http://edition.channel5belize.com/OYE/?feed=rss2&tag=love"
+    },
     {
       "publication_name": "The Reporter",
       "publication_website_uri": "http://www.reporter.bz/",
@@ -389,6 +402,13 @@
       "publication_name": "Amandala",
       "publication_website_uri": "http://amandala.com.bz/",
       "publication_rss_feed_uri": "http://amandala.com.bz/news/feed/"
+    }
+  ],
+  "BEN": [
+    {
+      "publication_name": "Adjinakou",
+      "publication_website_uri": "http://www.journal-adjinakou-benin.info/",
+      "publication_rss_feed_uri": "http://mediaf.org/?feed=rss2&tag=charles-honvoh-adjinakou"
     }
   ],
   "BMU": [
@@ -444,11 +464,6 @@
       "publication_rss_feed_uri": "http://rss.home.uol.com.br/index.xml"
     },
     {
-      "publication_name": "Folha de S.Paulo",
-      "publication_website_uri": "https://www.folha.uol.com.br/",
-      "publication_rss_feed_uri": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"
-    },
-    {
       "publication_name": "O Globo",
       "publication_website_uri": "https://oglobo.globo.com/",
       "publication_rss_feed_uri": "https://oglobo.globo.com/rss/oglobo"
@@ -462,6 +477,21 @@
       "publication_name": "Estadão",
       "publication_website_uri": "https://www.estadao.com.br/",
       "publication_rss_feed_uri": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/"
+    },
+    {
+      "publication_name": "globoesporte.com",
+      "publication_website_uri": "http://globoesporte.globo.com/",
+      "publication_rss_feed_uri": "https://ge.globo.com/rss/ge"
+    },
+    {
+      "publication_name": "G1",
+      "publication_website_uri": "http://g1.globo.com/",
+      "publication_rss_feed_uri": "https://g1.globo.com/rss/g1/"
+    },
+    {
+      "publication_name": "Extra",
+      "publication_website_uri": "http://extra.globo.com/",
+      "publication_rss_feed_uri": "https://extra.globo.com/rss/extra"
     },
     {
       "publication_name": "Jornal de Brasília",
@@ -531,11 +561,6 @@
       "publication_rss_feed_uri": "http://www.dnevnik.bg/rss/"
     },
     {
-      "publication_name": "Fakti",
-      "publication_website_uri": "http://fakti.bg/",
-      "publication_rss_feed_uri": "http://www.fakti.org/rss.xml"
-    },
-    {
       "publication_name": "Actualno",
       "publication_website_uri": "http://actualno.com/",
       "publication_rss_feed_uri": "http://rss.actualno.com/2"
@@ -594,11 +619,6 @@
       "publication_rss_feed_uri": "https://ici.radio-canada.ca/rss/4159"
     },
     {
-      "publication_name": "Toronto Star",
-      "publication_website_uri": "https://www.thestar.com/",
-      "publication_rss_feed_uri": "https://www.thestar.com/search/?f=rss&t=article&bl=2827101&l=20"
-    },
-    {
       "publication_name": "National Post",
       "publication_website_uri": "https://www.nationalpost.com/",
       "publication_rss_feed_uri": "https://nationalpost.com/feed/"
@@ -637,6 +657,16 @@
       "publication_name": "Montreal Gazette",
       "publication_website_uri": "https://montrealgazette.com/",
       "publication_rss_feed_uri": "https://montrealgazette.com/feed/"
+    },
+    {
+      "publication_name": "Edmonton Sun",
+      "publication_website_uri": "https://www.edmontonsun.com/",
+      "publication_rss_feed_uri": "https://edmontonsun.com/feed"
+    },
+    {
+      "publication_name": "Calgary Sun",
+      "publication_website_uri": "https://www.calgarysun.com/",
+      "publication_rss_feed_uri": "https://calgarysun.com/feed"
     },
     {
       "publication_name": "Canada.com",
@@ -728,6 +758,11 @@
   ],
   "CHL": [
     {
+      "publication_name": "BioBioChile",
+      "publication_website_uri": "https://biobiochile.cl/",
+      "publication_rss_feed_uri": "https://feeds.feedburner.com/radiobiobio/NNeJ"
+    },
+    {
       "publication_name": "The Clinic",
       "publication_website_uri": "https://www.theclinic.cl/",
       "publication_rss_feed_uri": "https://www.theclinic.cl/feed/"
@@ -736,6 +771,21 @@
       "publication_name": "Diario Financiero",
       "publication_website_uri": "https://www.df.cl/",
       "publication_rss_feed_uri": "https://www.df.cl/noticias/site/list/port/rss.xml"
+    },
+    {
+      "publication_name": "Publimetro",
+      "publication_website_uri": "https://publimetro.cl/",
+      "publication_rss_feed_uri": "https://www.publimetro.cl/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "publication_name": "El Siglo",
+      "publication_website_uri": "https://elsiglo.cl/",
+      "publication_rss_feed_uri": "https://elsiglo.cl/feed/"
+    },
+    {
+      "publication_name": "La Nación",
+      "publication_website_uri": "https://lanacion.cl/",
+      "publication_rss_feed_uri": "https://www.lanacion.cl/feed/"
     }
   ],
   "COL": [
@@ -751,11 +801,6 @@
     }
   ],
   "CRI": [
-    {
-      "publication_name": "everardoherrera.com",
-      "publication_website_uri": "http://everardoherrera.com/",
-      "publication_rss_feed_uri": "http://everardoherrera.com/index.php?format=feed&type=rss"
-    },
     {
       "publication_name": "El Financiero",
       "publication_website_uri": "http://elfinancierocr.com/",
@@ -889,21 +934,6 @@
   ],
   "DNK": [
     {
-      "publication_name": "Ekstra Bladet",
-      "publication_website_uri": "http://ekstrabladet.dk/",
-      "publication_rss_feed_uri": "http://ekstrabladet.dk/rssfeed/all/"
-    },
-    {
-      "publication_name": "BT",
-      "publication_website_uri": "http://bt.dk/",
-      "publication_rss_feed_uri": "http://www.bt.dk/bt/seneste/rss"
-    },
-    {
-      "publication_name": "Nordjyske.dk",
-      "publication_website_uri": "http://nordjyske.dk/",
-      "publication_rss_feed_uri": "http://www.nordjyske.dk/RSS/forside"
-    },
-    {
       "publication_name": "Borsen.",
       "publication_website_uri": "http://borsen.dk/",
       "publication_rss_feed_uri": "http://borsen.dk/rss/"
@@ -921,11 +951,6 @@
       "publication_name": "Dominica News",
       "publication_website_uri": "http://dominicanewsonline.com/",
       "publication_rss_feed_uri": "http://dominicanewsonline.com/news/feed/"
-    },
-    {
-      "publication_name": "DBS Radio",
-      "publication_website_uri": "http://www.dbcradio.net/",
-      "publication_rss_feed_uri": "http://news.dbcradio.net/feed/"
     }
   ],
   "DOM": [
@@ -951,6 +976,11 @@
     }
   ],
   "ECU": [
+    {
+      "publication_name": "El Comercio",
+      "publication_website_uri": "https://elcomercio.pe/",
+      "publication_rss_feed_uri": "https://www.elcomercio.com/feed/"
+    },
     {
       "publication_name": "El Universo",
       "publication_website_uri": "https://eluniverso.com/",
@@ -1081,9 +1111,9 @@
   ],
   "ERI": [
     {
-      "publication_name": "VOA Tigrigna",
-      "publication_website_uri": "http://tigrigna.voanews.com/",
-      "publication_rss_feed_uri": "http://tigrigna.voanews.com/podcast/?count=50&zoneId=3315"
+      "publication_name": "Asmarino Independent",
+      "publication_website_uri": "http://www.asmarino.com/",
+      "publication_rss_feed_uri": "http://asmarino.com/?format=feed&type=rss"
     },
     {
       "publication_name": "Eritrea Profile",
@@ -1134,11 +1164,6 @@
   ],
   "FIN": [
     {
-      "publication_name": "Ilta-Sanomat",
-      "publication_website_uri": "http://iltasanomat.fi/",
-      "publication_rss_feed_uri": "http://www.iltasanomat.fi/rss/uutiset.xml"
-    },
-    {
       "publication_name": "Iltalehti.fi",
       "publication_website_uri": "http://iltalehti.fi/",
       "publication_rss_feed_uri": "http://www.iltalehti.fi/rss/uutiset.xml"
@@ -1157,6 +1182,16 @@
       "publication_name": "Turun Sanomat",
       "publication_website_uri": "http://ts.fi/",
       "publication_rss_feed_uri": "http://www.ts.fi/rss.xml"
+    },
+    {
+      "publication_name": "Stara",
+      "publication_website_uri": "http://stara.fi/",
+      "publication_rss_feed_uri": "http://www.stara.fi/kilpailut/ystavanpaiva/feed/"
+    },
+    {
+      "publication_name": "Talouselama",
+      "publication_website_uri": "http://talouselama.fi/",
+      "publication_rss_feed_uri": "http://www.talouselama.fi/rss.xml"
     }
   ],
   "FRA": [
@@ -1199,6 +1234,11 @@
       "publication_name": "Mediapart",
       "publication_website_uri": "https://www.mediapart.fr/",
       "publication_rss_feed_uri": "https://www.mediapart.fr/articles/feed"
+    },
+    {
+      "publication_name": "The Local",
+      "publication_website_uri": "https://www.thelocal.fr",
+      "publication_rss_feed_uri": "https://www.thelocal.fr/feeds/rss.php"
     },
     {
       "publication_name": "20 Minutes",
@@ -1410,13 +1450,6 @@
       "publication_rss_feed_uri": "http://www.megatv.com/rss.asp?catid=13480&subid=20120"
     }
   ],
-  "GUM": [
-    {
-      "publication_name": "KUAM News",
-      "publication_website_uri": "http://www.kuam.com/",
-      "publication_rss_feed_uri": "http://www.kuam.com/Global/category.asp?C=164100&clienttype=rss"
-    }
-  ],
   "GTM": [
     {
       "publication_name": "Plaza Publica",
@@ -1431,9 +1464,21 @@
       "publication_rss_feed_uri": "http://guineenews.org/feed/"
     },
     {
+      "publication_name": "Radio Kankan",
+      "publication_website_uri": "http://www.radio-kankan.com/",
+      "publication_rss_feed_uri": "http://guineematin.com/category/ma-region/haute-guinee/kankan/feed/"
+    },
+    {
       "publication_name": "Radio Nostalgie Guin",
       "publication_website_uri": "http://www.nostalgieguinee.net/",
       "publication_rss_feed_uri": "http://rss.wn.com/French/related-articles/2014/12/08/les_personnes_seules_sont_les_plus_touchees/"
+    }
+  ],
+  "GUY": [
+    {
+      "publication_name": "Kaieteur News",
+      "publication_website_uri": "http://kaieteurnewsonline.com/",
+      "publication_rss_feed_uri": "http://www.kaieteurnewsonline.com/feed/"
     }
   ],
   "HTI": [
@@ -1485,6 +1530,16 @@
       "publication_name": "Blikk",
       "publication_website_uri": "http://blikk.hu/",
       "publication_rss_feed_uri": "http://www.blikk.hu/rss/blikk"
+    },
+    {
+      "publication_name": "Velvet",
+      "publication_website_uri": "http://velvet.hu/",
+      "publication_rss_feed_uri": "http://velvet.hu/24ora/rss/"
+    },
+    {
+      "publication_name": "Sport Geza",
+      "publication_website_uri": "http://sportgeza.hu/",
+      "publication_rss_feed_uri": "http://sportgeza.hu/24ora/rss/"
     },
     {
       "publication_name": "Nepszava",
@@ -2855,6 +2910,11 @@
       "publication_rss_feed_uri": "http://www.hamshahrionline.ir/rss"
     },
     {
+      "publication_name": "Asriran.com",
+      "publication_website_uri": "http://asriran.com/",
+      "publication_rss_feed_uri": "http://www.asriran.com/fa/rss/allnews"
+    },
+    {
       "publication_name": "خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC",
       "publication_website_uri": "https://www.yjc.ir/",
       "publication_rss_feed_uri": "https://www.yjc.ir/fa/rss/allnews"
@@ -3108,13 +3168,6 @@
       "publication_rss_feed_uri": "http://www.evropaelire.org/api/ayiiyqveqjiyqv"
     }
   ],
-  "KWT": [
-    {
-      "publication_name": "Alanba",
-      "publication_website_uri": "http://alanba.com.kw/",
-      "publication_rss_feed_uri": "http://www.alanba.com.kw/rss/art-news"
-    }
-  ],
   "KGZ": [
     {
       "publication_name": "AKIpress",
@@ -3264,6 +3317,11 @@
   ],
   "MLT": [
     {
+      "publication_name": "Times of Malta",
+      "publication_website_uri": "http://timesofmalta.com/",
+      "publication_rss_feed_uri": "http://www.timesofmalta.com/rss"
+    },
+    {
       "publication_name": "Malta Today",
       "publication_website_uri": "http://maltatoday.com.mt/",
       "publication_rss_feed_uri": "http://www.maltatoday.com.mt/rss/"
@@ -3328,6 +3386,11 @@
       "publication_name": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
       "publication_website_uri": "https://www.informador.mx/",
       "publication_rss_feed_uri": "https://www.informador.mx/rss/ultimas-noticias.xml"
+    },
+    {
+      "publication_name": "24 Horas",
+      "publication_website_uri": "https://www.24-horas.mx/",
+      "publication_rss_feed_uri": "https://www.24-horas.mx/feed/"
     },
     {
       "publication_name": "Mexico News Daily",
@@ -3598,11 +3661,6 @@
       "publication_name": "Otago Daily Times",
       "publication_website_uri": "http://odt.co.nz/",
       "publication_rss_feed_uri": "http://www.odt.co.nz/news/feed"
-    },
-    {
-      "publication_name": "Scoop",
-      "publication_website_uri": "http://scoop.co.nz/",
-      "publication_rss_feed_uri": "http://www.scoop.co.nz/storyindex/index.rss?s.c=HL"
     }
   ],
   "NIC": [
@@ -3613,6 +3671,11 @@
     }
   ],
   "NER": [
+    {
+      "publication_name": "Tam Tam Info",
+      "publication_website_uri": "http://tamtaminfo.com/",
+      "publication_rss_feed_uri": "http://www.tamtaminfo.com/feed/"
+    },
     {
       "publication_name": "Niger Diaspora",
       "publication_website_uri": "http://nigerdiaspora.info/",
@@ -3730,6 +3793,11 @@
       "publication_rss_feed_uri": "http://www.pakistantoday.com.pk/feed/"
     },
     {
+      "publication_name": "Daily Times",
+      "publication_website_uri": "http://dailytimes.com.pk/",
+      "publication_rss_feed_uri": "http://www.dailytimes.com.pk/rss_feeds"
+    },
+    {
       "publication_name": "The Express Tribune",
       "publication_website_uri": "https://tribune.com.pk/",
       "publication_rss_feed_uri": "https://tribune.com.pk/feed/home"
@@ -3834,6 +3902,11 @@
       "publication_name": "Interaksyon",
       "publication_website_uri": "https://www.interaksyon.com/",
       "publication_rss_feed_uri": "https://www.interaksyon.com/feed/"
+    },
+    {
+      "publication_name": "philstar.com - RSS Headlines",
+      "publication_website_uri": "https://www.philstar.com/",
+      "publication_rss_feed_uri": "https://www.philstar.com/rss/headlines"
     },
     {
       "publication_name": "GMA News Online / News",
@@ -3980,9 +4053,9 @@
       "publication_rss_feed_uri": "https://www.iol.pt/rss.xml"
     },
     {
-      "publication_name": "Jornal Económico",
-      "publication_website_uri": "https://jornaleconomico.sapo.pt/",
-      "publication_rss_feed_uri": "https://jornaleconomico.sapo.pt/feed"
+      "publication_name": "Jornal de Negocios",
+      "publication_website_uri": "https://www.jornaldenegocios.pt/",
+      "publication_rss_feed_uri": "https://www.jornaldenegocios.pt/rss"
     },
     {
       "publication_name": "Observador",
@@ -4026,13 +4099,6 @@
       "publication_name": "Noti Uno 630 AM",
       "publication_website_uri": "http://notiuno.com/",
       "publication_rss_feed_uri": "http://estrella51.blogspot.com/feeds/posts/default?alt=rss"
-    }
-  ],
-  "QAT": [
-    {
-      "publication_name": "Doha News",
-      "publication_website_uri": "http://dohanews.co/",
-      "publication_rss_feed_uri": "http://feeds.feedburner.com/DohaNews"
     }
   ],
   "GMB": [
@@ -4126,6 +4192,11 @@
       "publication_rss_feed_uri": "https://lenta.ru/rss"
     },
     {
+      "publication_name": "Все материалы - Московский Комсомолец",
+      "publication_website_uri": "https://www.mk.ru/",
+      "publication_rss_feed_uri": "https://www.mk.ru/rss/index.xml"
+    },
+    {
       "publication_name": "Российская Газета",
       "publication_website_uri": "https://rg.ru/",
       "publication_rss_feed_uri": "https://rg.ru/xml/index.xml"
@@ -4146,6 +4217,11 @@
       "publication_rss_feed_uri": "https://meduza.io/rss/all"
     },
     {
+      "publication_name": "TASS",
+      "publication_website_uri": "http://tass.com/",
+      "publication_rss_feed_uri": "http://tass.com/rss/v2.xml"
+    },
+    {
       "publication_name": "The Moscow Times - Independent News From Russia",
       "publication_website_uri": "https://www.themoscowtimes.com/",
       "publication_rss_feed_uri": "https://www.themoscowtimes.com/rss/news"
@@ -4163,6 +4239,13 @@
       "publication_rss_feed_uri": "http://zizonline.com/feed/"
     }
   ],
+  "WSM": [
+    {
+      "publication_name": "Samoa News",
+      "publication_website_uri": "http://www.samoanews.com/",
+      "publication_rss_feed_uri": "http://www.samoanews.com/?q=rss.xml&quicktabs_3=0"
+    }
+  ],
   "SMR": [
     {
       "publication_name": "Giornale.sm",
@@ -4173,13 +4256,6 @@
       "publication_name": "San Marino RTV (SMRTV)",
       "publication_website_uri": "https://www.sanmarinortv.sm",
       "publication_rss_feed_uri": "https://www.sanmarinortv.sm/rss.xml"
-    }
-  ],
-  "SAU": [
-    {
-      "publication_name": "Aawsat",
-      "publication_website_uri": "http://aawsat.com/",
-      "publication_rss_feed_uri": "http://aawsat.com/feed"
     }
   ],
   "SEN": [
@@ -4197,6 +4273,16 @@
       "publication_name": "Xalimasn.com",
       "publication_website_uri": "http://xalimasn.com/",
       "publication_rss_feed_uri": "http://xalimasn.com/une-refutation-des-theses-de-lanimateur-tekhe-gaye-et-autres-porte-propagandes-sur-les-supposes-60-milliards-de-aliou-sall/feed/"
+    },
+    {
+      "publication_name": "PressAfrik",
+      "publication_website_uri": "http://www.pressafrik.com/",
+      "publication_rss_feed_uri": "http://www.sanslimitesn.com/tag/exclusivite-pressafrik-com/feed/"
+    },
+    {
+      "publication_name": "WIW Sport",
+      "publication_website_uri": "http://wiwsport.com/",
+      "publication_rss_feed_uri": "http://www.wiwsport.com/rss/fluxrss.xml"
     }
   ],
   "SRB": [
@@ -4204,6 +4290,16 @@
       "publication_name": "Blic",
       "publication_website_uri": "http://blic.rs/",
       "publication_rss_feed_uri": "http://www.blic.rs/rss/danasnje-vesti"
+    },
+    {
+      "publication_name": "Kurir",
+      "publication_website_uri": "http://kurir-info.rs/",
+      "publication_rss_feed_uri": "http://www.kurir-info.rs/rss/zabava/"
+    },
+    {
+      "publication_name": "Novosti",
+      "publication_website_uri": "http://novosti.rs/",
+      "publication_rss_feed_uri": "http://www.novosti.rs/rss/rss-vesti"
     },
     {
       "publication_name": "RTS",
@@ -4219,11 +4315,6 @@
       "publication_name": "naslovi.net",
       "publication_website_uri": "http://naslovi.net/",
       "publication_rss_feed_uri": "http://www.naslovi.net/rss/politika/"
-    },
-    {
-      "publication_name": "S Media",
-      "publication_website_uri": "http://smedia.rs/",
-      "publication_rss_feed_uri": "http://feeds.wnyc.org/onthemedia"
     },
     {
       "publication_name": "Danas",
@@ -4405,11 +4496,6 @@
       "publication_name": "DongA.com",
       "publication_website_uri": "http://donga.com/",
       "publication_rss_feed_uri": "http://rss.donga.com/sports.xml"
-    },
-    {
-      "publication_name": "Herald News",
-      "publication_website_uri": "http://heraldm.com/",
-      "publication_rss_feed_uri": "http://www.smh.com.au/rssheadlines/top.xml"
     }
   ],
   "ESP": [
@@ -4429,14 +4515,14 @@
       "publication_rss_feed_uri": "https://e00-elmundo.uecdn.es/rss/portada.xml"
     },
     {
+      "publication_name": "Antena 3",
+      "publication_website_uri": "https://www.antena3.com/",
+      "publication_rss_feed_uri": "https://www.antena3.com/noticias/rss/4013050.xml"
+    },
+    {
       "publication_name": "LaVanguardia.com",
       "publication_website_uri": "https://lavanguardia.com/",
       "publication_rss_feed_uri": "https://www.lavanguardia.com/rss/home.xml"
-    },
-    {
-      "publication_name": "La Razon",
-      "publication_website_uri": "https://larazon.es/",
-      "publication_rss_feed_uri": "https://www.larazon.es/?outputType=xml"
     },
     {
       "publication_name": "elEconomista.es",
@@ -4452,11 +4538,6 @@
       "publication_name": "Diario Expansion",
       "publication_website_uri": "https://expansion.com/",
       "publication_rss_feed_uri": "https://e00-expansion.uecdn.es/rss/portada.xml"
-    },
-    {
-      "publication_name": "Invertia",
-      "publication_website_uri": "https://www.elespanol.com/invertia/",
-      "publication_rss_feed_uri": "https://www.elespanol.com/rss/invertia/"
     },
     {
       "publication_name": "El Confidencial",
@@ -4559,6 +4640,16 @@
     }
   ],
   "SUR": [
+    {
+      "publication_name": "Starnieuws",
+      "publication_website_uri": "http://starnieuws.com/",
+      "publication_rss_feed_uri": "http://www.starnieuws.com/rss/starnieuws.rss"
+    },
+    {
+      "publication_name": "GFC Nieuws",
+      "publication_website_uri": "http://gfcnieuws.com/",
+      "publication_rss_feed_uri": "http://www.gfcnieuws.com/?feed=rss2"
+    },
     {
       "publication_name": "Waterkant.net",
       "publication_website_uri": "http://waterkant.net/",
@@ -4729,6 +4820,16 @@
       "publication_name": "FotoMac",
       "publication_website_uri": "http://fotomac.com.tr/",
       "publication_rss_feed_uri": "http://www.fotomac.com.tr/rss/besiktas.xml"
+    },
+    {
+      "publication_name": "sporx",
+      "publication_website_uri": "http://sporx.com/",
+      "publication_rss_feed_uri": "http://www.sporx.com/_xml/rss.php"
+    },
+    {
+      "publication_name": "STAR",
+      "publication_website_uri": "http://stargazete.com/",
+      "publication_rss_feed_uri": "http://www.stargazete.com/rss/rss.asp"
     },
     {
       "publication_name": "Cumhuriyet.com.tr: Son Dakika",
@@ -4914,11 +5015,6 @@
       "publication_rss_feed_uri": "http://sports.espn.go.com/espn/rss/news"
     },
     {
-      "publication_name": "Fox News",
-      "publication_website_uri": "http://foxnews.com/",
-      "publication_rss_feed_uri": "http://feeds.foxnews.com/foxnews/politics"
-    },
-    {
       "publication_name": "The New York Times",
       "publication_website_uri": "http://nytimes.com/",
       "publication_rss_feed_uri": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
@@ -4979,6 +5075,16 @@
       "publication_rss_feed_uri": "http://www.npr.org/rss/rss.php?id=1004"
     },
     {
+      "publication_name": "SFGate",
+      "publication_website_uri": "http://sfgate.com/",
+      "publication_rss_feed_uri": "http://www.sfgate.com/bayarea/feed/bay-area-news-429.php"
+    },
+    {
+      "publication_name": "TIME.com",
+      "publication_website_uri": "http://time.com/",
+      "publication_rss_feed_uri": "http://time.com/feed/"
+    },
+    {
       "publication_name": "Seeking Alpha",
       "publication_website_uri": "http://seekingalpha.com/",
       "publication_rss_feed_uri": "http://seekingalpha.com/feed.xml"
@@ -5004,9 +5110,9 @@
       "publication_rss_feed_uri": "https://www.huffpost.com/section/world-news/feed"
     },
     {
-      "publication_name": "FOX News",
-      "publication_website_uri": "http://feeds.foxnews.com/",
-      "publication_rss_feed_uri": "http://feeds.foxnews.com/foxnews/latest"
+      "publication_name": "World & Nation",
+      "publication_website_uri": "https://www.latimes.com/",
+      "publication_rss_feed_uri": "https://www.latimes.com/world-nation/rss2.0.xml"
     },
     {
       "publication_name": "Yahoo News - Latest News & Headlines",
@@ -5143,6 +5249,1358 @@
       "publication_name": "ZimEye",
       "publication_website_uri": "http://www.zimeye.org/",
       "publication_rss_feed_uri": "http://www.zimeye.org/feed/"
+    }
+  ],
+  "GLOBAL": [
+    {
+      "publication_name": "Android Developers",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "Android Developers - Medium",
+      "publication_website_uri": "https://medium.com/",
+      "publication_rss_feed_uri": "https://medium.com/feed/androiddevelopers",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "Android in MindOrks on Medium",
+      "publication_website_uri": "https://medium.com/",
+      "publication_rss_feed_uri": "https://medium.com/feed/mindorks/tagged/android",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "Android in The Airbnb Tech Blog on Medium",
+      "publication_website_uri": "https://medium.com/",
+      "publication_rss_feed_uri": "https://medium.com/feed/airbnb-engineering/tagged/android",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "Developing Android Apps",
+      "publication_website_uri": "https://reddit.com/",
+      "publication_rss_feed_uri": "https://reddit.com/r/androiddev.rss",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "Jake Wharton",
+      "publication_website_uri": "https://jakewharton.com/",
+      "publication_rss_feed_uri": "https://jakewharton.com/atom.xml",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "Kt. Academy - Medium",
+      "publication_website_uri": "https://blog.kotlin-academy.com/",
+      "publication_rss_feed_uri": "https://blog.kotlin-academy.com/feed",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "Public Object",
+      "publication_website_uri": "https://publicobject.com/",
+      "publication_rss_feed_uri": "https://publicobject.com/rss/",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "chRyNaN Codes",
+      "publication_website_uri": "https://chrynan.codes/",
+      "publication_rss_feed_uri": "https://chrynan.codes/rss/",
+      "category": "Android Development"
+    },
+    {
+      "publication_name": "All About Android (Audio)",
+      "publication_website_uri": "https://feeds.twit.tv/",
+      "publication_rss_feed_uri": "https://feeds.twit.tv/aaa.xml",
+      "category": "Android"
+    },
+    {
+      "publication_name": "Android",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/android/.rss",
+      "category": "Android"
+    },
+    {
+      "publication_name": "Android Authority",
+      "publication_website_uri": "https://www.androidauthority.com/",
+      "publication_rss_feed_uri": "https://www.androidauthority.com/feed",
+      "category": "Android"
+    },
+    {
+      "publication_name": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
+      "publication_website_uri": "http://feeds.androidcentral.com/",
+      "publication_rss_feed_uri": "http://feeds.androidcentral.com/androidcentral",
+      "category": "Android"
+    },
+    {
+      "publication_name": "Android Police – Android news, reviews, apps, games, phones, tablets",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/AndroidPolice",
+      "category": "Android"
+    },
+    {
+      "publication_name": "Droid Life",
+      "publication_website_uri": "https://www.droid-life.com/",
+      "publication_rss_feed_uri": "https://www.droid-life.com/feed",
+      "category": "Android"
+    },
+    {
+      "publication_name": "GSMArena.com - Latest articles",
+      "publication_website_uri": "https://www.gsmarena.com/",
+      "publication_rss_feed_uri": "https://www.gsmarena.com/rss-news-reviews.php3",
+      "category": "Android"
+    },
+    {
+      "publication_name": "Phandroid",
+      "publication_website_uri": "http://feeds2.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds2.feedburner.com/AndroidPhoneFans",
+      "category": "Android"
+    },
+    {
+      "publication_name": "TalkAndroid",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+      "category": "Android"
+    },
+    {
+      "publication_name": "9to5Mac",
+      "publication_website_uri": "https://9to5mac.com/",
+      "publication_rss_feed_uri": "https://9to5mac.com/feed",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "Apple",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "AppleInsider News",
+      "publication_website_uri": "https://appleinsider.com/",
+      "publication_rss_feed_uri": "https://appleinsider.com/rss/news/",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "Cult of Mac",
+      "publication_website_uri": "https://www.cultofmac.com/",
+      "publication_rss_feed_uri": "https://www.cultofmac.com/feed",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "Daring Fireball",
+      "publication_website_uri": "https://daringfireball.net/",
+      "publication_rss_feed_uri": "https://daringfireball.net/feeds/main",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "MacRumors: Mac News and Rumors - Mac Blog",
+      "publication_website_uri": "http://feeds.macrumors.com/",
+      "publication_rss_feed_uri": "http://feeds.macrumors.com/MacRumors-Mac",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "MacStories",
+      "publication_website_uri": "https://www.macstories.net/",
+      "publication_rss_feed_uri": "https://www.macstories.net/feed",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "Macworld.com",
+      "publication_website_uri": "https://www.macworld.com/",
+      "publication_rss_feed_uri": "https://www.macworld.com/index.rss",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "The unofficial Apple community",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/apple/.rss",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "r/iPhone",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/iphone/.rss",
+      "category": "Apple"
+    },
+    {
+      "publication_name": "A Daily Dose of Architecture Books",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/archidose",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "ArchDaily",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/Archdaily",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "Architectural Digest",
+      "publication_website_uri": "https://www.architecturaldigest.com/",
+      "publication_rss_feed_uri": "https://www.architecturaldigest.com/feed/rss",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "Architecture",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/architecture/.rss",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "Architecture – Dezeen",
+      "publication_website_uri": "https://www.dezeen.com/",
+      "publication_rss_feed_uri": "https://www.dezeen.com/architecture/feed/",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "Design MilkArchitecture – Design Milk",
+      "publication_website_uri": "https://design-milk.com/",
+      "publication_rss_feed_uri": "https://design-milk.com/category/architecture/feed/",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "The Architect’s Newspaper",
+      "publication_website_uri": "https://archpaper.com/",
+      "publication_rss_feed_uri": "https://archpaper.com/feed",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "architecture – designboom | architecture & design magazine",
+      "publication_website_uri": "https://www.designboom.com/",
+      "publication_rss_feed_uri": "https://www.designboom.com/architecture/feed/",
+      "category": "Architecture"
+    },
+    {
+      "publication_name": "Beauty - ELLE",
+      "publication_website_uri": "https://www.elle.com/",
+      "publication_rss_feed_uri": "https://www.elle.com/rss/beauty.xml/",
+      "category": "Beauty"
+    },
+    {
+      "publication_name": "Beauty - Fashionista",
+      "publication_website_uri": "https://fashionista.com/",
+      "publication_rss_feed_uri": "https://fashionista.com/.rss/excerpt/beauty",
+      "category": "Beauty"
+    },
+    {
+      "publication_name": "From Head To Toe",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/frmheadtotoe",
+      "category": "Beauty"
+    },
+    {
+      "publication_name": "Refinery29",
+      "publication_website_uri": "https://www.refinery29.com/",
+      "publication_rss_feed_uri": "https://www.refinery29.com/beauty/rss.xml",
+      "category": "Beauty"
+    },
+    {
+      "publication_name": "BOOK RIOT",
+      "publication_website_uri": "https://bookriot.com/",
+      "publication_rss_feed_uri": "https://bookriot.com/feed/",
+      "category": "Books"
+    },
+    {
+      "publication_name": "Kirkus Reviews",
+      "publication_website_uri": "https://www.kirkusreviews.com/",
+      "publication_rss_feed_uri": "https://www.kirkusreviews.com/feeds/rss/",
+      "category": "Books"
+    },
+    {
+      "publication_name": "Page Array – NewInBooks",
+      "publication_website_uri": "https://www.newinbooks.com/",
+      "publication_rss_feed_uri": "https://www.newinbooks.com/feed/",
+      "category": "Books"
+    },
+    {
+      "publication_name": "So many books, so little time",
+      "publication_website_uri": "https://reddit.com/",
+      "publication_rss_feed_uri": "https://reddit.com/r/books/.rss",
+      "category": "Books"
+    },
+    {
+      "publication_name": "All News",
+      "publication_website_uri": "https://www.investing.com/",
+      "publication_rss_feed_uri": "https://www.investing.com/rss/news.rss",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Breaking News on Seeking Alpha",
+      "publication_website_uri": "https://seekingalpha.com/",
+      "publication_rss_feed_uri": "https://seekingalpha.com/market_currents.xml",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Business Insider",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Economic Times",
+      "publication_website_uri": "https://economictimes.indiatimes.com/",
+      "publication_rss_feed_uri": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Forbes - Business",
+      "publication_website_uri": "https://www.forbes.com/",
+      "publication_rss_feed_uri": "https://www.forbes.com/business/feed/",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Fortune",
+      "publication_website_uri": "https://fortune.com/",
+      "publication_rss_feed_uri": "https://fortune.com/feed",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Startup Stories - Mixergy",
+      "publication_website_uri": "https://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "https://feeds.feedburner.com/Mixergy-main-podcast",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "The Blog of Author Tim Ferriss",
+      "publication_website_uri": "https://tim.blog/",
+      "publication_rss_feed_uri": "https://tim.blog/feed/",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "US Top News and Analysis",
+      "publication_website_uri": "https://www.cnbc.com/",
+      "publication_rss_feed_uri": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Yahoo Finance",
+      "publication_website_uri": "https://finance.yahoo.com/",
+      "publication_rss_feed_uri": "https://finance.yahoo.com/news/rssindex",
+      "category": "Business & Economy"
+    },
+    {
+      "publication_name": "Autocar India - All Bike Reviews",
+      "publication_website_uri": "https://www.autocarindia.com/",
+      "publication_rss_feed_uri": "https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Autocar India - All Car Reviews",
+      "publication_website_uri": "https://www.autocarindia.com/",
+      "publication_rss_feed_uri": "https://www.autocarindia.com/RSS/rss.ashx?type=all_cars",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Autocar India - News",
+      "publication_website_uri": "https://www.autocarindia.com/",
+      "publication_rss_feed_uri": "https://www.autocarindia.com/RSS/rss.ashx?type=News",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Autocar RSS Feed",
+      "publication_website_uri": "https://www.autocar.co.uk/",
+      "publication_rss_feed_uri": "https://www.autocar.co.uk/rss",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "BMW BLOG",
+      "publication_website_uri": "https://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "https://feeds.feedburner.com/BmwBlog",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Bike EXIF",
+      "publication_website_uri": "https://www.bikeexif.com/",
+      "publication_rss_feed_uri": "https://www.bikeexif.com/feed",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Carscoops",
+      "publication_website_uri": "https://www.carscoops.com/",
+      "publication_rss_feed_uri": "https://www.carscoops.com/feed/",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Formula 1",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/formula1/.rss",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Jalopnik",
+      "publication_website_uri": "https://jalopnik.com/",
+      "publication_rss_feed_uri": "https://jalopnik.com/rss",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "Latest Content - Car and Driver",
+      "publication_website_uri": "https://www.caranddriver.com/",
+      "publication_rss_feed_uri": "https://www.caranddriver.com/rss/all.xml/",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "The Truth About Cars",
+      "publication_website_uri": "https://www.thetruthaboutcars.com/",
+      "publication_rss_feed_uri": "https://www.thetruthaboutcars.com/feed/",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "The best vintage and classic cars for sale online | Bring a Trailer",
+      "publication_website_uri": "https://bringatrailer.com/",
+      "publication_rss_feed_uri": "https://bringatrailer.com/feed/",
+      "category": "Cars"
+    },
+    {
+      "publication_name": "BBC Sport - Cricket",
+      "publication_website_uri": "http://feeds.bbci.co.uk/",
+      "publication_rss_feed_uri": "http://feeds.bbci.co.uk/sport/cricket/rss.xml",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Cricbuzz",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Cricket",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/Cricket/.rss",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Cricket news from ESPN Cricinfo.com",
+      "publication_website_uri": "http://www.espncricinfo.com/",
+      "publication_rss_feed_uri": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Cricket | The Guardian",
+      "publication_website_uri": "https://www.theguardian.com/",
+      "publication_rss_feed_uri": "https://www.theguardian.com/sport/cricket/rss",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Cricket – The Roar",
+      "publication_website_uri": "https://www.theroar.com.au/",
+      "publication_rss_feed_uri": "https://www.theroar.com.au/cricket/feed/",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "England & Wales Cricket Board",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=ecbcricket",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "NDTV Sports - Cricket",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/ndtvsports-cricket",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Pakistan Cricket",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Switch Hit Podcast",
+      "publication_website_uri": "https://feeds.megaphone.fm/",
+      "publication_rss_feed_uri": "https://feeds.megaphone.fm/ESP9247246951",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Test Match Special",
+      "publication_website_uri": "https://podcasts.files.bbci.co.uk/",
+      "publication_rss_feed_uri": "https://podcasts.files.bbci.co.uk/p02nrsl2.rss",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Wisden",
+      "publication_website_uri": "https://www.wisden.com/",
+      "publication_rss_feed_uri": "https://www.wisden.com/feed",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "Wisden Cricket Weekly",
+      "publication_website_uri": "http://feeds.soundcloud.com/",
+      "publication_rss_feed_uri": "http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "cricket.com.au",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
+      "category": "Cricket"
+    },
+    {
+      "publication_name": "A Beautiful Mess",
+      "publication_website_uri": "https://abeautifulmess.com/",
+      "publication_rss_feed_uri": "https://abeautifulmess.com/feed",
+      "category": "DIY"
+    },
+    {
+      "publication_name": "Apartment Therapy| Saving the world, one room at a time",
+      "publication_website_uri": "https://www.apartmenttherapy.com/",
+      "publication_rss_feed_uri": "https://www.apartmenttherapy.com/projects.rss",
+      "category": "DIY"
+    },
+    {
+      "publication_name": "Blog – Hackaday",
+      "publication_website_uri": "https://hackaday.com/",
+      "publication_rss_feed_uri": "https://hackaday.com/blog/feed/",
+      "category": "DIY"
+    },
+    {
+      "publication_name": "How-To Geek",
+      "publication_website_uri": "https://www.howtogeek.com/",
+      "publication_rss_feed_uri": "https://www.howtogeek.com/feed/",
+      "category": "DIY"
+    },
+    {
+      "publication_name": "MUO - Feed",
+      "publication_website_uri": "https://www.makeuseof.com/",
+      "publication_rss_feed_uri": "https://www.makeuseof.com/feed/",
+      "category": "DIY"
+    },
+    {
+      "publication_name": "WonderHowTo",
+      "publication_website_uri": "https://www.wonderhowto.com/",
+      "publication_rss_feed_uri": "https://www.wonderhowto.com/rss.xml",
+      "category": "DIY"
+    },
+    {
+      "publication_name": "Fashion - ELLE",
+      "publication_website_uri": "https://www.elle.com/",
+      "publication_rss_feed_uri": "https://www.elle.com/rss/fashion.xml/",
+      "category": "Fashion"
+    },
+    {
+      "publication_name": "Fashion | The Guardian",
+      "publication_website_uri": "https://www.theguardian.com/",
+      "publication_rss_feed_uri": "https://www.theguardian.com/fashion/rss",
+      "category": "Fashion"
+    },
+    {
+      "publication_name": "FashionBeans Men's Fashion and Style Feed",
+      "publication_website_uri": "https://www.fashionbeans.com/",
+      "publication_rss_feed_uri": "https://www.fashionbeans.com/rss-feed/?category=fashion",
+      "category": "Fashion"
+    },
+    {
+      "publication_name": "Fashionista",
+      "publication_website_uri": "https://fashionista.com/",
+      "publication_rss_feed_uri": "https://fashionista.com/.rss/excerpt/",
+      "category": "Fashion"
+    },
+    {
+      "publication_name": "POPSUGAR Fashion",
+      "publication_website_uri": "https://www.popsugar.com/",
+      "publication_rss_feed_uri": "https://www.popsugar.com/fashion/feed",
+      "category": "Fashion"
+    },
+    {
+      "publication_name": "Who What Wear",
+      "publication_website_uri": "https://www.whowhatwear.com/",
+      "publication_rss_feed_uri": "https://www.whowhatwear.com/rss",
+      "category": "Fashion"
+    },
+    {
+      "publication_name": "Babish Culinary Universe",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=bgfilms",
+      "category": "Food"
+    },
+    {
+      "publication_name": "Bon Appétit",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom",
+      "category": "Food"
+    },
+    {
+      "publication_name": "How Sweet Eats",
+      "publication_website_uri": "https://www.howsweeteats.com/",
+      "publication_rss_feed_uri": "https://www.howsweeteats.com/feed/",
+      "category": "Food"
+    },
+    {
+      "publication_name": "Kitchn | Inspiring cooks, nourishing homes",
+      "publication_website_uri": "https://www.thekitchn.com/",
+      "publication_rss_feed_uri": "https://www.thekitchn.com/main.rss",
+      "category": "Food"
+    },
+    {
+      "publication_name": "Skinnytaste",
+      "publication_website_uri": "https://www.skinnytaste.com/",
+      "publication_rss_feed_uri": "https://www.skinnytaste.com/feed/",
+      "category": "Food"
+    },
+    {
+      "publication_name": "EFL Championship",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/Championship/.rss?format=xml",
+      "category": "Football"
+    },
+    {
+      "publication_name": "Football - The People's Sport",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/football/.rss?format=xml",
+      "category": "Football"
+    },
+    {
+      "publication_name": "Soccer News",
+      "publication_website_uri": "https://www.soccernews.com/",
+      "publication_rss_feed_uri": "https://www.soccernews.com/feed",
+      "category": "Football"
+    },
+    {
+      "publication_name": "Cracked: All Posts",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/CrackedRSS",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "FAIL Blog",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/failblog",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "I Can Has Cheezburger?",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/icanhascheezburger",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "Penny Arcade",
+      "publication_website_uri": "https://www.penny-arcade.com/",
+      "publication_rss_feed_uri": "https://www.penny-arcade.com/feed",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "PostSecret",
+      "publication_website_uri": "https://postsecret.com/",
+      "publication_rss_feed_uri": "https://postsecret.com/feed/?alt=rss",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "Saturday Morning Breakfast Cereal",
+      "publication_website_uri": "https://www.smbc-comics.com/",
+      "publication_rss_feed_uri": "https://www.smbc-comics.com/comic/rss",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "The Bloggess",
+      "publication_website_uri": "https://thebloggess.com/",
+      "publication_rss_feed_uri": "https://thebloggess.com/feed/",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "The Daily WTF",
+      "publication_website_uri": "http://syndication.thedailywtf.com/",
+      "publication_rss_feed_uri": "http://syndication.thedailywtf.com/TheDailyWtf",
+      "category": "Funny"
+    },
+    {
+      "publication_name": "Escapist Magazine",
+      "publication_website_uri": "https://www.escapistmagazine.com/",
+      "publication_rss_feed_uri": "https://www.escapistmagazine.com/v2/feed/",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "Eurogamer.net",
+      "publication_website_uri": "https://www.eurogamer.net/",
+      "publication_rss_feed_uri": "https://www.eurogamer.net/?format=rss",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "GameSpot - All Content",
+      "publication_website_uri": "https://www.gamespot.com/",
+      "publication_rss_feed_uri": "https://www.gamespot.com/feeds/mashup/",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "IGN All",
+      "publication_website_uri": "http://feeds.ign.com/",
+      "publication_rss_feed_uri": "http://feeds.ign.com/ign/all",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "Kotaku",
+      "publication_website_uri": "https://kotaku.com/",
+      "publication_rss_feed_uri": "https://kotaku.com/rss",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "Polygon -  All",
+      "publication_website_uri": "https://www.polygon.com/",
+      "publication_rss_feed_uri": "https://www.polygon.com/rss/index.xml",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "Rock, Paper, Shotgun",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/RockPaperShotgun",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "Steam RSS News Feed",
+      "publication_website_uri": "https://store.steampowered.com/",
+      "publication_rss_feed_uri": "https://store.steampowered.com/feeds/news.xml",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "Xbox's Major Nelson",
+      "publication_website_uri": "https://majornelson.com/",
+      "publication_rss_feed_uri": "https://majornelson.com/feed/",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "r/gaming",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/gaming.rss",
+      "category": "Gaming"
+    },
+    {
+      "publication_name": "Apartment Therapy| Saving the world, one room at a time",
+      "publication_website_uri": "https://www.apartmenttherapy.com/",
+      "publication_rss_feed_uri": "https://www.apartmenttherapy.com/design.rss",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "Design MilkInterior Design – Design Milk",
+      "publication_website_uri": "https://design-milk.com/",
+      "publication_rss_feed_uri": "https://design-milk.com/category/interior-design/feed/",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "Ideal Home",
+      "publication_website_uri": "https://www.idealhome.co.uk/",
+      "publication_rss_feed_uri": "https://www.idealhome.co.uk/feed",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "Interior Design (Interior Architecture)",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/InteriorDesign/.rss",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "Interiors – Dezeen",
+      "publication_website_uri": "https://www.dezeen.com/",
+      "publication_rss_feed_uri": "https://www.dezeen.com/interiors/feed/",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.",
+      "publication_website_uri": "https://thedesignfiles.net/",
+      "publication_rss_feed_uri": "https://thedesignfiles.net/feed/",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "The Inspired Room",
+      "publication_website_uri": "https://theinspiredroom.net/",
+      "publication_rss_feed_uri": "https://theinspiredroom.net/feed/",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "Thrifty Decor Chick",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/blogspot/ZBcZ",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "Yanko Design",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/yankodesign",
+      "category": "Interior design"
+    },
+    {
+      "publication_name": "/Film",
+      "publication_website_uri": "https://feeds2.feedburner.com/",
+      "publication_rss_feed_uri": "https://feeds2.feedburner.com/slashfilm",
+      "category": "Movies"
+    },
+    {
+      "publication_name": "ComingSoon.net",
+      "publication_website_uri": "https://www.comingsoon.net/",
+      "publication_rss_feed_uri": "https://www.comingsoon.net/feed",
+      "category": "Movies"
+    },
+    {
+      "publication_name": "Deadline",
+      "publication_website_uri": "https://deadline.com/",
+      "publication_rss_feed_uri": "https://deadline.com/feed/",
+      "category": "Movies"
+    },
+    {
+      "publication_name": "FirstShowing.net",
+      "publication_website_uri": "https://www.firstshowing.net/",
+      "publication_rss_feed_uri": "https://www.firstshowing.net/feed/",
+      "category": "Movies"
+    },
+    {
+      "publication_name": "IndieWire",
+      "publication_website_uri": "https://www.indiewire.com/",
+      "publication_rss_feed_uri": "https://www.indiewire.com/feed",
+      "category": "Movies"
+    },
+    {
+      "publication_name": "Movie News and Discussion",
+      "publication_website_uri": "https://reddit.com/",
+      "publication_rss_feed_uri": "https://reddit.com/r/movies/.rss",
+      "category": "Movies"
+    },
+    {
+      "publication_name": "Variety",
+      "publication_website_uri": "https://variety.com/",
+      "publication_rss_feed_uri": "https://variety.com/feed/",
+      "category": "Movies"
+    },
+    {
+      "publication_name": "Consequence",
+      "publication_website_uri": "http://consequenceofsound.net/",
+      "publication_rss_feed_uri": "http://consequenceofsound.net/feed",
+      "category": "Music"
+    },
+    {
+      "publication_name": "Metal Injection",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/metalinjection",
+      "category": "Music"
+    },
+    {
+      "publication_name": "RSS: News",
+      "publication_website_uri": "http://pitchfork.com/",
+      "publication_rss_feed_uri": "http://pitchfork.com/rss/news",
+      "category": "Music"
+    },
+    {
+      "publication_name": "BBC News - World",
+      "publication_website_uri": "http://feeds.bbci.co.uk/",
+      "publication_rss_feed_uri": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "News"
+    },
+    {
+      "publication_name": "International: Top News And Analysis",
+      "publication_website_uri": "https://www.cnbc.com/",
+      "publication_rss_feed_uri": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "category": "News"
+    },
+    {
+      "publication_name": "NDTV News - World-news",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/ndtvnews-world-news",
+      "category": "News"
+    },
+    {
+      "publication_name": "Top stories - Google News",
+      "publication_website_uri": "https://news.google.com/",
+      "publication_rss_feed_uri": "https://news.google.com/rss",
+      "category": "News"
+    },
+    {
+      "publication_name": "World News",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/worldnews/.rss",
+      "category": "News"
+    },
+    {
+      "publication_name": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "publication_website_uri": "https://timesofindia.indiatimes.com/",
+      "publication_rss_feed_uri": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "category": "News"
+    },
+    {
+      "publication_name": "World news | The Guardian",
+      "publication_website_uri": "https://www.theguardian.com/",
+      "publication_rss_feed_uri": "https://www.theguardian.com/world/rss",
+      "category": "News"
+    },
+    {
+      "publication_name": "Financial Samurai",
+      "publication_website_uri": "https://www.financialsamurai.com/",
+      "publication_rss_feed_uri": "https://www.financialsamurai.com/feed/",
+      "category": "Personal finance"
+    },
+    {
+      "publication_name": "Money Saving Mom®",
+      "publication_website_uri": "https://moneysavingmom.com/",
+      "publication_rss_feed_uri": "https://moneysavingmom.com/feed/",
+      "category": "Personal finance"
+    },
+    {
+      "publication_name": "MoneyNing",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/MoneyNing",
+      "category": "Personal finance"
+    },
+    {
+      "publication_name": "NerdWallet",
+      "publication_website_uri": "https://www.nerdwallet.com/",
+      "publication_rss_feed_uri": "https://www.nerdwallet.com/blog/feed/",
+      "category": "Personal finance"
+    },
+    {
+      "publication_name": "Personal Finance",
+      "publication_website_uri": "https://reddit.com/",
+      "publication_rss_feed_uri": "https://reddit.com/r/personalfinance/.rss",
+      "category": "Personal finance"
+    },
+    {
+      "publication_name": "The College Investor",
+      "publication_website_uri": "https://thecollegeinvestor.com/",
+      "publication_rss_feed_uri": "https://thecollegeinvestor.com/feed/",
+      "category": "Personal finance"
+    },
+    {
+      "publication_name": "500px",
+      "publication_website_uri": "https://iso.500px.com/",
+      "publication_rss_feed_uri": "https://iso.500px.com/feed/",
+      "category": "Photography"
+    },
+    {
+      "publication_name": "Big Picture",
+      "publication_website_uri": "https://www.bostonglobe.com/",
+      "publication_rss_feed_uri": "https://www.bostonglobe.com/rss/bigpicture",
+      "category": "Photography"
+    },
+    {
+      "publication_name": "Canon Rumors – Your best source for Canon rumors, leaks and gossip",
+      "publication_website_uri": "https://www.canonrumors.com/",
+      "publication_rss_feed_uri": "https://www.canonrumors.com/feed/",
+      "category": "Photography"
+    },
+    {
+      "publication_name": "PetaPixel",
+      "publication_website_uri": "https://petapixel.com/",
+      "publication_rss_feed_uri": "https://petapixel.com/feed/",
+      "category": "Photography"
+    },
+    {
+      "publication_name": "Better Programming - Medium",
+      "publication_website_uri": "https://medium.com/",
+      "publication_rss_feed_uri": "https://medium.com/feed/better-programming",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Code as Craft",
+      "publication_website_uri": "https://codeascraft.com/",
+      "publication_rss_feed_uri": "https://codeascraft.com/feed/atom/",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "FLOSS Weekly (Audio)",
+      "publication_website_uri": "https://feeds.twit.tv/",
+      "publication_rss_feed_uri": "https://feeds.twit.tv/floss.xml",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Google Developers Blog",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/GDBcode",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "HackerNoon.com - Medium",
+      "publication_website_uri": "https://medium.com/",
+      "publication_rss_feed_uri": "https://medium.com/feed/hackernoon",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "JetBrains Blog",
+      "publication_website_uri": "https://blog.jetbrains.com/",
+      "publication_rss_feed_uri": "https://blog.jetbrains.com/feed",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Programming Throwdown",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/ProgrammingThrowdown",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Scripting News",
+      "publication_website_uri": "http://scripting.com/",
+      "publication_rss_feed_uri": "http://scripting.com/rss.xml",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Software Defined Talk",
+      "publication_website_uri": "https://feeds.fireside.fm/",
+      "publication_rss_feed_uri": "https://feeds.fireside.fm/sdt/rss",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Software Engineering Radio - The Podcast for Professional Software Developers",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/se-radio",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Spotify Engineering",
+      "publication_website_uri": "https://labs.spotify.com/",
+      "publication_rss_feed_uri": "https://labs.spotify.com/feed/",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Stack Abuse",
+      "publication_website_uri": "https://stackabuse.com/",
+      "publication_rss_feed_uri": "https://stackabuse.com/rss/",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "Stack Overflow Blog",
+      "publication_website_uri": "https://stackoverflow.blog/",
+      "publication_rss_feed_uri": "https://stackoverflow.blog/feed/",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "The Airbnb Tech Blog - Medium",
+      "publication_website_uri": "https://medium.com/",
+      "publication_rss_feed_uri": "https://medium.com/feed/airbnb-engineering",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "The GitHub Blog",
+      "publication_website_uri": "https://github.blog/",
+      "publication_rss_feed_uri": "https://github.blog/feed/",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "programming",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/programming/.rss",
+      "category": "Programming"
+    },
+    {
+      "publication_name": "60-Second Science",
+      "publication_website_uri": "http://rss.sciam.com/",
+      "publication_rss_feed_uri": "http://rss.sciam.com/sciam/60secsciencepodcast",
+      "category": "Science"
+    },
+    {
+      "publication_name": "BBC News - Science & Environment",
+      "publication_website_uri": "http://feeds.bbci.co.uk/",
+      "publication_rss_feed_uri": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "category": "Science"
+    },
+    {
+      "publication_name": "FlowingData",
+      "publication_website_uri": "https://flowingdata.com/",
+      "publication_rss_feed_uri": "https://flowingdata.com/feed",
+      "category": "Science"
+    },
+    {
+      "publication_name": "Latest Science News -- ScienceDaily",
+      "publication_website_uri": "https://www.sciencedaily.com/",
+      "publication_rss_feed_uri": "https://www.sciencedaily.com/rss/all.xml",
+      "category": "Science"
+    },
+    {
+      "publication_name": "Phys.org - latest science and technology news stories",
+      "publication_website_uri": "https://phys.org/",
+      "publication_rss_feed_uri": "https://phys.org/rss-feed/",
+      "category": "Science"
+    },
+    {
+      "publication_name": "Reddit Science",
+      "publication_website_uri": "https://reddit.com/",
+      "publication_rss_feed_uri": "https://reddit.com/r/science/.rss",
+      "category": "Science"
+    },
+    {
+      "publication_name": "Sawbones: A Marital Tour of Misguided Medicine",
+      "publication_website_uri": "https://feeds.simplecast.com/",
+      "publication_rss_feed_uri": "https://feeds.simplecast.com/y1LF_sn2",
+      "category": "Science"
+    },
+    {
+      "publication_name": "Science Latest",
+      "publication_website_uri": "https://www.wired.com/",
+      "publication_rss_feed_uri": "https://www.wired.com/feed/category/science/latest/rss",
+      "category": "Science"
+    },
+    {
+      "publication_name": "Scientific American Content: Global",
+      "publication_website_uri": "http://rss.sciam.com/",
+      "publication_rss_feed_uri": "http://rss.sciam.com/ScientificAmerican-Global",
+      "category": "Science"
+    },
+    {
+      "publication_name": "TED Talks Daily (SD video)",
+      "publication_website_uri": "https://pa.tedcdn.com/",
+      "publication_rss_feed_uri": "https://pa.tedcdn.com/feeds/talks.rss",
+      "category": "Science"
+    },
+    {
+      "publication_name": "The Infinite Monkey Cage",
+      "publication_website_uri": "https://podcasts.files.bbci.co.uk/",
+      "publication_rss_feed_uri": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+      "category": "Science"
+    },
+    {
+      "publication_name": "/r/space: news, articles and discussion",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/space/.rss?format=xml",
+      "category": "Space"
+    },
+    {
+      "publication_name": "NASA Breaking News",
+      "publication_website_uri": "https://www.nasa.gov/",
+      "publication_rss_feed_uri": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "category": "Space"
+    },
+    {
+      "publication_name": "New Scientist - Space",
+      "publication_website_uri": "https://www.newscientist.com/",
+      "publication_rss_feed_uri": "https://www.newscientist.com/subject/space/feed/",
+      "category": "Space"
+    },
+    {
+      "publication_name": "Space | The Guardian",
+      "publication_website_uri": "https://www.theguardian.com/",
+      "publication_rss_feed_uri": "https://www.theguardian.com/science/space/rss",
+      "category": "Space"
+    },
+    {
+      "publication_name": "Space.com",
+      "publication_website_uri": "https://www.space.com/",
+      "publication_rss_feed_uri": "https://www.space.com/feeds/all",
+      "category": "Space"
+    },
+    {
+      "publication_name": "BBC Sport - Sport",
+      "publication_website_uri": "http://feeds.bbci.co.uk/",
+      "publication_rss_feed_uri": "http://feeds.bbci.co.uk/sport/rss.xml",
+      "category": "Sports"
+    },
+    {
+      "publication_name": "Reddit Sports",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/sports.rss",
+      "category": "Sports"
+    },
+    {
+      "publication_name": "Sports News - Latest Sports and Football News | Sky News",
+      "publication_website_uri": "http://feeds.skynews.com/",
+      "publication_rss_feed_uri": "http://feeds.skynews.com/feeds/rss/sports.xml",
+      "category": "Sports"
+    },
+    {
+      "publication_name": "Sportskeeda",
+      "publication_website_uri": "https://www.sportskeeda.com/",
+      "publication_rss_feed_uri": "https://www.sportskeeda.com/feed",
+      "category": "Sports"
+    },
+    {
+      "publication_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "publication_website_uri": "https://sports.yahoo.com/",
+      "publication_rss_feed_uri": "https://sports.yahoo.com/rss/",
+      "category": "Sports"
+    },
+    {
+      "publication_name": "www.espn.com - TOP",
+      "publication_website_uri": "https://www.espn.com/",
+      "publication_rss_feed_uri": "https://www.espn.com/espn/rss/news",
+      "category": "Sports"
+    },
+    {
+      "publication_name": "Entrepreneur",
+      "publication_website_uri": "http://feeds.feedburner.com/",
+      "publication_rss_feed_uri": "http://feeds.feedburner.com/entrepreneur/latest",
+      "category": "Startups"
+    },
+    {
+      "publication_name": "GaryVee",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
+      "category": "Startups"
+    },
+    {
+      "publication_name": "Hacker News: Front Page",
+      "publication_website_uri": "https://hnrss.org/",
+      "publication_rss_feed_uri": "https://hnrss.org/frontpage",
+      "category": "Startups"
+    },
+    {
+      "publication_name": "Inc.com",
+      "publication_website_uri": "https://www.inc.com/",
+      "publication_rss_feed_uri": "https://www.inc.com/rss/",
+      "category": "Startups"
+    },
+    {
+      "publication_name": "Marie Forleo",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
+      "category": "Startups"
+    },
+    {
+      "publication_name": "Product Hunt — The best new products, every day",
+      "publication_website_uri": "https://www.producthunt.com/",
+      "publication_rss_feed_uri": "https://www.producthunt.com/feed",
+      "category": "Startups"
+    },
+    {
+      "publication_name": "Accidental Tech Podcast",
+      "publication_website_uri": "https://atp.fm/",
+      "publication_rss_feed_uri": "https://atp.fm/rss",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "Ars Technica",
+      "publication_website_uri": "http://feeds.arstechnica.com/",
+      "publication_rss_feed_uri": "http://feeds.arstechnica.com/arstechnica/index",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "CNET",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "CNET News",
+      "publication_website_uri": "https://www.cnet.com/",
+      "publication_rss_feed_uri": "https://www.cnet.com/rss/news/",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "Gizmodo",
+      "publication_website_uri": "https://gizmodo.com/",
+      "publication_rss_feed_uri": "https://gizmodo.com/rss",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "Hacker News",
+      "publication_website_uri": "https://news.ycombinator.com/",
+      "publication_rss_feed_uri": "https://news.ycombinator.com/rss",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "Lifehacker",
+      "publication_website_uri": "https://lifehacker.com/",
+      "publication_rss_feed_uri": "https://lifehacker.com/rss",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "Linus Tech Tips",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "Mashable",
+      "publication_website_uri": "http://feeds.mashable.com/",
+      "publication_rss_feed_uri": "http://feeds.mashable.com/Mashable",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "ReadWrite",
+      "publication_website_uri": "https://readwrite.com/",
+      "publication_rss_feed_uri": "https://readwrite.com/feed/",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "The Keyword",
+      "publication_website_uri": "https://www.blog.google/",
+      "publication_rss_feed_uri": "https://www.blog.google/rss/",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "The Next Web",
+      "publication_website_uri": "https://thenextweb.com/",
+      "publication_rss_feed_uri": "https://thenextweb.com/feed/",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "The Verge",
+      "publication_website_uri": "https://www.youtube.com/",
+      "publication_rss_feed_uri": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "The Verge -  All Posts",
+      "publication_website_uri": "https://www.theverge.com/",
+      "publication_rss_feed_uri": "https://www.theverge.com/rss/index.xml",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "This Week in Tech (Audio)",
+      "publication_website_uri": "https://feeds.twit.tv/",
+      "publication_rss_feed_uri": "https://feeds.twit.tv/twit.xml",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "https://www.engadget.com/",
+      "publication_website_uri": "https://www.engadget.com/",
+      "publication_rss_feed_uri": "https://www.engadget.com/rss.xml",
+      "category": "Tech"
+    },
+    {
+      "publication_name": "TV Fanatic",
+      "publication_website_uri": "https://www.tvfanatic.com/",
+      "publication_rss_feed_uri": "https://www.tvfanatic.com/rss.xml",
+      "category": "Television"
+    },
+    {
+      "publication_name": "TVLine",
+      "publication_website_uri": "https://tvline.com/",
+      "publication_rss_feed_uri": "https://tvline.com/feed/",
+      "category": "Television"
+    },
+    {
+      "publication_name": "Television News and Discussion",
+      "publication_website_uri": "https://reddit.com/",
+      "publication_rss_feed_uri": "https://reddit.com/r/television/.rss",
+      "category": "Television"
+    },
+    {
+      "publication_name": "BBC Sport - Tennis",
+      "publication_website_uri": "http://feeds.bbci.co.uk/",
+      "publication_rss_feed_uri": "http://feeds.bbci.co.uk/sport/tennis/rss.xml",
+      "category": "Tennis"
+    },
+    {
+      "publication_name": "Tennis - ATP World Tour",
+      "publication_website_uri": "https://www.atptour.com/",
+      "publication_rss_feed_uri": "https://www.atptour.com/en/media/rss-feed/xml-feed",
+      "category": "Tennis"
+    },
+    {
+      "publication_name": "Tennis News & Discussion",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/tennis/.rss",
+      "category": "Tennis"
+    },
+    {
+      "publication_name": "www.espn.com - TENNIS",
+      "publication_website_uri": "https://www.espn.com/",
+      "publication_rss_feed_uri": "https://www.espn.com/espn/rss/tennis/news",
+      "category": "Tennis"
+    },
+    {
+      "publication_name": "Atlas Obscura - Latest Articles and Places",
+      "publication_website_uri": "https://www.atlasobscura.com/",
+      "publication_rss_feed_uri": "https://www.atlasobscura.com/feeds/latest",
+      "category": "Travel"
+    },
+    {
+      "publication_name": "UX Collective - Medium",
+      "publication_website_uri": "https://uxdesign.cc/",
+      "publication_rss_feed_uri": "https://uxdesign.cc/feed",
+      "category": "UI - UX"
+    },
+    {
+      "publication_name": "User Experience",
+      "publication_website_uri": "https://www.reddit.com/",
+      "publication_rss_feed_uri": "https://www.reddit.com/r/userexperience/.rss",
+      "category": "UI - UX"
+    },
+    {
+      "publication_name": "CSS-Tricks",
+      "publication_website_uri": "https://css-tricks.com/",
+      "publication_rss_feed_uri": "https://css-tricks.com/feed/",
+      "category": "Web Development"
     }
   ]
 }
