@@ -5,7 +5,15 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import cliProgress from 'cli-progress';
 import pLimit from 'p-limit';
+import countries from 'i18n-iso-countries';
+import { createRequire } from 'module';
 import { validateFeed, generateStatisticsBlock, PARALLEL_WORKERS } from './utils.js';
+
+const require = createRequire(import.meta.url);
+const en = require('i18n-iso-countries/langs/en.json');
+
+// Register English locale for country names
+countries.registerLocale(en);
 
 // Get __dirname equivalent in ES modules
 const __filename = fileURLToPath(import.meta.url);
@@ -30,25 +38,27 @@ function slugify(country) {
 
 /**
  * Generates the Table of Contents for the markdown file
- * @param {Array<string>} countries - List of country names
+ * @param {Array<string>} countryCodes - List of country Alpha-3 codes
  * @returns {string} - The TOC markdown string
  */
-function generateTableOfContents(countries) {
+function generateTableOfContents(countryCodes) {
   let toc = '## Table of Contents\n';
-  countries.forEach(country => {
-    toc += `- [${country}](#${slugify(country)})\n`;
+  countryCodes.forEach(code => {
+    const countryName = code === 'GLOBAL' ? 'Global' : (countries.getName(code, 'en') || code);
+    toc += `- [${countryName}](#${slugify(countryName)})\n`;
   });
   return toc + '\n';
 }
 
 /**
  * Generates the markdown content for a single country
- * @param {string} country - The country name
+ * @param {string} countryCode - The country Alpha-3 code
  * @param {Array<Object>} publications - List of publications with validation status
  * @returns {string} - The markdown content for the country section
  */
-function generateCountrySection(country, publications) {
-  let section = `## ${country}\n\n`;
+function generateCountrySection(countryCode, publications) {
+  const countryName = countryCode === 'GLOBAL' ? 'Global' : (countries.getName(countryCode, 'en') || countryCode);
+  let section = `## ${countryName}\n\n`;
 
   publications.forEach(pub => {
     let statusIcon;
@@ -59,7 +69,8 @@ function generateCountrySection(country, publications) {
     } else {
       statusIcon = '❌';
     }
-    section += `- ${statusIcon} [${pub.publication_name}](${pub.publication_website_uri}) - [Feed](${pub.publication_rss_feed_uri})\n`;
+    const categoryText = pub.category ? ` ${pub.category}` : '';
+    section += `- ${statusIcon} [${pub.publication_name}](${pub.publication_website_uri})${categoryText} - [Feed](${pub.publication_rss_feed_uri})\n`;
   });
 
   section += '\n';
@@ -93,23 +104,26 @@ async function generateMarkdown() {
   let totalFeeds = 0;
   let validFeeds = 0;
 
-  // Split countries into chunks for each worker
-  const allCountries = Object.keys(data);
-  const chunkSize = Math.ceil(allCountries.length / PARALLEL_WORKERS);
-  const countryChunks = [];
+  // Sort countries by feed count (descending) for better distribution
+  const allCountries = Object.keys(data).sort((a, b) => data[b].length - data[a].length);
 
-  for (let i = 0; i < PARALLEL_WORKERS; i++) {
-    const start = i * chunkSize;
-    const chunk = allCountries.slice(start, start + chunkSize);
-    if (chunk.length > 0) {
-      countryChunks.push(chunk);
+  // Initialize worker chunks with feed counts
+  const countryChunks = Array.from({ length: PARALLEL_WORKERS }, () => []);
+  const feedsPerWorker = Array(PARALLEL_WORKERS).fill(0);
+
+  // Distribute countries using greedy algorithm - assign each country to the worker with fewest feeds
+  for (const country of allCountries) {
+    const feedCount = data[country].length;
+    // Find worker with minimum feeds
+    let minWorkerIndex = 0;
+    for (let i = 1; i < PARALLEL_WORKERS; i++) {
+      if (feedsPerWorker[i] < feedsPerWorker[minWorkerIndex]) {
+        minWorkerIndex = i;
+      }
     }
+    countryChunks[minWorkerIndex].push(country);
+    feedsPerWorker[minWorkerIndex] += feedCount;
   }
-
-  // Calculate feeds per worker for progress bars
-  const feedsPerWorker = countryChunks.map(chunk =>
-    chunk.reduce((sum, country) => sum + data[country].length, 0)
-  );
 
   totalFeeds = feedsPerWorker.reduce((a, b) => a + b, 0);
 
@@ -193,7 +207,15 @@ async function generateMarkdown() {
   // Generate markdown content
   console.log('\n📝 Generating README.md file...');
 
-  const countries = Object.keys(validatedData).sort();
+  // Sort country codes by their English names, with GLOBAL at the end
+  const countryCodes = Object.keys(validatedData).sort((a, b) => {
+    // GLOBAL should always be at the end
+    if (a === 'GLOBAL') return 1;
+    if (b === 'GLOBAL') return -1;
+    const nameA = countries.getName(a, 'en') || a;
+    const nameB = countries.getName(b, 'en') || b;
+    return nameA.localeCompare(nameB);
+  });
 
   let markdown = '# AUTO-GENERATED: DO NOT MODIFY MANUALLY\n\n';
   markdown += '**See [CONTRIBUTION.md](CONTRIBUTION.md) for instructions on how to contribute.**\n\n';
@@ -205,27 +227,38 @@ async function generateMarkdown() {
   markdown += '- ❌ **Invalid/Outdated Feed** - Feed is inaccessible, malformed, or hasn\'t been updated in over 24 hours\n';
   markdown += '- ⚠️ **Bot Protected** - Feed is behind bot protection and cannot be validated automatically\n\n';
 
-  markdown += generateTableOfContents(countries);
+  markdown += generateTableOfContents(countryCodes);
 
-  countries.forEach(country => {
-    markdown += generateCountrySection(country, validatedData[country]);
+  countryCodes.forEach(countryCode => {
+    markdown += generateCountrySection(countryCode, validatedData[countryCode]);
   });
 
   // Prepare JSON data for active feeds only
   const activeFeedsJson = {};
 
-  countries.forEach(country => {
-    // For active feeds JSON - only include valid feeds (exclude bot-protected)
-    const activeFeeds = validatedData[country]
-      .filter(pub => pub.isValid === true)
-      .map(pub => ({
-        publication_name: pub.publication_name,
-        publication_website_uri: pub.publication_website_uri,
-        publication_rss_feed_uri: pub.publication_rss_feed_uri
-      }));
+  countryCodes.forEach(countryCode => {
+    // For active feeds JSON - include valid feeds and bot-protected feeds
+    const activeFeeds = validatedData[countryCode]
+      .filter(pub => pub.isValid === true || pub.isValid === 'bot_protected')
+      .map(pub => {
+        const feed = {
+          publication_name: pub.publication_name,
+          publication_website_uri: pub.publication_website_uri,
+          publication_rss_feed_uri: pub.publication_rss_feed_uri
+        };
+        // Include category if present
+        if (pub.category) {
+          feed.category = pub.category;
+        }
+        // Include bot_protection flag if present
+        if (pub.bot_protection === true) {
+          feed.bot_protection = true;
+        }
+        return feed;
+      });
 
     if (activeFeeds.length > 0) {
-      activeFeedsJson[country] = activeFeeds;
+      activeFeedsJson[countryCode] = activeFeeds;
     }
   });
 
@@ -246,7 +279,7 @@ async function generateMarkdown() {
     console.log(`   Total feeds processed: ${totalFeeds}`);
     console.log(`   Valid feeds (✅): ${validFeeds}`);
     console.log(`   Invalid/Outdated feeds (❌): ${totalFeeds - validFeeds}`);
-    console.log(`   Countries included: ${countries.length}`);
+    console.log(`   Countries included: ${countryCodes.length}`);
     console.log(`   Countries with active feeds: ${Object.keys(activeFeedsJson).length}`);
     console.log(`   Success rate: ${((validFeeds / totalFeeds) * 100).toFixed(1)}%`);
 
