@@ -3306,6 +3306,21 @@
       "publication_name": "Sun.mv",
       "publication_website_uri": "http://sun.mv/",
       "publication_rss_feed_uri": "http://sun.mv/feed/"
+    },
+    {
+      "publication_name": "Psmnews.mv"
+      "publication_website_uri": "https://psmnews.mv/"
+      "publication_rss_feed_uri": "https://psmnews.mv/feed/"
+    },
+    {
+      "publication_name": "Vnews.mv"
+      "publication_website_uri": "https://vnews.mv/"
+      "publication_rss_feed_uri": "https://vnews.mv/rss/"
+    },
+    {
+      "publication_name": "Vaguthu.mv"
+      "publication_website_uri": "https://vaguthu.mv/"
+      "publication_rss_feed_uri": "https://vaguthu.mv/feed/"
     }
   ],
   "MLI": [
