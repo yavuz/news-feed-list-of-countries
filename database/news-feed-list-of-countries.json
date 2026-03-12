@@ -452,6 +452,26 @@
       "publication_rss_feed_uri": "http://www.dnevnik.ba/rss.xml"
     },
     {
+      "publication_name": "Dnevni avaz",
+      "publication_website_uri": "https://avaz.ba/",
+      "publication_rss_feed_uri": "https://avaz.ba/rss"
+    },
+    {
+      "publication_name": "Istraga",
+      "publication_website_uri": "https://istraga.ba/",
+      "publication_rss_feed_uri": "https://istraga.ba/rss"
+    },
+    {
+      "publication_name": "Klix.ba",
+      "publication_website_uri": "https://www.klix.ba/",
+      "publication_rss_feed_uri": "https://www.klix.ba/rss"
+    },
+    {
+      "publication_name": "N1 BiH",
+      "publication_website_uri": "https://n1info.ba/",
+      "publication_rss_feed_uri": "https://n1info.ba/feed/"
+    },
+    {
       "publication_name": "Radio Sarajevo",
       "publication_website_uri": "http://radiosarajevo.ba/",
       "publication_rss_feed_uri": "http://www.uzivoradio.com/index.php?strana=rss&opcija=najslusanije-bih"
@@ -822,6 +842,11 @@
       "publication_name": "Dnevnik.hr",
       "publication_website_uri": "http://dnevnik.hr/",
       "publication_rss_feed_uri": "http://rss.dnevnik.hr/index.rss"
+    },
+    {
+      "publication_name": "Index.hr",
+      "publication_website_uri": "https://www.index.hr/",
+      "publication_rss_feed_uri": "https://www.index.hr/rss"
     }
   ],
   "CUB": [
