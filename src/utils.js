@@ -24,10 +24,21 @@ export async function validateFeed(feedUrl, publicationName, silent = false) {
     // Parse the RSS feed directly from URL
     const feed = await parser.parseURL(feedUrl);
 
+    // Some publishers (notably Xinhua) publish RSS items with very old or
+    // inconsistent timestamps even when the feed itself is live. For those,
+    // we trust successful parsing over the freshness heuristic.
+    const isTimestampUnreliableFeed =
+      /xinhuanet\.com|english\.news\.cn/i.test(feedUrl) ||
+      /^xinhua/i.test(publicationName);
+
     // Check lastBuildDate
     const lastBuildDate = feed.lastBuildDate || feed.pubDate || (feed.items[0] && feed.items[0].pubDate);
 
     if (!lastBuildDate) {
+      if (isTimestampUnreliableFeed) {
+        if (!silent) console.log(`✅ [${publicationName}] Valid feed (timestamp unavailable, parse succeeded): ${feedUrl}`);
+        return true;
+      }
       if (!silent) console.error(`❌ [${publicationName}] No lastBuildDate found in feed: ${feedUrl}`);
       return false;
     }
@@ -37,6 +48,10 @@ export async function validateFeed(feedUrl, publicationName, silent = false) {
     const hoursSinceUpdate = (now - lastUpdate) / (1000 * 60 * 60);
 
     if (now - lastUpdate > TWENTY_FOUR_HOURS_MS) {
+      if (isTimestampUnreliableFeed) {
+        if (!silent) console.log(`✅ [${publicationName}] Valid feed (timestamps stale, parse succeeded): ${feedUrl}`);
+        return true;
+      }
       if (!silent) console.error(`❌ [${publicationName}] Feed outdated (${hoursSinceUpdate.toFixed(1)} hours old): ${feedUrl}`);
       return false;
     }

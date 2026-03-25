@@ -808,6 +808,40 @@
       "publication_rss_feed_uri": "https://www.lanacion.cl/feed/"
     }
   ],
+  "CHN": [
+    {
+      "publication_name": "Xinhua - World",
+      "publication_website_uri": "https://english.news.cn/",
+      "publication_rss_feed_uri": "http://www.xinhuanet.com/english/rss/worldrss.xml"
+    },
+    {
+      "publication_name": "Xinhua - China",
+      "publication_website_uri": "https://english.news.cn/",
+      "publication_rss_feed_uri": "http://www.xinhuanet.com/english/rss/chinarss.xml"
+    },
+    {
+      "publication_name": "Xinhua - Business",
+      "publication_website_uri": "https://english.news.cn/",
+      "publication_rss_feed_uri": "http://www.xinhuanet.com/english/rss/businessrss.xml"
+    },
+    {
+      "publication_name": "Xinhua - Sci & Tech",
+      "publication_website_uri": "https://english.news.cn/",
+      "publication_rss_feed_uri": "http://www.xinhuanet.com/english/rss/scirss.xml"
+    },
+    {
+      "publication_name": "Ecns.cn",
+      "publication_website_uri": "http://www.ecns.cn/",
+      "publication_rss_feed_uri": "http://www.ecns.cn/rss/rss.xml"
+    },
+    {
+      "publication_name": "South China Morning Post",
+      "publication_website_uri": "https://www.scmp.com/",
+      "publication_rss_feed_uri": "https://www.scmp.com/rss/4/feed",
+      "category": "China",
+      "bot_protection": true
+    }
+  ],
   "COL": [
     {
       "publication_name": "El Colombiano",
@@ -1558,6 +1592,27 @@
       "publication_name": "hongkongnews.net latest rss headlines",
       "publication_website_uri": "http://feeds.hongkongnews.net/",
       "publication_rss_feed_uri": "http://feeds.hongkongnews.net/rss/b82693edf38ebff8"
+    },
+    {
+      "publication_name": "South China Morning Post",
+      "publication_website_uri": "https://www.scmp.com/",
+      "publication_rss_feed_uri": "https://www.scmp.com/rss/4/feed",
+      "category": "China",
+      "bot_protection": true
+    },
+    {
+      "publication_name": "South China Morning Post",
+      "publication_website_uri": "https://www.scmp.com/",
+      "publication_rss_feed_uri": "https://www.scmp.com/rss/92/feed",
+      "category": "Business",
+      "bot_protection": true
+    },
+    {
+      "publication_name": "South China Morning Post",
+      "publication_website_uri": "https://www.scmp.com/",
+      "publication_rss_feed_uri": "https://www.scmp.com/rss/320663/feed",
+      "category": "Technology",
+      "bot_protection": true
     }
   ],
   "HUN": [
