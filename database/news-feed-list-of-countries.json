@@ -8483,6 +8483,30 @@
           "uri": "http://www.omroepbrabant.nl/rss/"
         }
       ]
+    },
+    {
+      "publication_name": "Informed Clearly",
+      "publication_website_uri": "https://informedclearly.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://informedclearly.com/feed/rss/nl"
+        },
+        {
+          "uri": "https://informedclearly.com/feed/rss/en"
+        },
+        {
+          "uri": "https://informedclearly.com/feed/rss/fr"
+        },
+        {
+          "uri": "https://informedclearly.com/feed/rss/de"
+        },
+        {
+          "uri": "https://informedclearly.com/feed/rss/pt"
+        },
+        {
+          "uri": "https://informedclearly.com/feed/rss/es"
+        }
+      ]
     }
   ],
   "NOR": [
