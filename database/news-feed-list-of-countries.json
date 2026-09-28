@@ -1562,6 +1562,60 @@
           "uri": "https://www.cibercuba.com/rss.xml"
         }
       ]
+    },
+    {
+      "publication_name": "CuCoders",
+      "publication_website_uri": "https://cucoders.dev/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cucoders.dev/rss.xml"
+        }
+      ]
+    },
+    {
+      "publication_name": "OnCubaNews",
+      "publication_website_uri": "https://oncubanews.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://oncubanews.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Periódico Cubano",
+      "publication_website_uri": "https://www.periodicocubano.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.periodicocubano.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "CubitaNOW",
+      "publication_website_uri": "https://cubitanow.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://cubitanow.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cubanos por el Mundo",
+      "publication_website_uri": "https://www.cubanosporelmundo.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cubanosporelmundo.com/feed/"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radares Mirando al Sur",
+      "publication_website_uri": "https://meteoradares.ladetec.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://meteoradares.ladetec.com/feed/"
+        }
+      ]
     }
   ],
   "CYM": [

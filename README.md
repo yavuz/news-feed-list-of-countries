@@ -422,6 +422,12 @@
 - ✅ [14 y Medio](https://www.14ymedio.com/) - [Feed](https://www.14ymedio.com/rss/) - Spanish
 - ❌ [ADN Cuba](https://adncuba.com/) - [Feed](https://adncuba.com/es/news/Actualidad/rss.xml)
 - ✅ [Cibercuba](https://www.cibercuba.com/) - [Feed](https://www.cibercuba.com/rss.xml) - Spanish
+- ❌ [CuCoders](https://cucoders.dev/) - [Feed](https://cucoders.dev/rss.xml)
+- ✅ [OnCubaNews](https://oncubanews.com/) - [Feed](https://oncubanews.com/feed/) - Spanish
+- ✅ [Periódico Cubano](https://www.periodicocubano.com/) - [Feed](https://www.periodicocubano.com/feed/) - Spanish
+- ❌ [CubitaNOW](https://cubitanow.com/) - [Feed](https://cubitanow.com/feed/)
+- ✅ [Cubanos por el Mundo](https://www.cubanosporelmundo.com/) - [Feed](https://www.cubanosporelmundo.com/feed/) - Spanish
+- ✅ [Radares Mirando al Sur](https://meteoradares.ladetec.com/) - [Feed](https://meteoradares.ladetec.com/feed/) - Spanish
 
 ## Cyprus
 
@@ -1821,8 +1827,8 @@
 
 ```
 Countries with valid feeds: 140
-Total publications parsed: 1197
-Valid feeds (✅): 976
-Invalid/Outdated feeds (❌): 221
+Total publications parsed: 1203
+Valid feeds (✅): 980
+Invalid/Outdated feeds (❌): 223
 Success rate: 81.5%
 ```
