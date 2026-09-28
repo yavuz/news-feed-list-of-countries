@@ -1632,6 +1632,50 @@
           "language_name": "Spanish"
         }
       ]
+    },
+    {
+      "publication_name": "OnCubaNews",
+      "publication_website_uri": "https://oncubanews.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://oncubanews.com/feed/",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ]
+    },
+    {
+      "publication_name": "Periódico Cubano",
+      "publication_website_uri": "https://www.periodicocubano.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.periodicocubano.com/feed/",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ]
+    },
+    {
+      "publication_name": "Cubanos por el Mundo",
+      "publication_website_uri": "https://www.cubanosporelmundo.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://www.cubanosporelmundo.com/feed/",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ]
+    },
+    {
+      "publication_name": "Radares Mirando al Sur",
+      "publication_website_uri": "https://meteoradares.ladetec.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://meteoradares.ladetec.com/feed/",
+          "language_code": "es",
+          "language_name": "Spanish"
+        }
+      ]
     }
   ],
   "CYP": [
