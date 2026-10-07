@@ -234,7 +234,16 @@ async function generateMarkdown() {
     return nameA.localeCompare(nameB);
   });
 
-  let markdown = '# AUTO-GENERATED: DO NOT MODIFY MANUALLY\n\n';
+  let markdown = '# 🌍 Global News Feeds by Country\n\n';
+  markdown += '> A curated, automated directory of 1,200+ news publications and RSS feeds across 140 countries.\n\n';
+  markdown += '[![Maintained by Yavuz](https://img.shields.io/badge/maintained%20by-yavuz-blue.svg)](https://github.com/yavuz)\n';
+  markdown += '[![Data Project](https://img.shields.io/badge/open%20data-VeriNokta-emerald.svg)](https://verinokta.com)\n\n';
+  markdown += '---\n\n';
+  markdown += '💡 **Related Open Data & Analytics:**  \n';
+  markdown += 'Looking for official Turkish economic indicators, TÜİK inflation data, and public calculation utilities?  \n';
+  markdown += 'Visit **[VeriNokta](https://verinokta.com)** — Türkiye Açık Veri, Enflasyon ve Kamu Göstergeleri Portalı.\n\n';
+  markdown += '---\n\n';
+  markdown += '# AUTO-GENERATED: DO NOT MODIFY MANUALLY\n\n';
   markdown += '**See [CONTRIBUTION.md](CONTRIBUTION.md) for instructions on how to contribute.**\n\n';
   markdown += '----------\n\n';
 
