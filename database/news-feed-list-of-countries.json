@@ -7418,6 +7418,16 @@
           "uri": "https://news.livedoor.com/topics/rss/top.xml"
         }
       ]
+    },
+    {
+      "publication_name": "Joho no Todai (English)",
+      "publication_website_uri": "https://joho-todai.com/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://joho-todai.com/en/rss/",
+          "category": "Tech"
+        }
+      ]
     }
   ],
   "KAZ": [
