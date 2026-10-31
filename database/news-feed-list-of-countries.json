@@ -2490,6 +2490,15 @@
           "uri": "http://www.virumaateataja.ee/rss/"
         }
       ]
+    },
+    {
+      "publication_name": "Uudised.ai",
+      "publication_website_uri": "https://uudised.ai/",
+      "publication_rss_feed_uris": [
+        {
+          "uri": "https://uudised.ai/feed.xml"
+        }
+      ]
     }
   ],
   "ETH": [
